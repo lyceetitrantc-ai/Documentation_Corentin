@@ -23,7 +23,7 @@ Ici vous publierez le poster de votre projet.
 ## Vidéo
 
 Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
+- 1min30 au format vertical
 - Présentation du projet 
 - Des explication du fonctionnement du projet
 - Des vues du projet / Prototype / Application etc... 
