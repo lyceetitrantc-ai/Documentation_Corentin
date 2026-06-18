@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: semaine 4 
+parent: Documentation continue
 nav_order: 2
-title: Modifier facilement Votre Site Jekyll sur GitHub
+title: Semaine 4 
 ---
 
 # Modifier Votre Site Jekyll sur GitHub
