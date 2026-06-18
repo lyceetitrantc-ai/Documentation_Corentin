@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Premiers pas sur le template
+title: Documentation continue 
 nav_order: 2
 has_children: true
 ---

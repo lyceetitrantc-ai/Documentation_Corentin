@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Premiers pas sur le template
+parent: semaine 4 
 nav_order: 2
 title: Modifier facilement Votre Site Jekyll sur GitHub
 ---
