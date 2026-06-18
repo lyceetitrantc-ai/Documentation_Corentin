@@ -1,7 +1,7 @@
 ---
 layout: default
-title: semaine 1 
-parent: Premiers pas sur le template
+title: semaine 1
+parent: Documentation continue 
 nav_order: 1
 ---
 

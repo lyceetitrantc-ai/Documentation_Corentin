@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: semaine 2 
-nav_order: 3
-title: Guide de Syntaxe Markdown
+parent: Documentation continue 
+nav_order: 2
+title: semaine 2
 ---
 
 # Guide de Syntaxe Markdown
