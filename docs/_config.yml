@@ -7,7 +7,6 @@ description: Documentation du projet
 # remote_theme: Makerspace-Amiens/CraftTheDocs-V1.0
 theme: just-the-docs
 url: https://github.com/Makerspace-Amiens
-baseurl: /Documentation_Corentin
 
 # Paramètres optionnels de "Just the Docs"
 just_the_docs:
