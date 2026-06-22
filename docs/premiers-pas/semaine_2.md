@@ -5,149 +5,54 @@ nav_order: 2
 title: semaine 2
 ---
 
-# Guide de Syntaxe Markdown
+# Semaine 2 – Poursuite du projet Gridfinity et découverte des problématiques d'impression 3D
 
-Markdown est un langage de balisage léger conçu pour être converti en HTML. Il est souvent utilisé pour formater des fichiers README, pour écrire des messages dans des forums en ligne, et pour créer des documents texte riches en utilisant un éditeur de texte brut. Son objectif principal est la lisibilité et la facilité d'utilisation.
+## Introduction
 
-## Qu'est-ce que Markdown ?
+Cette deuxième semaine de stage a principalement été consacrée à la poursuite de l'impression des bacs de rangement destinés au système Gridfinity. Cette phase de production m'a permis de découvrir davantage le fonctionnement des imprimantes 3D du Makerspace ainsi que certaines problématiques courantes rencontrées lors des impressions. J'ai également participé à la mise en place d'un site web destiné au suivi quotidien des activités réalisées pendant le stage.
 
-Markdown a été créé en 2004 par John Gruber avec l'aide d'Aaron Swartz, avec l'idée de permettre aux gens d'écrire en utilisant un format de texte brut facile à lire et à écrire, qui pourrait être converti en HTML de manière transparente.
-
-## Pourquoi utiliser Markdown ?
-
-- **Simplicité et facilité d'apprentissage :** La syntaxe de Markdown est très simple à apprendre, ce qui en fait un bon choix pour ceux qui ne sont pas familiers avec les langages de balisage plus complexes comme HTML.
-- **Portabilité :** Les fichiers Markdown sont des fichiers texte brut, donc ils sont légers et compatibles avec de nombreuses plateformes et éditeurs de texte.
-- **Flexibilité :** Markdown est souvent utilisé pour la documentation de projets, les fichiers README, et les forums en ligne, mais il peut également être utilisé pour créer des livres, des présentations et d'autres types de documents.
-- **Conversion en d'autres formats :** Il est facile de convertir des fichiers Markdown en HTML, PDF, et d'autres formats.
-
-## Comment utiliser ce guide ?
-
-Ce guide fournit des exemples de la syntaxe de base de Markdown. Vous pouvez vous référer à ce guide pour comprendre comment formater vos textes en Markdown.
-
-
-## Titres
-
-Les titres sont créés en utilisant le symbole `#`. Le nombre de `#` détermine le niveau du titre.
-
-```
-# Titre de niveau 1
-## Titre de niveau 2
-### Titre de niveau 3
-#### Titre de niveau 4
-##### Titre de niveau 5
-###### Titre de niveau 6
-```
-
-## Texte en gras et en italique
-
-*Texte en italique* s'écrit en entourant le texte de `*` ou de `_`.
-**Texte en gras** utilise deux `*` ou `_` de chaque côté.
-***Texte en gras et en italique*** combine les deux.
-
-```
-*Texte en italique*
-_Texte en italique_
-**Texte en gras**
-__Texte en gras__
-***Texte en gras et en italique***
-```
-
-## Listes
-
-### Listes non ordonnées
-
-Utilisez `*`, `+`, ou `-` pour les éléments de la liste.
-
-```
-* Élément 1
-* Élément 2
-  * Sous-élément 2.1
-  * Sous-élément 2.2
-```
-
-### Listes ordonnées
-
-Les nombres suivis d'un point créent une liste ordonnée.
-
-```
-1. Premier élément
-2. Deuxième élément
-   1. Sous-élément 2.1
-   2. Sous-élément 2.2
-```
-
-## Liens
-
-Pour créer un lien, mettez le texte du lien entre crochets `[]` et l'URL entre parenthèses `()`.
-
-```
-[OpenAI](https://www.openai.com)
-```
-
-## Images
-
-Les images sont similaires aux liens, mais avec un point d'exclamation `!` devant.
-
-```
-![Alt text](url_de_l'image.jpg)
-```
-
-## Citations
-
-Les citations sont créées en utilisant le symbole `>`.
-
-```
-> Ceci est une citation.
-```
-
-## Code
-
-Pour un bloc de code, utilisez trois backticks `` ``` `` ou quatre espaces d'indentation. Pour du code inline, utilisez un seul backtick.
-
-```
-    Ceci est un bloc de code
-```
-
-```
-`Ceci est du code inline`
-```
-
-*Exemple* :
-
-```cpp
-// Code Arduino pour faire clignoter une LED
-void setup() {
-  pinMode(13, OUTPUT); // Initialise la broche 13 en tant que sortie
-}
-
-void loop() {
-  digitalWrite(13, HIGH);   // Allume la LED
-  delay(1000);              // Attend une seconde
-  digitalWrite(13, LOW);    // Éteint la LED
-  delay(1000);              // Attend une seconde
-}
-```
-
-## Lignes horizontales
-
-Utilisez trois ou plus de `*`, `-`, ou `_` pour créer une ligne horizontale.
-
-```
 ---
-```
 
-## Tableaux
+# Début de semaine (Jour : 5 à 8 ) – Impression des bacs
 
-Créez des tableaux en séparant les textes par des barres verticales `|` et des tirets `-`.
+Les premiers jours de la semaine ont été consacrés à la poursuite de l'impression des différents bacs de rangement conçus pour organiser les vis, écrous et autres petites pièces du Makerspace.
 
-```
-| En-tête 1 | En-tête 2 |
-| --------- | --------- |
-| Cellule 1 | Cellule 2 |
-| Cellule 3 | Cellule 4 |
-```
+Les impressions se sont déroulées sans difficulté particulière. Cette phase a permis d'avancer efficacement dans la production des éléments nécessaires au projet et de compléter progressivement le système de rangement commencé la semaine précédente.
 
+# Jour 9 – Gestion d'un échec d'impression et découverte de nouvelles notions
 
-## Aller plus loin
+Au cours de cette journée, j'ai rencontré mon premier véritable problème d'impression. Alors qu'une impression était en cours, l'imprimante s'est retrouvée à court de filament. J'ai donc procédé au remplacement de la bobine en suivant la procédure prévue à cet effet.
 
-Si vous souhaitez aller plus loin, vous pouvez vous rendre sur la page de documentation du template du site ["Just the Docs"](https://just-the-docs.com).
+Après avoir chargé le nouveau filament et effectué une extrusion de test, tout semblait fonctionner correctement. J'ai alors relancé l'impression. Cependant, quelques secondes plus tard, je me suis aperçu que le filament n'était pas correctement déposé sur la pièce. J'ai donc interrompu l'impression et relancé la procédure de chargement du filament.
+
+Même si l'impression a pu reprendre, une couche manquait déjà sur la pièce. Cette différence a créé un défaut structurel. Les variations de température entre les différentes couches ont provoqué un mauvais collage du plastique, ce qui a entraîné un décalage progressif de l'impression et finalement son échec. Cette expérience m'a permis de mieux comprendre l'importance de la continuité du dépôt de matière lors d'une impression 3D.
+
+Cette journée m'a également permis d'apprendre plusieurs notions théoriques importantes. J'ai notamment découvert le phénomène de *warping*. Celui-ci apparaît lorsqu'une pièce refroidit de manière inégale : la base reste chaude grâce au plateau chauffant tandis que les couches supérieures refroidissent plus rapidement. Cette différence de température provoque des contraintes dans le plastique qui peuvent soulever les coins de la pièce et déformer l'impression.
+
+J'ai aussi appris le rôle du ventilateur de refroidissement présent sur les imprimantes 3D. Celui-ci permet de refroidir rapidement le filament après son extrusion afin de garantir une meilleure qualité d'impression. Il est particulièrement utile lors de la réalisation de ponts (*bridges*), où le filament doit être déposé dans le vide entre deux points d'appui sans s'affaisser.
+
+En parallèle, nous avons commencé à mettre en place un site web permettant de réaliser un reporting quotidien des activités du stage. Ce site est hébergé à l'aide de GitHub et servira à documenter l'ensemble des travaux effectués au fil des semaines.
+
+# Jour 10 – Production de grands bacs et découverte de nouveaux équipements
+
+L'objectif de cette journée était de poursuivre la création du système de rangement en imprimant des bacs de plus grande capacité.
+
+Après avoir commencé à remplir les premiers bacs avec des vis et des écrous, nous avons constaté que certains composants étaient présents en grande quantité. Afin d'éviter de répartir un même type de vis dans plusieurs contenants différents, j'ai décidé d'imprimer des bacs plus grands afin de centraliser le stockage de chaque référence.
+
+Pour gagner du temps, j'ai utilisé une imprimante Bambu Lab P1P. Son plateau d'impression étant plus grand que celui de la Bambu Lab A1 Mini, elle permet de produire davantage de pièces en une seule impression et d'accélérer la fabrication des bacs.
+
+Une fois les impressions terminées, nous avons commencé à étiqueter les différents contenants afin de faciliter l'identification des vis et des écrous. Cette étape constitue une partie importante du projet puisqu'elle permettra aux utilisateurs de retrouver rapidement les composants recherchés.
+
+Au cours de la journée, j'ai également observé un problème technique sur l'une des imprimantes P1P. Lors de la phase de purge du filament, le plastique fondu restait parfois collé à la buse au lieu d'être correctement évacué. Ce phénomène pouvait provoquer une mauvaise alimentation en filament ou perturber le début de l'impression.
+
+Dans certains cas, le filament utilisé pour les lignes de test restait également accroché à la buse. Cela pouvait entraîner un décalage du dépôt de matière ou gêner les premiers mouvements de la tête d'impression, ce qui augmentait les risques d'échec.
+
+Enfin, j'ai eu l'occasion d'utiliser une Bambu Lab X1 Carbon. Cette machine plus avancée m'a permis de découvrir un autre type d'imprimante 3D ainsi que ses fonctionnalités spécifiques.
+
+# Bilan de la semaine
+
+Cette deuxième semaine m'a permis d'avancer significativement dans la réalisation du système de rangement Gridfinity. La majorité des bacs nécessaires a été imprimée et les premières opérations de classement des vis et des écrous ont pu commencer.
+
+J'ai également approfondi mes connaissances sur le fonctionnement des imprimantes 3D en découvrant plusieurs phénomènes techniques tels que le warping, le refroidissement du filament ou encore les causes possibles d'échec d'impression. L'utilisation de différentes machines du Makerspace, notamment les Bambu Lab P1P et X1 Carbon, m'a permis d'élargir mon expérience pratique de l'impression 3D.
+
+Enfin, la mise en place d'un site web de suivi quotidien constitue une étape importante pour documenter le travail réalisé tout au long du stage.
