@@ -27,7 +27,7 @@ La Bambu Lab A1 Mini est une imprimante 3D compacte particulièrement adaptée a
 * Plateau d'impression limité.
 * Peu adaptée aux très grandes pièces.
 
-## Bambu Lab P1P
+## Bambu Lab P1P {#bambu-lab-p1p}
 
 ![Photo de la Bambu Lab P1P](images/p1p.jpg)
 
@@ -44,7 +44,7 @@ La Bambu Lab P1P est une imprimante performante permettant de produire rapidemen
 
 * Plus sensible à certains problèmes d'impression lorsqu'elle est mal entretenue.
 
-## Bambu Lab X1 Carbon
+## Bambu Lab X1 Carbon {#bambu-lab-x1-carbon}
 
 ![Photo de la Bambu Lab X1 Carbon](images/x1carbon.jpg)
 

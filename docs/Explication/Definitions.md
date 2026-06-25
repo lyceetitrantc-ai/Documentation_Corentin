@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Définition 
+title: Définitions 
 parent: Matériel et Définition 
 nav_order: 1
 ---
@@ -9,7 +9,7 @@ nav_order: 1
 
 Cette page regroupe les principaux termes techniques rencontrés durant mon stage.
 
-## Gridfinity
+## Gridfinity {#gridfinity}
 
 ![Photo du système Gridfinity](images/gridfinity.jpg)
 
@@ -27,13 +27,13 @@ OrcaSlicer est un logiciel de préparation d'impression 3D. Il permet de convert
 
 Le PLA (Acide Polylactique) est l'un des matériaux les plus utilisés en impression 3D. Il est facile à imprimer, peu coûteux et adapté à de nombreux projets.
 
-## Warping
+## Warping {#warping}
 
 ![Photo d'un exemple de warping](images/warping.jpg)
 
 Le warping est un défaut d'impression qui apparaît lorsque les coins d'une pièce se décollent du plateau. Ce phénomène est provoqué par une différence de température entre les différentes parties de la pièce pendant le refroidissement.
 
-## Bridge (Pont)
+## Bridge (Pont) {#bridge-pont}
 
 ![Photo d'un bridge](images/bridge.jpg)
 
