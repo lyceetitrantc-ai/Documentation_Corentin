@@ -15,13 +15,13 @@ Cette page regroupe les principaux termes techniques rencontrés durant mon stag
 
 Gridfinity est un système de rangement modulaire conçu pour l'impression 3D. Il repose sur une grille standardisée permettant de créer des bacs de différentes tailles qui s'emboîtent dans des tiroirs ou sur des plaques de base. Son objectif est d'améliorer l'organisation du matériel et de faciliter le rangement.
 
-## OrcaSlicer
+## OrcaSlicer {#orcaslicer}
 
 ![Capture d'écran OrcaSlicer](images/orcaslicer.jpg)
 
 OrcaSlicer est un logiciel de préparation d'impression 3D. Il permet de convertir un modèle 3D en instructions compréhensibles par l'imprimante. Cette étape est appelée le « tranchage » (*slicing*).
 
-## PLA
+## PLA {#pla}
 
 ![Photo d'une bobine de PLA](images/pla.jpg)
 
@@ -39,31 +39,31 @@ Le warping est un défaut d'impression qui apparaît lorsque les coins d'une pi�
 
 Un bridge, ou pont, est une partie d'une impression réalisée dans le vide entre deux points d'appui. L'imprimante doit déposer le filament sans support intermédiaire. Un bon refroidissement est nécessaire pour réussir ce type d'impression.
 
-## Extrudeur
+## Extrudeur {#extrudeur}
 
 ![Photo de l'extrudeur](images/extrudeur.jpg)
 
 L'extrudeur est l'élément de l'imprimante qui pousse le filament vers la buse afin qu'il puisse être fondu puis déposé couche par couche.
 
-## Buse
+## Buse {#buse}
 
 ![Photo de la buse](images/buse.jpg)
 
 La buse est la pièce située à l'extrémité de la tête d'impression. Elle chauffe le filament et permet son dépôt précis sur la pièce en cours d'impression.
 
-## Plateau chauffant
+## Plateau chauffant {#plateau-chauffant}
 
 ![Photo du plateau chauffant](images/plateau.jpg)
 
 Le plateau chauffant est la surface sur laquelle les pièces sont imprimées. Son rôle est d'améliorer l'adhérence des premières couches et de limiter les déformations.
 
-## Tranchage (Slicing)
+## Tranchage (Slicing) {#tranchage-slicing}
 
 ![Illustration du slicing](images/slicing.jpg)
 
 Le tranchage consiste à découper virtuellement un modèle 3D en couches afin de générer le fichier utilisé par l'imprimante. Cette opération est réalisée à l'aide d'un logiciel comme OrcaSlicer.
 
-## G-code
+## G-code {#g-code}
 
 ![Exemple de G-code](images/gcode.jpg)
 

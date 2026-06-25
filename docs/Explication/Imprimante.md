@@ -9,7 +9,7 @@ nav_order: 2
 
 Au cours de mon stage, j'ai eu l'occasion de découvrir et d'utiliser plusieurs imprimantes 3D présentes au Makerspace. Chaque machine possède ses propres caractéristiques et répond à des besoins différents.
 
-## Bambu Lab A1 Mini
+## Bambu Lab A1 Mini {#bambu-lab-a1-mini}
 
 ![Photo de la Bambu Lab A1 Mini](images/a1mini.jpg)
 
@@ -61,7 +61,7 @@ La Bambu Lab X1 Carbon est une imprimante haut de gamme intégrant de nombreuses
 
 * Coût plus élevé.
 
-## Imprimantes Artillery
+## Imprimantes Artillery {#imprimantes-artillery}
 
 ![Photo d'une imprimante Artillery](images/artillery.jpg)
 
