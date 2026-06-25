@@ -1,0 +1,70 @@
+---
+layout: default
+title: Définition 
+parent: Matériel et Définition 
+nav_order: 1
+---
+
+# Définitions
+
+Cette page regroupe les principaux termes techniques rencontrés durant mon stage.
+
+## Gridfinity
+
+![Photo du système Gridfinity](images/gridfinity.jpg)
+
+Gridfinity est un système de rangement modulaire conçu pour l'impression 3D. Il repose sur une grille standardisée permettant de créer des bacs de différentes tailles qui s'emboîtent dans des tiroirs ou sur des plaques de base. Son objectif est d'améliorer l'organisation du matériel et de faciliter le rangement.
+
+## OrcaSlicer
+
+![Capture d'écran OrcaSlicer](images/orcaslicer.jpg)
+
+OrcaSlicer est un logiciel de préparation d'impression 3D. Il permet de convertir un modèle 3D en instructions compréhensibles par l'imprimante. Cette étape est appelée le « tranchage » (*slicing*).
+
+## PLA
+
+![Photo d'une bobine de PLA](images/pla.jpg)
+
+Le PLA (Acide Polylactique) est l'un des matériaux les plus utilisés en impression 3D. Il est facile à imprimer, peu coûteux et adapté à de nombreux projets.
+
+## Warping
+
+![Photo d'un exemple de warping](images/warping.jpg)
+
+Le warping est un défaut d'impression qui apparaît lorsque les coins d'une pièce se décollent du plateau. Ce phénomène est provoqué par une différence de température entre les différentes parties de la pièce pendant le refroidissement.
+
+## Bridge (Pont)
+
+![Photo d'un bridge](images/bridge.jpg)
+
+Un bridge, ou pont, est une partie d'une impression réalisée dans le vide entre deux points d'appui. L'imprimante doit déposer le filament sans support intermédiaire. Un bon refroidissement est nécessaire pour réussir ce type d'impression.
+
+## Extrudeur
+
+![Photo de l'extrudeur](images/extrudeur.jpg)
+
+L'extrudeur est l'élément de l'imprimante qui pousse le filament vers la buse afin qu'il puisse être fondu puis déposé couche par couche.
+
+## Buse
+
+![Photo de la buse](images/buse.jpg)
+
+La buse est la pièce située à l'extrémité de la tête d'impression. Elle chauffe le filament et permet son dépôt précis sur la pièce en cours d'impression.
+
+## Plateau chauffant
+
+![Photo du plateau chauffant](images/plateau.jpg)
+
+Le plateau chauffant est la surface sur laquelle les pièces sont imprimées. Son rôle est d'améliorer l'adhérence des premières couches et de limiter les déformations.
+
+## Tranchage (Slicing)
+
+![Illustration du slicing](images/slicing.jpg)
+
+Le tranchage consiste à découper virtuellement un modèle 3D en couches afin de générer le fichier utilisé par l'imprimante. Cette opération est réalisée à l'aide d'un logiciel comme OrcaSlicer.
+
+## G-code
+
+![Exemple de G-code](images/gcode.jpg)
+
+Le G-code est le langage utilisé par les imprimantes 3D. Il contient l'ensemble des instructions nécessaires à la fabrication de la pièce, comme les déplacements, les températures ou la vitesse d'impression.

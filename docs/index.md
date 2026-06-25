@@ -5,35 +5,34 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# Bienvenue sur le site de suivi de mon stage
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+## Présentation
 
+Ce site a été réalisé dans le cadre de mon stage au Makerspace. Il a pour objectif de présenter l'avancement de mon travail, les missions qui me sont confiées ainsi que les différentes réalisations effectuées tout au long du stage.
 
-## À propos du Projet
+Le projet principal porte sur l'amélioration de l'organisation des espaces de stockage et la réflexion autour de nouveaux processus permettant de faciliter l'utilisation des ressources du Makerspace. Une attention particulière est également portée à la sécurité, à la gestion du matériel et à la documentation des actions réalisées.
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+## Contexte du projet
 
+Au début du stage, plusieurs problématiques ont été identifiées concernant l'organisation du stockage. Certains espaces manquaient de structure, plusieurs objets ne disposaient pas d'emplacements clairement définis et le suivi du matériel pouvait être amélioré. L'objectif est donc de proposer et de mettre en œuvre des solutions permettant d'optimiser ces différents aspects.
 
-## Poster
+Par ailleurs, aucune documentation continue des projets n'était disponible. Ce site a donc également pour vocation de servir d'exemple de suivi de projet en regroupant les différentes étapes du stage, les observations réalisées, les solutions mises en place ainsi que les compétences acquises.
 
-Ici vous publierez le poster de votre projet.
+## Missions réalisées
 
-![Poster projet](images/poster.jpg)
+Tout au long du stage, je travaille sur plusieurs aspects complémentaires. Cela comprend l'analyse des espaces du Makerspace, la recherche de solutions d'organisation, la réorganisation du matériel, la mise en place d'un système de rangement basé sur Gridfinity ainsi que la création de cette documentation en ligne.
 
-## Vidéo
+Une partie importante du projet repose sur l'utilisation de l'impression 3D afin de concevoir et fabriquer des solutions de rangement adaptées aux besoins du Makerspace.
 
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
+## Objectifs du stage
 
-<!--
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
--->
+L'objectif principal est d'améliorer l'organisation des espaces de stockage afin de les rendre plus pratiques, plus sûrs et plus faciles à utiliser. Le projet vise également à optimiser le rangement des composants, à faciliter le suivi des ressources disponibles et à proposer des pistes d'amélioration concernant la gestion du matériel et des déchets.
 
----
+Enfin, la création de ce site permet de conserver une trace du travail réalisé et de partager les résultats obtenus tout au long du stage.
+
+## Contenu du site
+
+Vous trouverez sur ce site un suivi hebdomadaire de mes activités, des explications sur les projets réalisés, des photographies illustrant certaines étapes du travail ainsi qu'un bilan des compétences développées pendant le stage.
+
+Bonne visite !
