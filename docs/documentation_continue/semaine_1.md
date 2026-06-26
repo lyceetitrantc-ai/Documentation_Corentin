@@ -11,7 +11,7 @@ nav_order: 1
 
 ## Introduction
 
-Cette première semaine de stage a été consacrée à la découverte du Makerspace, à l'analyse de l'organisation des différents espaces et à la mise en place d'un projet d'amélioration du rangement. Une grande partie du travail a porté sur la préparation d'un système de stockage modulaire basé sur [Gridfinity](../materiel-et-definition/definitions/#gridfinity) afin d'optimiser le rangement des vis et des petites pièces.
+Cette première semaine de stage a été consacrée à la découverte du Makerspace, à l'analyse de l'organisation des différents espaces et à la mise en place d'un projet d'amélioration du rangement. Une grande partie du travail a porté sur la préparation d'un système de stockage modulaire basé sur [Gridfinity](../Explication/definitions/#gridfinity) afin d'optimiser le rangement des vis et des petites pièces.
 
 ---
 
@@ -43,7 +43,7 @@ Enfin, une réflexion a été menée sur la gestion du stock. Une solution inté
 
 # Jour 2 – Découverte de Gridfinity et tri du matériel
 
-Lors de cette deuxième journée, j'ai découvert le système de rangement modulaire [Gridfinity](../materiel-et-definition/definitions/#gridfinity), très utilisé en impression 3D. Son principe repose sur une grille standardisée permettant de créer des bacs de différentes tailles qui s'emboîtent parfaitement dans des tiroirs ou des espaces de stockage.
+Lors de cette deuxième journée, j'ai découvert le système de rangement modulaire [Gridfinity](../Explication/definitions/#gridfinity), très utilisé en impression 3D. Son principe repose sur une grille standardisée permettant de créer des bacs de différentes tailles qui s'emboîtent parfaitement dans des tiroirs ou des espaces de stockage.
 
 J'ai commencé à rechercher différents modèles disponibles en ligne afin de comprendre le fonctionnement du système et d'identifier les pièces qui pourraient être utiles pour le projet.
 
@@ -57,7 +57,7 @@ Une partie de la journée a également été consacrée au tri du matériel pré
 
 Cette journée a été consacrée à la préparation du système de rangement destiné à un tiroir de stockage.
 
-J'ai commencé par rechercher différents modèles de bacs et de tiroirs compatibles avec [Gridfinity](../materiel-et-definition/definitions/#gridfinity). Ces recherches m'ont permis de découvrir de nombreuses variantes adaptées au rangement des vis, des écrous et d'autres petites pièces.
+J'ai commencé par rechercher différents modèles de bacs et de tiroirs compatibles avec [Gridfinity](../Explication/definitions/#gridfinity). Ces recherches m'ont permis de découvrir de nombreuses variantes adaptées au rangement des vis, des écrous et d'autres petites pièces.
 
 Afin de préparer correctement le projet, j'ai pris les dimensions du tiroir concerné. Les mesures relevées sont les suivantes :
 
@@ -69,9 +69,9 @@ Afin de préparer correctement le projet, j'ai pris les dimensions du tiroir con
 
 Après analyse, j'ai constaté que toute la largeur du tiroir n'était pas réellement utilisable. Une partie doit rester libre afin de pouvoir sortir facilement les bacs de rangement. La largeur exploitable est donc de 46,7 cm.
 
-Le système [Gridfinity](../materiel-et-definition/definitions/#gridfinity) étant basé sur des modules de 4,2 cm × 4,2 cm, j'ai effectué les calculs nécessaires afin de déterminer le nombre de cases pouvant être installées dans le tiroir. Le résultat obtenu est une grille de 18 modules de longueur sur 11 modules de largeur.
+Le système [Gridfinity](../Explication/definitions/#gridfinity) étant basé sur des modules de 4,2 cm × 4,2 cm, j'ai effectué les calculs nécessaires afin de déterminer le nombre de cases pouvant être installées dans le tiroir. Le résultat obtenu est une grille de 18 modules de longueur sur 11 modules de largeur.
 
-J'ai également installé et configuré [OrcaSlicer](../materiel-et-definition/definitions/#orcaslicer) sur mon ordinateur afin de préparer les futures impressions 3D. Cette étape m'a permis de découvrir les bases du [tranchage (slicing)](../materiel-et-definition/definitions/#tranchage-slicing) de modèles et de la préparation des fichiers destinés aux imprimantes.
+J'ai également installé et configuré [OrcaSlicer](../Explication/definitions/#orcaslicer) sur mon ordinateur afin de préparer les futures impressions 3D. Cette étape m'a permis de découvrir les bases du [tranchage (slicing)](../Explication/definitions/#tranchage-slicing) de modèles et de la préparation des fichiers destinés aux imprimantes.
 
 ![Capture OrcaSlicer](images/orcaslicer.jpg)
 
@@ -79,7 +79,7 @@ J'ai également installé et configuré [OrcaSlicer](../materiel-et-definition/d
 
 Au cours de cette journée, j'ai aussi pris connaissance de la documentation disponible pour les machines. Les guides d'utilisation, accessibles grâce à des QR codes placés sur les équipements, constituent une ressource très utile pour apprendre rapidement à utiliser les différents outils du Makerspace.
 
-J'ai enfin pu redécouvrir le parc d'imprimantes 3D du Makerspace, comprenant notamment les [Bambu Lab A1 Mini](../materiel-et-definition/imprimantes/#bambu-lab-a1-mini), les [Bambu Lab P1P](../materiel-et-definition/imprimantes/#bambu-lab-p1p), la [Bambu Lab X1 Carbon](../materiel-et-definition/imprimantes/#bambu-lab-x1-carbon) ainsi que plusieurs [imprimantes Artillery](../materiel-et-definition/imprimantes/#imprimantes-artillery). 
+J'ai enfin pu redécouvrir le parc d'imprimantes 3D du Makerspace, comprenant notamment les [Bambu Lab A1 Mini](../Explication/imprimantes/#bambu-lab-a1-mini), les [Bambu Lab P1P](../Explication/imprimantes/#bambu-lab-p1p), la [Bambu Lab X1 Carbon](../Explication/imprimantes/#bambu-lab-x1-carbon) ainsi que plusieurs [imprimantes Artillery](../Explication/imprimantes/#imprimantes-artillery). 
 
 # Jour 4 – Impression des grilles et choix des bacs
 
@@ -113,4 +113,4 @@ Au fur et à mesure de l'avancement, il a été possible de visualiser l'organis
 
 Cette première semaine m'a permis de découvrir le fonctionnement général du Makerspace ainsi que les différents espaces qui le composent. J'ai participé à l'analyse de plusieurs problématiques de rangement et proposé différentes pistes d'amélioration visant à rendre les espaces plus pratiques et plus sécurisés.
 
-J'ai également découvert le système [Gridfinity](../materiel-et-definition/definitions/#gridfinity), appris à utiliser [OrcaSlicer](../materiel-et-definition/definitions/#orcaslicer) et réalisé mes premières impressions dans le cadre d'un projet concret. Les différents tests effectués ont permis de valider la conception du futur système de rangement, dont la mise en place se poursuivra au cours des prochaines semaines.
+J'ai également découvert le système [Gridfinity](../Explication/definitions/#gridfinity), appris à utiliser [OrcaSlicer](../Explication/definitions/#orcaslicer) et réalisé mes premières impressions dans le cadre d'un projet concret. Les différents tests effectués ont permis de valider la conception du futur système de rangement, dont la mise en place se poursuivra au cours des prochaines semaines.

@@ -9,7 +9,7 @@ title: semaine 2
 
 ## Introduction
 
-Cette deuxième semaine de stage a principalement été consacrée à la poursuite de l'impression des bacs de rangement destinés au système [Gridfinity](../definitions/#gridfinity). Cette phase de production m'a permis de découvrir davantage le fonctionnement des imprimantes 3D du Makerspace ainsi que certaines problématiques courantes rencontrées lors des impressions. J'ai également participé à la mise en place d'un site web destiné au suivi quotidien des activités réalisées pendant le stage.
+Cette deuxième semaine de stage a principalement été consacrée à la poursuite de l'impression des bacs de rangement destinés au système [Gridfinity](Explication/Definitions/#gridfinity). Cette phase de production m'a permis de découvrir davantage le fonctionnement des imprimantes 3D du Makerspace ainsi que certaines problématiques courantes rencontrées lors des impressions. J'ai également participé à la mise en place d'un site web destiné au suivi quotidien des activités réalisées pendant le stage.
 
 ---
 
@@ -37,13 +37,13 @@ Même si l'impression a pu reprendre, une couche manquait déjà sur la pièce. 
 
 *Figure 2 : Échec d'impression causé par l'absence d'une couche après le changement de filament.*
 
-Cette journée m'a également permis d'apprendre plusieurs notions théoriques importantes. J'ai notamment découvert le phénomène de [warping](../definitions/#warping). Celui-ci apparaît lorsqu'une pièce refroidit de manière inégale : la base reste chaude grâce au plateau chauffant tandis que les couches supérieures refroidissent plus rapidement. Cette différence de température provoque des contraintes dans le plastique qui peuvent soulever les coins de la pièce et déformer l'impression.
+Cette journée m'a également permis d'apprendre plusieurs notions théoriques importantes. J'ai notamment découvert le phénomène de [warping](Explication/Definitions/#warping). Celui-ci apparaît lorsqu'une pièce refroidit de manière inégale : la base reste chaude grâce au plateau chauffant tandis que les couches supérieures refroidissent plus rapidement. Cette différence de température provoque des contraintes dans le plastique qui peuvent soulever les coins de la pièce et déformer l'impression.
 
 ![Exemple de warping](../assets/images/semaine2/warping.jpg)
 
 *Figure 3 : Exemple de warping observé sur une pièce imprimée.*
 
-J'ai aussi appris le rôle du ventilateur de refroidissement présent sur les imprimantes 3D. Celui-ci permet de refroidir rapidement le filament après son extrusion afin de garantir une meilleure qualité d'impression. Il est particulièrement utile lors de la réalisation de [bridges](../definitions/#bridge-pont), où le filament doit être déposé dans le vide entre deux points d'appui sans s'affaisser.
+J'ai aussi appris le rôle du ventilateur de refroidissement présent sur les imprimantes 3D. Celui-ci permet de refroidir rapidement le filament après son extrusion afin de garantir une meilleure qualité d'impression. Il est particulièrement utile lors de la réalisation de [bridges](Explication/Definitions/#bridge-pont), où le filament doit être déposé dans le vide entre deux points d'appui sans s'affaisser.
 
 ![Exemple de bridge](../assets/images/semaine2/bridge.jpg)
 
@@ -63,7 +63,7 @@ L'objectif de cette journée était de poursuivre la création du système de ra
 
 Après avoir commencé à remplir les premiers bacs avec des vis et des écrous, nous avons constaté que certains composants étaient présents en grande quantité. Afin d'éviter de répartir un même type de vis dans plusieurs contenants différents, j'ai décidé d'imprimer des bacs plus grands afin de centraliser le stockage de chaque référence.
 
-Pour gagner du temps, j'ai utilisé une [Bambu Lab P1P](../materiel/#bambu-lab-p1p). Son plateau d'impression étant plus grand que celui de la Bambu Lab A1 Mini, elle permet de produire davantage de pièces en une seule impression et d'accélérer la fabrication des bacs.
+Pour gagner du temps, j'ai utilisé une [Bambu Lab P1P](Explication/Imprimantes/#bambu-lab-p1p). Son plateau d'impression étant plus grand que celui de la Bambu Lab A1 Mini, elle permet de produire davantage de pièces en une seule impression et d'accélérer la fabrication des bacs.
 
 ![Bambu Lab P1P](../assets/images/semaine2/p1p.jpg)
 
@@ -87,7 +87,7 @@ Dans certains cas, le filament utilisé pour les lignes de test restait égaleme
 
 *Figure 9 : Exemple d'une ligne de test restée accrochée à la buse.*
 
-Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../materiel/#bambu-lab-x1-carbon). Cette machine plus avancée m'a permis de découvrir un autre type d'imprimante 3D ainsi que ses fonctionnalités spécifiques.
+Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](Explication/Imprimantes/#bambu-lab-x1-carbon). Cette machine plus avancée m'a permis de découvrir un autre type d'imprimante 3D ainsi que ses fonctionnalités spécifiques.
 
 ![Bambu Lab X1 Carbon](../assets/images/semaine2/x1carbon.jpg)
 
@@ -99,7 +99,7 @@ Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../materiel/#bamb
 
 Cette deuxième semaine m'a permis d'avancer significativement dans la réalisation du système de rangement Gridfinity. La majorité des bacs nécessaires a été imprimée et les premières opérations de classement des vis et des écrous ont pu commencer.
 
-J'ai également approfondi mes connaissances sur le fonctionnement des imprimantes 3D en découvrant plusieurs phénomènes techniques tels que le [warping](../definitions/#warping), le refroidissement du filament ou encore les causes possibles d'échec d'impression. L'utilisation de différentes machines du Makerspace, notamment les [Bambu Lab P1P](../materiel/#bambu-lab-p1p) et [Bambu Lab X1 Carbon](../materiel/#bambu-lab-x1-carbon), m'a permis d'élargir mon expérience pratique de l'impression 3D.
+J'ai également approfondi mes connaissances sur le fonctionnement des imprimantes 3D en découvrant plusieurs phénomènes techniques tels que le [warping](Explication/Definitions/#warping), le refroidissement du filament ou encore les causes possibles d'échec d'impression. L'utilisation de différentes machines du Makerspace, notamment les [Bambu Lab P1P](Explication/Imprimantes/#bambu-lab-p1p) et [Bambu Lab X1 Carbon](Explication/Imprimantes/#bambu-lab-x1-carbon), m'a permis d'élargir mon expérience pratique de l'impression 3D.
 
 Enfin, la mise en place d'un site web de suivi quotidien constitue une étape importante pour documenter le travail réalisé tout au long du stage.
 
