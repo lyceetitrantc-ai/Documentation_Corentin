@@ -68,3 +68,28 @@ Le tranchage consiste à découper virtuellement un modèle 3D en couches afin d
 ![Exemple de G-code](images/gcode.jpg)
 
 Le G-code est le langage utilisé par les imprimantes 3D. Il contient l'ensemble des instructions nécessaires à la fabrication de la pièce, comme les déplacements, les températures ou la vitesse d'impression.
+
+## Brim {#brim}
+
+![Exemple de brim](../assets/images/definitions/brim.jpg)
+
+Le **brim** est une bordure imprimée autour de la première couche d'une pièce. Son rôle est d'augmenter la surface de contact avec le plateau afin d'améliorer l'adhérence et de limiter les risques de warping. Une fois l'impression terminée, cette bordure est retirée.
+
+## Purge {#purge}
+
+![Exemple de purge](../assets/images/definitions/purge.jpg)
+
+La **purge** consiste à extruder une petite quantité de filament avant le début de l'impression. Cette opération permet de nettoyer la buse, de vérifier que le filament circule correctement et d'éliminer les éventuels résidus du précédent matériau.
+
+## Filament {#filament}
+
+![Bobine de filament](../assets/images/definitions/filament.jpg)
+
+Le **filament** est le matériau utilisé par une imprimante 3D pour fabriquer une pièce. Il est fourni sous forme de bobine puis est entraîné jusqu'à la buse où il est chauffé avant d'être déposé couche par couche.
+
+## Extrusion {#extrusion}
+
+![Illustration de l'extrusion](../assets/images/definitions/extrusion.jpg)
+
+L'**extrusion** est l'action de pousser le filament fondu à travers la buse afin de former les différentes couches d'une pièce. Une mauvaise extrusion peut entraîner un manque de matière ou un échec d'impression.
+```

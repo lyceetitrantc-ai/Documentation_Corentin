@@ -69,7 +69,9 @@ Afin de préparer correctement le projet, j'ai pris les dimensions du tiroir con
 
 Après analyse, j'ai constaté que toute la largeur du tiroir n'était pas réellement utilisable. Une partie doit rester libre afin de pouvoir sortir facilement les bacs de rangement. La largeur exploitable est donc de 46,7 cm.
 
-Le système [Gridfinity](../Explication/definitions/#gridfinity) étant basé sur des modules de 4,2 cm × 4,2 cm, j'ai effectué les calculs nécessaires afin de déterminer le nombre de cases pouvant être installées dans le tiroir. Le résultat obtenu est une grille de 18 modules de longueur sur 11 modules de largeur.
+Le système [Gridfinity](../Explication/definitions/#gridfinity) étant basé sur des modules de 4,2 cm × 4,2 cm, j'ai effectué les calculs nécessaires afin de déterminer le nombre de cases pouvant être installées dans le tiroir. Le résultat obtenu est une grille de 18 modules de longueur sur 11 modules de largeur. Ce qui fait qu'avec la taille d'impression des imprimates on doit imprimer 8 grilles de 4x4, 4 grilles de 4x3, 2 grilles de 2x4 et 1 grilles de 3x2 
+
+![Schéma module tiroir](images/schema_module_tiroir.jpg)
 
 J'ai également installé et configuré [OrcaSlicer](../Explication/definitions/#orcaslicer) sur mon ordinateur afin de préparer les futures impressions 3D. Cette étape m'a permis de découvrir les bases du [tranchage (slicing)](../Explication/definitions/#tranchage-slicing) de modèles et de la préparation des fichiers destinés aux imprimantes.
 
