@@ -1,4 +1,3 @@
-```markdown id="t4d2ka"
 ---
 layout: default
 title: Types de plastiques
