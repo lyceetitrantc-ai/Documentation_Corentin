@@ -2,14 +2,12 @@
 layout: default
 title: Types de plastiques
 parent: Matériel et Définition 
-nav_order: 4
+nav_order: 3
 ---
 
 # Les différents types de plastiques utilisés en impression 3D
 
 Au cours de mon stage, j'ai principalement utilisé du **PLA**, mais il existe de nombreux autres matériaux utilisés en impression 3D. Chaque plastique possède des propriétés différentes et est adapté à des usages spécifiques.
-
----
 
 ## PLA
 
@@ -19,8 +17,6 @@ Le **PLA** (Acide Polylactique) est le matériau le plus courant en impression 3
 
 **Utilisations :** prototypes, boîtes de rangement, objets décoratifs, pièces de démonstration.
 
----
-
 ## PETG
 
 ![Bobine de PETG](../assets/images/plastiques/petg.jpg)
@@ -28,8 +24,6 @@ Le **PLA** (Acide Polylactique) est le matériau le plus courant en impression 3
 Le **PETG** est un matériau plus résistant que le PLA. Il supporte mieux les chocs, l'humidité et les températures élevées tout en restant relativement facile à imprimer. Il est souvent utilisé pour des pièces fonctionnelles.
 
 **Utilisations :** supports, pièces mécaniques, objets utilisés en extérieur, contenants.
-
----
 
 ## ABS
 
@@ -39,8 +33,6 @@ L'**ABS** est un plastique très résistant utilisé dans de nombreux produits d
 
 **Utilisations :** pièces mécaniques, boîtiers, composants techniques.
 
----
-
 ## ASA
 
 ![Bobine d'ASA](../assets/images/plastiques/asa.jpg)
@@ -48,8 +40,6 @@ L'**ABS** est un plastique très résistant utilisé dans de nombreux produits d
 L'**ASA** possède des caractéristiques proches de l'ABS mais résiste beaucoup mieux aux rayons UV et aux intempéries. Il est donc particulièrement adapté aux pièces destinées à être utilisées en extérieur.
 
 **Utilisations :** signalétique, boîtiers extérieurs, supports exposés au soleil.
-
----
 
 ## TPU
 
@@ -59,8 +49,6 @@ Le **TPU** est un matériau flexible. Contrairement aux autres filaments, il per
 
 **Utilisations :** joints, protections, semelles, amortisseurs, coques de téléphone.
 
----
-
 ## Nylon (PA)
 
 ![Bobine de Nylon](../assets/images/plastiques/nylon.jpg)
@@ -68,8 +56,6 @@ Le **TPU** est un matériau flexible. Contrairement aux autres filaments, il per
 Le **Nylon** est un matériau très résistant à l'usure et aux contraintes mécaniques. Il est utilisé pour fabriquer des pièces techniques, mais son impression demande des réglages précis ainsi qu'un filament parfaitement sec.
 
 **Utilisations :** engrenages, charnières, pièces mécaniques, outillage.
-
----
 
 ## Comparaison rapide
 
@@ -82,9 +68,7 @@ Le **Nylon** est un matériau très résistant à l'usure et aux contraintes mé
 | TPU | ⭐⭐☆☆☆ | ⭐⭐⭐⭐☆ | Oui | Oui |
 | Nylon | ⭐☆☆☆☆ | ⭐⭐⭐⭐⭐ | Légère | Oui |
 
----
-
 ## Le matériau utilisé pendant mon stage
 
 Pendant mon stage, les impressions ont été réalisées presque exclusivement en **PLA**. Ce matériau est parfaitement adapté au projet de rangement Gridfinity car il est facile à imprimer, suffisamment résistant pour des bacs de stockage et permet d'obtenir rapidement des pièces de bonne qualité.
-```
+

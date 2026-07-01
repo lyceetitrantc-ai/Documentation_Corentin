@@ -1,16 +1,8 @@
----
+s---
 layout: default
 parent: Documentation continue 
 nav_order: 3
 title: Semaine 3 
----
-
-```markdown
----
-layout: default
-parent: Documentation continue
-nav_order: 3
-title: semaine 3
 ---
 
 # Semaine 3 – Finalisation du premier tiroir et amélioration de la documentation
@@ -18,8 +10,6 @@ title: semaine 3
 ## Introduction
 
 Cette troisième semaine de stage a été consacrée à la poursuite du projet de rangement avec le système [Gridfinity](../definitions/#gridfinity). L'objectif était de terminer le premier tiroir en poursuivant l'impression des bacs, tout en découvrant de nouvelles problématiques liées aux imprimantes 3D. Une partie de la semaine a également été consacrée à l'amélioration de la documentation du stage et à la conception du site web.
-
----
 
 # Jour 10 – Impression de bacs de plus grande capacité
 
@@ -51,8 +41,6 @@ Il arrivait également que la ligne de test réalisée au début de l'impression
 
 Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../materiel/#bambu-lab-x1-carbon), ce qui m'a permis de découvrir une nouvelle machine ainsi que ses fonctionnalités avancées.
 
----
-
 # Jour 11 – Diagnostic de nouvelles erreurs d'impression
 
 Cette journée a principalement été consacrée à l'observation et à l'analyse de plusieurs défauts rencontrés sur différentes imprimantes.
@@ -68,8 +56,6 @@ Une autre imprimante Bambu Lab a également rencontré un défaut d'impression. 
 J'ai également suivi un tutoriel expliquant la procédure correcte de chargement du filament sur les imprimantes 3D. Cette étape m'a permis de mieux comprendre les manipulations à effectuer afin d'éviter ce type de problème.
 
 En parallèle, la fabrication de nouveaux bacs et de nouvelles grilles a commencé pour équiper un second tiroir de rangement.
-
----
 
 # Jour 12 – Optimisation de la production
 
@@ -91,8 +77,6 @@ Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défau
 
 Après réflexion, l'utilisation d'un [brim](../definitions/#brim) aurait probablement permis d'améliorer l'adhérence de la pièce au plateau et de limiter ce problème.
 
----
-
 # Jours 13 et 14 – Télétravail et amélioration du site
 
 Ces deux journées ont été réalisées en télétravail et ont principalement porté sur la documentation du projet.
@@ -103,8 +87,6 @@ J'ai ensuite travaillé sur la structure du site web. Plusieurs nouvelles pages 
 
 Afin de faciliter la navigation, j'ai renommé plusieurs pages et ajouté des liens permettant d'accéder directement aux définitions ou aux descriptions des imprimantes depuis les comptes rendus des différentes semaines.
 
----
-
 # Jour 15 – Corrections du site et point d'avancement
 
 Cette dernière journée de la semaine a été consacrée à la correction de plusieurs problèmes rencontrés sur le site web. J'ai notamment corrigé certains liens qui redirigeaient vers de mauvaises pages afin d'améliorer la navigation.
@@ -112,8 +94,6 @@ Cette dernière journée de la semaine a été consacrée à la correction de pl
 Un point d'avancement a également été réalisé avec mon maître de stage afin de faire le bilan du travail effectué depuis le début du stage et de préparer les prochaines missions.
 
 Il a été décidé que la semaine suivante porterait sur une nouvelle problématique concernant l'organisation et la gestion des ordinateurs présents au Makerspace.
-
----
 
 # Bilan de la semaine
 
