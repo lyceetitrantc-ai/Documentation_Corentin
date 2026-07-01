@@ -1,8 +1,9 @@
 ---
+
 layout: default
-parent: Documentation continue 
+title: semaine 3
+parent: Documentation continue
 nav_order: 3
-title: Semaine 3 
 ---
 
 # Semaine 3 – Finalisation du premier tiroir et amélioration de la documentation
