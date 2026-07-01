@@ -11,6 +11,8 @@ title: Semaine 3
 
 Cette troisième semaine de stage a été consacrée à la poursuite du projet de rangement avec le système [Gridfinity](../definitions/#gridfinity). L'objectif était de terminer le premier tiroir en poursuivant l'impression des bacs, tout en découvrant de nouvelles problématiques liées aux imprimantes 3D. Une partie de la semaine a également été consacrée à l'amélioration de la documentation du stage et à la conception du site web.
 
+---
+
 # Jour 10 – Impression de bacs de plus grande capacité
 
 Afin de poursuivre l'organisation des vis et des écrous, nous avons commencé à remplir les premiers bacs imprimés. Nous avons rapidement constaté que certains types de vis étaient présents en grande quantité. Pour éviter de répartir un même composant dans plusieurs contenants, j'ai décidé d'imprimer des bacs de plus grande capacité.
@@ -95,9 +97,10 @@ Un point d'avancement a également été réalisé avec mon maître de stage afi
 
 Il a été décidé que la semaine suivante porterait sur une nouvelle problématique concernant l'organisation et la gestion des ordinateurs présents au Makerspace.
 
+---
+
 # Bilan de la semaine
 
 Cette semaine m'a permis de finaliser la production des éléments nécessaires au premier tiroir de rangement tout en approfondissant mes connaissances sur le fonctionnement des imprimantes 3D. Les différentes erreurs rencontrées m'ont permis de mieux comprendre les causes possibles d'un échec d'impression ainsi que les méthodes permettant de les éviter.
 
 J'ai également consacré une partie importante de mon temps à la création et à l'amélioration du site web de documentation. Celui-ci devient progressivement un véritable support technique regroupant les comptes rendus du stage, les définitions des principaux termes techniques ainsi que la présentation du matériel utilisé.
-```

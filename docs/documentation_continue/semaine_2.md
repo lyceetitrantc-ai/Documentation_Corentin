@@ -23,8 +23,6 @@ Les impressions se sont déroulées sans difficulté particulière. Cette phase 
 
 *Figure 1 : Premiers bacs Gridfinity imprimés pour le rangement des vis et écrous.*
 
----
-
 # Jour 9 – Gestion d'un échec d'impression et découverte de nouvelles notions
 
 Au cours de cette journée, j'ai rencontré mon premier véritable problème d'impression. Alors qu'une impression était en cours, l'imprimante s'est retrouvée à court de filament. J'ai donc procédé au remplacement de la bobine en suivant la procédure prévue à cet effet.
@@ -54,8 +52,6 @@ En parallèle, nous avons commencé à mettre en place un site web permettant de
 ![Création du site web de suivi](../assets/images/semaine2/site-github.jpg)
 
 *Figure 5 : Mise en place du site web permettant le suivi quotidien du stage.*
-
----
 
 # Jour 10 – Production de grands bacs et découverte de nouveaux équipements
 
