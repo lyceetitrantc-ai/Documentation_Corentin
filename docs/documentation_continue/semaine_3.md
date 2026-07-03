@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Introduction
 
-Cette troisième semaine de stage a été consacrée à la poursuite du projet de rangement avec le système [Gridfinity](../definitions/#gridfinity). L'objectif était de terminer le premier tiroir en poursuivant l'impression des bacs, tout en découvrant de nouvelles problématiques liées aux imprimantes 3D. Une partie de la semaine a également été consacrée à l'amélioration de la documentation du stage et à la conception du site web.
+Cette troisième semaine de stage a été consacrée à la poursuite du projet de rangement avec le système [Gridfinity](../Explication/Definitions/#gridfinity). L'objectif était de terminer le premier tiroir en poursuivant l'impression des bacs, tout en découvrant de nouvelles problématiques liées aux imprimantes 3D. Une partie de la semaine a également été consacrée à l'amélioration de la documentation du stage et à la conception du site web.
 
 ---
 
@@ -18,7 +18,7 @@ Cette troisième semaine de stage a été consacrée à la poursuite du projet d
 
 Afin de poursuivre l'organisation des vis et des écrous, nous avons commencé à remplir les premiers bacs imprimés. Nous avons rapidement constaté que certains types de vis étaient présents en grande quantité. Pour éviter de répartir un même composant dans plusieurs contenants, j'ai décidé d'imprimer des bacs de plus grande capacité.
 
-Pour accélérer la production, j'ai utilisé une [Bambu Lab P1P](../materiel/#bambu-lab-p1p), dont le plateau est plus grand que celui d'une Bambu Lab A1 Mini. Cette imprimante permet de produire davantage de pièces en une seule impression, ce qui réduit le temps nécessaire à la fabrication de l'ensemble des bacs.
+Pour accélérer la production, j'ai utilisé une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p), dont le plateau est plus grand que celui d'une Bambu Lab A1 Mini. Cette imprimante permet de produire davantage de pièces en une seule impression, ce qui réduit le temps nécessaire à la fabrication de l'ensemble des bacs.
 
 ![Bambu Lab P1P](../assets/images/semaine3/p1p.jpg)
 
@@ -30,7 +30,7 @@ Une fois les impressions terminées, nous avons commencé à étiqueter les diff
 
 *Figure 2 : Mise en place des étiquettes sur les bacs.*
 
-Au cours de cette journée, j'ai également observé un problème récurrent sur une imprimante P1P. Lors de la purge du filament [PLA](../definitions/#pla), celui-ci restait parfois collé à la buse au lieu d'être correctement évacué. Ce phénomène pouvait empêcher le bon déroulement de l'impression.
+Au cours de cette journée, j'ai également observé un problème récurrent sur une imprimante P1P. Lors de la purge du filament [PLA](../Explication/Definitions/#pla), celui-ci restait parfois collé à la buse au lieu d'être correctement évacué. Ce phénomène pouvait empêcher le bon déroulement de l'impression.
 
 ![PLA collé à la buse](../assets/images/semaine3/purge.jpg)
 
@@ -42,7 +42,7 @@ Il arrivait également que la ligne de test réalisée au début de l'impression
 
 *Figure 4 : Défaut provoqué par la ligne de test restée collée à la buse.*
 
-Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../materiel/#bambu-lab-x1-carbon), ce qui m'a permis de découvrir une nouvelle machine ainsi que ses fonctionnalités avancées.
+Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon), ce qui m'a permis de découvrir une nouvelle machine ainsi que ses fonctionnalités avancées.
 
 # Jour 11 – Diagnostic de nouvelles erreurs d'impression
 
@@ -64,7 +64,7 @@ En parallèle, la fabrication de nouveaux bacs et de nouvelles grilles a commenc
 
 Cette journée a été consacrée à une importante série d'impressions. L'objectif était de produire dix-sept bacs de format 1 × 2 afin de terminer l'aménagement du premier tiroir.
 
-Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisées simultanément. Six [Bambu Lab A1 Mini](../materiel/#bambu-lab-a1-mini) ont été mises en fonctionnement afin d'imprimer deux bacs par machine. En parallèle, une [Bambu Lab P1P](../materiel/#bambu-lab-p1p) ainsi qu'une [Bambu Lab X1 Carbon](../materiel/#bambu-lab-x1-carbon) réalisaient également deux bacs chacune, mais avec environ vingt-cinq minutes d'avance sur les autres machines. Cette comparaison m'a permis de constater les différences de performances entre les différents modèles d'imprimantes.
+Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisées simultanément. Six [Bambu Lab A1 Mini](../Explication/Imprimante/#bambu-lab-a1-mini) ont été mises en fonctionnement afin d'imprimer deux bacs par machine. En parallèle, une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p) ainsi qu'une [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon) réalisaient également deux bacs chacune, mais avec environ vingt-cinq minutes d'avance sur les autres machines. Cette comparaison m'a permis de constater les différences de performances entre les différents modèles d'imprimantes.
 
 ![Plusieurs imprimantes en fonctionnement](../assets/images/semaine3/imprimantes.jpg)
 
