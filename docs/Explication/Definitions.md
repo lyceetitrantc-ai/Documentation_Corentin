@@ -92,4 +92,53 @@ Le **filament** est le matériau utilisé par une imprimante 3D pour fabriquer u
 ![Illustration de l'extrusion](../assets/images/definitions/extrusion.jpg)
 
 L'**extrusion** est l'action de pousser le filament fondu à travers la buse afin de former les différentes couches d'une pièce. Une mauvaise extrusion peut entraîner un manque de matière ou un échec d'impression.
+
+## AMS {#ams}
+
+![Photo d'un AMS](../assets/images/definitions/ams.jpg)
+
+L'**AMS** (*Automatic Material System*) est un système développé par Bambu Lab qui permet à une imprimante 3D de gérer automatiquement plusieurs bobines de filament. Il est notamment utilisé pour réaliser des impressions multicolores ou pour changer automatiquement de bobine lorsqu'un filament est terminé.
+
+## Impression multicolore {#impression-multicolore}
+
+![Exemple d'impression multicolore](../assets/images/definitions/impression-multicolore.jpg)
+
+L'**impression multicolore** consiste à utiliser plusieurs couleurs de filament au cours d'une même impression. Sur les imprimantes Bambu Lab, cette fonctionnalité est rendue possible grâce à un AMS. Chaque changement de couleur nécessite une purge de la buse afin d'éliminer le filament précédent.
+
+## Jekyll {#jekyll}
+
+![Logo Jekyll](../assets/images/definitions/jekyll.jpg)
+
+**Jekyll** est un générateur de sites web statiques. Il permet de créer et de visualiser un site directement sur son ordinateur avant de le publier sur Internet. Pendant mon stage, il m'a permis de tester toutes les modifications du site en local afin d'éviter de publier des erreurs sur GitHub.
+
+## Onshape {#onshape}
+
+![Logo Onshape](../assets/images/definitions/onshape.jpg)
+
+**Onshape** est une plateforme de conception 3D en ligne qui permet de créer, modifier et partager des modèles directement dans le navigateur. Elle est utilisée pour réaliser des esquisses, des extrusions et des assemblages sans avoir besoin d'installer un logiciel local.
+
+## Cable management {#cable-management}
+
+![Exemple de cable management](../assets/images/definitions/cable-management.jpg)
+
+Le **cable management** désigne l'organisation et la gestion des câbles afin de rendre un espace de travail propre, sûr et facile à entretenir. Il s'applique notamment aux installations d'imprimantes 3D pour éviter que les câbles ne s'emmêlent ou ne gênent le fonctionnement des machines.
+
+## Commit {#commit}
+
+![Illustration d'un commit Git](../assets/images/definitions/commit.jpg)
+
+Un **commit** est un enregistrement des modifications réalisées dans un projet Git. Chaque commit conserve un historique des changements effectués et permet de revenir à une version précédente si nécessaire.
+
+## Push {#push}
+
+![Illustration d'un push Git](../assets/images/definitions/push.jpg)
+
+Un **push** est l'action qui consiste à envoyer les commits réalisés sur son ordinateur vers un dépôt distant, par exemple sur GitHub. Cette opération met à jour le projet en ligne avec les dernières modifications effectuées localement.
+
+## Ébavureur {#ebavureur}
+
+![Photo d'un ébavureur](../assets/images/definitions/ebavureur.jpg)
+
+Un **ébavureur** est un outil utilisé pour retirer les petites bavures de plastique qui peuvent apparaître après une impression 3D. Il permet d'obtenir une finition plus propre sans endommager la pièce imprimée.
 ```
+

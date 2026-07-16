@@ -22,13 +22,14 @@ Pour cette première journée, ma mission consistait à observer les différente
 
 Dans la salle résine, j'ai remarqué que plusieurs objets n'avaient pas d'emplacement clairement défini. Cela peut entraîner une perte de temps lors des recherches de matériel et rendre le rangement plus difficile. J'ai donc proposé la mise en place d'étiquettes ou de zones dédiées afin que chaque objet dispose d'une place précise. J'ai également constaté qu'un rappel plus visible des règles de sécurité pourrait être bénéfique pour les utilisateurs.
 
-![Photo salle résine](images/salle-resine.jpg)
+![Photo salle résine](../images/salle-resine.jpg)
 
 *Salle résine*
 
 J'ai ensuite étudié la nouvelle salle de stockage. Plusieurs pistes d'amélioration ont été identifiées. Certains objets lourds étaient placés en hauteur dans les armoires, ce qui présente un risque de chute. Une réorganisation du stockage pourrait permettre de placer les éléments les plus volumineux sur les étagères basses et les plus légers sur les étagères supérieures. J'ai également proposé d'ajouter des étiquettes ainsi que des photos du contenu des armoires afin de faciliter le rangement du matériel après utilisation.
 
-![Photo salle stockage](images/stockage.jpg)
+![Photo salle stockage](../images/stockage.jpg)
+![Photo salle stockage](../images/stockage2.jpg)
 
 *Salle de stockage*
 
