@@ -16,7 +16,11 @@ Cette première semaine de stage a été consacrée à la découverte du Makersp
 
 ---
 
-# Jour 1 – Observation et analyse des espaces
+# Jour 1 - Pas de travail 
+
+Nous avons commencé le stage un mardi et pour la documentation pour que sa soit plus simple j'ai numéroté à partir de notre semaine de début (jour 1 = lundi, jour 2 = mardi etc..)
+
+# Jour 2 – Observation et analyse des espaces et découverte de Gridfinity et tri du matériel
 
 Pour cette première journée, ma mission consistait à observer les différentes salles du Makerspace afin d'identifier les problèmes de rangement et de proposer des solutions d'amélioration.
 
@@ -37,23 +41,28 @@ D'autres améliorations ont été envisagées, comme l'installation de supports 
 
 J'ai également visité la salle de bureau et la salle destinée à devenir un futur espace de travail. Dans cette dernière, j'ai constaté que l'agencement actuel rendait difficile la circulation d'une personne en fauteuil roulant. Une réorganisation de l'espace sera nécessaire afin de conserver un accès conforme aux besoins des personnes à mobilité réduite et des services de secours.
 
-![Photo futur espace de travail](images/futur-espace.jpg)
+![Photo futur espace de travail](../images/futur-espace.jpg)
 
 *Futur espace de travail*
 
 Enfin, une réflexion a été menée sur la gestion du stock. Une solution intéressante serait l'installation d'une tablette permettant d'enregistrer les emprunts de matériel, de signaler les composants manquants et de suivre plus facilement l'état des stocks.
 
-# Jour 2 – Découverte de Gridfinity et tri du matériel
-
 Lors de cette deuxième journée, j'ai découvert le système de rangement modulaire [Gridfinity](../Explication/Definitions/#gridfinity), très utilisé en impression 3D. Son principe repose sur une grille standardisée permettant de créer des bacs de différentes tailles qui s'emboîtent parfaitement dans des tiroirs ou des espaces de stockage.
 
 J'ai commencé à rechercher différents modèles disponibles en ligne afin de comprendre le fonctionnement du système et d'identifier les pièces qui pourraient être utiles pour le projet.
 
-![Photo Gridfinity](images/gridfinity.jpg)
+<img src="../images/jour2_gridfinity.webp" alt="Photo Gridfinity" width="400" style="max-width:100%; height:auto;" />
 
 *Gridfinity*
 
-Une partie de la journée a également été consacrée au tri du matériel présent dans une armoire de stockage. Avec l'équipe, nous avons retiré plusieurs objets devenus inutiles, notamment d'anciennes cartes électroniques, des câbles qui n'étaient plus utilisés ainsi que du matériel obsolète. Cette opération a permis de libérer de l'espace et de préparer l'installation future de nouvelles solutions de rangement.
+Une partie de la journée a également été consacrée au tri du matériel présent dans une armoire de stockage. Avec des étudiants, nous avons retiré plusieurs objets devenus inutiles, notamment d'anciennes cartes électroniques, des câbles qui n'étaient plus utilisés ainsi que du matériel obsolète. Cette opération a permis de libérer de l'espace et de préparer l'installation future de nouvelles solutions de rangement.
+
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
+  <img src="../images/jour2_jeter.jpeg" alt="Photo de l'équiement jetée" width="230" style="max-width:100%; height:auto;" />
+  <img src="../images/jour2_garder.jpeg" alt="Photo de l'équiement gardée" width="230" style="max-width:100%; height:auto;" />
+  <img src="../images/jour2_apres.jpeg" alt="Photo après rangement" width="230" style="max-width:100%; height:auto;" />
+</div>
+
 
 # Jour 3 – Préparation du projet Gridfinity
 
@@ -73,11 +82,11 @@ Après analyse, j'ai constaté que toute la largeur du tiroir n'était pas réel
 
 Le système [Gridfinity](../Explication/Definitions/#gridfinity) étant basé sur des modules de 4,2 cm × 4,2 cm, j'ai effectué les calculs nécessaires afin de déterminer le nombre de cases pouvant être installées dans le tiroir. Le résultat obtenu est une grille de 18 modules de longueur sur 11 modules de largeur. Ce qui fait qu'avec la taille d'impression des imprimates on doit imprimer 8 grilles de 4x4, 4 grilles de 4x3, 2 grilles de 2x4 et 1 grilles de 3x2 
 
-![Schéma module tiroir](images/schema_module_tiroir.jpg)
+![Schéma module tiroir](../images/jour3_schema.png)
 
 J'ai également installé et configuré [OrcaSlicer](../Explication/Definitions/#orcaslicer) sur mon ordinateur afin de préparer les futures impressions 3D. Cette étape m'a permis de découvrir les bases du [tranchage (slicing)](../Explication/Definitions/#tranchage-slicing) de modèles et de la préparation des fichiers destinés aux imprimantes.
 
-![Capture OrcaSlicer](images/orcaslicer.jpg)
+![Capture OrcaSlicer](../images/jour3_orcaslicer.webp)
 
 *OrcaSlicer*
 
@@ -91,7 +100,7 @@ Après avoir préparé les fichiers nécessaires, j'ai lancé l'impression des d
 
 Une fois toutes les pièces terminées, j'ai pu vérifier leur assemblage dans le tiroir. Les dimensions calculées étaient correctes et l'ensemble s'est parfaitement intégré dans l'espace prévu.
 
-![Photo grille Gridfinity](images/grille-gridfinity.jpg)
+![Photo grille Gridfinity](../images/jour4_grilles.png)
 
 *Grille Gridfinity*
 
@@ -107,7 +116,7 @@ Les impressions se sont déroulées sans difficulté particulière et ont permis
 
 Au fur et à mesure de l'avancement, il a été possible de visualiser l'organisation future du tiroir et de vérifier que les dimensions choisies répondaient bien aux besoins de stockage des vis et des petites pièces.
 
-![Photo bacs imprimés](images/bacs-gridfinity.jpg)
+![Photo exemples bacs imprimés](../images/jour5_boites.png)
 
 *Bacs Gridfinity imprimés*
 

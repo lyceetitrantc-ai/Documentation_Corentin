@@ -144,7 +144,7 @@ Grâce à ces impressions, toutes les boîtes nécessaires pour les tiroirs à v
 
 ![](../images/boites_vis_terminees.jpg)
 
-Nous avons ensuite remis en place les mousses acoustiques dans la salle du **Medialab**. Avec la chaleur, plusieurs mousses s'étaient décollées du mur. Nous avons donc utilisé du **scotch double face** pour les refixer correctement.
+Nous avons ensuite remis en place les mousses acoustiques dans la salle du **Medialab**. Avec la chaleur, plusieurs mousses s'étaient décollées du mur. Nous avons donc utilisé du **scotch double face** pour les refixer correctement. Sur le mur gauche on a utilisé un double face standard et sur le mur de droite un double face fibreux. La différence entre les deux est que le fibreux est plus résistant. 
 
 ![](../images/remise_mousses_acoustiques.jpg)
 
