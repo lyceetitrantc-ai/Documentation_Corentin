@@ -53,7 +53,7 @@ Après avoir commencé à remplir les premiers bacs avec des vis et des écrous,
 
 Pour gagner du temps, j'ai utilisé une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p). Son plateau d'impression étant plus grand que celui de la Bambu Lab A1 Mini, elle permet de produire davantage de pièces en une seule impression et d'accélérer la fabrication des bacs.
 
-![Bambu Lab P1P](../images/semaine2/p1p.jpg)
+![Bambu Lab P1P](../images/semaine2/p1p.png)
 
 *Figure 6 : Utilisation d'une Bambu Lab P1P pour accélérer la production des bacs.*
 

@@ -7,7 +7,7 @@ title: Semaine 4
 
 # Semaine 4 – Finalisation du premier tiroir et lancement de nouveaux projets
 
-# Introduction de la semaine
+## Introduction de la semaine
 
 Cette semaine a été principalement consacrée à l'amélioration de l'organisation du Makerspace ainsi qu'au développement de mon site de documentation. J'ai poursuivi la réalisation des tiroirs de rangement pour les vis et les résistances en imprimant les différentes boîtes et grilles nécessaires. En parallèle, j'ai corrigé plusieurs problèmes sur le site web et mis en place un environnement de développement local avec [Jekyll](../Explication/Definitions/#jekyll) afin de pouvoir tester mes modifications avant leur mise en ligne. J'ai également participé à différentes tâches annexes, comme le rangement d'une salle, des échanges autour de l'impression 3D ou encore l'accompagnement d'un nouveau stagiaire.
 

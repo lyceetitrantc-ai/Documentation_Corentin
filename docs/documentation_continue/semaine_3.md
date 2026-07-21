@@ -20,27 +20,17 @@ Afin de poursuivre l'organisation des vis et des écrous, nous avons commencé �
 
 Pour accélérer la production, j'ai utilisé une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p), dont le plateau est plus grand que celui d'une Bambu Lab A1 Mini. Cette imprimante permet de produire davantage de pièces en une seule impression, ce qui réduit le temps nécessaire à la fabrication de l'ensemble des bacs.
 
-![Bambu Lab P1P](../assets/images/semaine3/p1p.jpg)
-
-*Figure 1 : Impression de grands bacs sur une Bambu Lab P1P.*
-
 Une fois les impressions terminées, nous avons commencé à étiqueter les différents bacs afin de faciliter le rangement et l'identification des composants.
 
-![Boîtes étiquetées](../assets/images/semaine3/etiquetage.jpg)
+![Boîtes étiquetées](../images/semaine3/etiquetage.jpg)
 
-*Figure 2 : Mise en place des étiquettes sur les bacs.*
+*Figure 1 : Mise en place des étiquettes sur les bacs.*
 
 Au cours de cette journée, j'ai également observé un problème récurrent sur une imprimante P1P. Lors de la purge du filament [PLA](../Explication/Definitions/#pla), celui-ci restait parfois collé à la buse au lieu d'être correctement évacué. Ce phénomène pouvait empêcher le bon déroulement de l'impression.
 
-![PLA collé à la buse](../assets/images/semaine3/purge.jpg)
-
-*Figure 3 : Le filament reste collé à la buse après la purge.*
-
 Il arrivait également que la ligne de test réalisée au début de l'impression reste accrochée à la buse. Lorsque cela se produisait, elle pouvait être entraînée pendant les déplacements de la tête d'impression et provoquer un défaut sur la pièce.
 
-![Ligne de test restée accrochée](../assets/images/semaine3/ligne-test.jpg)
-
-*Figure 4 : Défaut provoqué par la ligne de test restée collée à la buse.*
+Après réflexion, le problème lié à la ligne de test qui restait accrochée à la buse était lié au plateau. Le plateau n'étant pas nettoyé et la personne précédente ayant utilisé de la colle, le filament n'adhérait pas au plateau et restait sur la buse. Après avoir réglé ce problème, le problème lié à la purge qui restait accrochée à la buse persistait. C'était parce que le filament était mal inséré : il ne faisait chauffer qu'une petite partie du filament, ce qui faisait en sorte que la buse ne sortait pas assez de plastique, donc ça n'adhérait pas au plateau et ça s'accrochait à la buse.
 
 Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon), ce qui m'a permis de découvrir une nouvelle machine ainsi que ses fonctionnalités avancées.
 
@@ -52,11 +42,11 @@ La P1P utilisée la veille a présenté une nouvelle anomalie. Après plusieurs 
 
 Une autre imprimante Bambu Lab a également rencontré un défaut d'impression. Après observation, nous avons constaté que le filament était mal engagé dans la buse, ce qui empêchait une extrusion correcte.
 
-![Filament mal engagé](../assets/images/semaine3/filament-buse.jpg)
+![Filament mal engagé](../images/semaine3/filament-buse.jpg)
 
-*Figure 5 : Mauvais engagement du filament dans la buse.*
+*Figure 2 : Mauvais engagement du filament dans la buse.*
 
-J'ai également suivi un tutoriel expliquant la procédure correcte de chargement du filament sur les imprimantes 3D. Cette étape m'a permis de mieux comprendre les manipulations à effectuer afin d'éviter ce type de problème.
+J'ai également suivi un tutoriel expliquant la procédure correcte de chargement du filament sur les imprimantes 3D. Cette étape m'a permis de mieux comprendre les manipulations à effectuer afin d'éviter ce type de problème. 
 
 En parallèle, la fabrication de nouveaux bacs et de nouvelles grilles a commencé pour équiper un second tiroir de rangement.
 
@@ -66,15 +56,15 @@ Cette journée a été consacrée à une importante série d'impressions. L'obje
 
 Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisées simultanément. Six [Bambu Lab A1 Mini](../Explication/Imprimante/#bambu-lab-a1-mini) ont été mises en fonctionnement afin d'imprimer deux bacs par machine. En parallèle, une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p) ainsi qu'une [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon) réalisaient également deux bacs chacune, mais avec environ vingt-cinq minutes d'avance sur les autres machines. Cette comparaison m'a permis de constater les différences de performances entre les différents modèles d'imprimantes.
 
-![Plusieurs imprimantes en fonctionnement](../assets/images/semaine3/imprimantes.jpg)
+![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
 
-*Figure 6 : Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
+*Figure 3 : Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
 
 Une fois cette série terminée, le premier tiroir pouvait être considéré comme presque achevé. Il ne restait plus qu'à installer les vis dans les différents bacs puis à terminer leur étiquetage avant de commencer l'organisation du second tiroir, destiné aux vis de plus grande taille.
 
-Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défaut d'impression. Le plateau chauffant n'ayant pas correctement maintenu la température, les bords de la pièce se sont décollés puis relevés au cours de l'impression. Ce phénomène correspond au [warping](../definitions/#warping), qui a provoqué une déformation de la pièce jusqu'à entraîner l'échec de l'impression.
+Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défaut d'impression. La différence de température entre le plateau chauffant et le haut de la pièce à fait gonfler le milieu des bords ce qui à les à courbé et à force de se courber les bords se sont décollés du plateau au cours de l'impression. Ce phénomène correspond au [warping](../definitions/#warping), qui a provoqué une déformation de la pièce jusqu'à entraîner l'échec de l'impression.
 
-![Exemple de warping](../assets/images/semaine3/warping.jpg)
+![Exemple de warping](../images/semaine3/warping.jpg)
 
 *Figure 7 : Déformation de la pièce provoquée par le warping.*
 

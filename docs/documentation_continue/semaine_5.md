@@ -7,7 +7,7 @@ title: Semaine 5
 
 # Semaine 5 – Installation de nouvelles imprimantes et poursuite des missions 
 
-# Introduction de la semaine
+## Introduction de la semaine
 
 Cette semaine a principalement été consacrée à l'aménagement de l'espace des imprimantes 3D ainsi qu'à la poursuite du projet de rangement des composants électroniques. J'ai terminé le tiroir destiné aux résistances, avancé sur le deuxième tiroir à vis et participé à l'installation des deux nouvelles imprimantes [Bambu Lab A1 Mini](../Explication/Imprimante/#bambu-lab-a1-mini). En parallèle, j'ai réalisé plusieurs modélisations 3D, poursuivi le développement de mon site de documentation et participé à différentes tâches d'organisation du Makerspace.
 
