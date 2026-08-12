@@ -75,6 +75,10 @@ Le G-code est le langage utilisé par les imprimantes 3D. Il contient l'ensemble
 
 Le **brim** est une bordure imprimée autour de la première couche d'une pièce. Son rôle est d'augmenter la surface de contact avec le plateau afin d'améliorer l'adhérence et de limiter les risques de warping. Une fois l'impression terminée, cette bordure est retirée.
 
+## Scotch double face {#scotch-double-face}
+
+Le **scotch double face** est un ruban adhésif à double face utilisé pour fixer des éléments sans percer ni visser. Il est souvent employé dans les ateliers pour maintenir des panneaux, des mousses acoustiques ou d'autres accessoires sur des surfaces lisses.
+
 ## Purge {#purge}
 
 ![Exemple de purge](../assets/images/definitions/purge.jpg)
@@ -111,6 +115,10 @@ L'**impression multicolore** consiste à utiliser plusieurs couleurs de filament
 
 **Jekyll** est un générateur de sites web statiques. Il permet de créer et de visualiser un site directement sur son ordinateur avant de le publier sur Internet. Pendant mon stage, il m'a permis de tester toutes les modifications du site en local afin d'éviter de publier des erreurs sur GitHub.
 
+## GitHub {#github}
+
+**GitHub** est une plateforme en ligne qui permet de stocker, gérer et partager du code source. Elle sert aussi de support pour la documentation, la gestion des versions et le travail collaboratif. Pendant le stage, elle a été utilisée pour publier le site et suivre l'évolution du projet.
+
 ## Onshape {#onshape}
 
 ![Logo Onshape](../assets/images/definitions/onshape.jpg)
@@ -140,5 +148,25 @@ Un **push** est l'action qui consiste à envoyer les commits réalisés sur son 
 ![Photo d'un ébavureur](../assets/images/definitions/ebavureur.jpg)
 
 Un **ébavureur** est un outil utilisé pour retirer les petites bavures de plastique qui peuvent apparaître après une impression 3D. Il permet d'obtenir une finition plus propre sans endommager la pièce imprimée.
+
+## Insert {#insert}
+
+Un **insert** est une petite pièce, généralement métallique, qui est intégrée dans une pièce imprimée en 3D afin de créer un point de fixation. Il permet notamment d'utiliser une vis dans une pièce en plastique de manière plus résistante qu'un simple filetage réalisé directement dans le plastique.
+
+## Découpeuse laser {#decoupeuse-laser}
+
+Une **découpeuse laser** permet de découper ou graver différents matériaux à l'aide d'un faisceau laser. Elle est particulièrement utile pour réaliser des pièces plates précises et des éléments d'assemblage dans un atelier de fabrication.
+
+## Makerspace {#makerspace}
+
+Un **Makerspace** est un atelier de fabrication partagé où les personnes peuvent expérimenter, créer et apprendre à travers des outils comme l'impression 3D, la découpe laser, l'électronique ou la conception assistée par ordinateur.
+
+## Imprimante 3D {#imprimante-3d}
+
+Une **imprimante 3D** fabrique des objets en ajoutant de la matière couche par couche à partir d'un modèle numérique. Cette technologie est largement utilisée dans le Makerspace pour réaliser des pièces sur mesure, des accessoires ou des solutions de rangement.
+
+## Onshape {#onshape}
+
+**Onshape** est un logiciel de conception assistée par ordinateur (CAO) accessible en ligne. Il permet de créer des modèles 3D et de concevoir des pièces qui peuvent ensuite être fabriquées, notamment avec une imprimante 3D ou une découpeuse laser.
 ```
 

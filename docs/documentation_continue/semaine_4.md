@@ -29,7 +29,8 @@ La [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon) du Make
 
 Au cours de la journée, nous avons rencontré un petit problème avec l’étiqueteuse qui n’avait plus de papier. Nous avons donc dû utiliser une autre machine afin de continuer le travail.
 
-![Changement d'étiqueteuse](../images/changement_etiqueteuse.jpg)
+![Changement d'étiqueteuse](../images/semaine4/changement_etiqueteuse.jpg)
+*Figure 1 : Changement d'étiqueteuse*
 
 J’ai ensuite poursuivi le rangement des vis dans les nouvelles boîtes. La méthode utilisée est assez simple : je récupère les informations présentes sur l’emballage d’origine, je place les vis dans la nouvelle boîte, puis je conserve les informations concernant les dimensions. Ensuite, à l’aide de l’étiqueteuse, je recrée une étiquette propre qui est collée sur la boîte afin de pouvoir identifier facilement son contenu.
 
@@ -39,7 +40,9 @@ Nous avons réussi à ranger toutes les vis du premier tiroir dans leurs boîtes
 
 Avant de terminer la journée, j’ai également nettoyé la zone de travail. Les cartons vides avaient été laissés à côté des établis, je les ai regroupés dans un sac afin de les jeter plus tard et garder un espace plus propre.
 
-![Cartons rangés dans un sac](../images/cartons_vides.jpg)
+<img src="../images/semaine4/cartons_vides.jpg" alt="Cartons rangés dans un sac" width="200">
+
+*Figure 2 : Cartons rangés dans un sac*
 
 # Jour 17 : Nouvelle mission
 
@@ -49,9 +52,19 @@ J’ai ensuite reçu une nouvelle mission : créer une grille [Gridfinity](../Ex
 
 Une partie de la matinée a également été consacrée au rangement d’une salle qui va prochainement être réaménagée. Les oscilloscopes et le matériel pouvant être déplacé ont été rangés dans une armoire située dans une autre salle. Nous avons également déplacé les chaises dans le couloir et débranché tous les équipements avant leur déplacement.
 
-![Déplacement du matériel](../images/rangement_salle.jpg)
+![Salle avant changement](../images/semaine4/rangement_salle.jpg)
+*Figure 3 : Salle avant le rangement*
 
-![Matériel rangé dans l'armoire](../images/armoire_materiel.jpg)
+![Matériel rangé dans l'armoire](../images/semaine4/armoire_materiel.jpg)
+*Figure 4 : Matériel déplacé dans une amoire*
+
+![Chaise dans le couloir](../images/semaine4/chaise_couloir.jpg)
+*Figure 5 : Déplacement des chaises dans le couloir*
+
+![Salle après changement](../images/semaine4/rangement_salle_apres.jpg)
+*Figure 6 : Salle après rangment*
+
+Ce déplacement de matériel avait pour but de préparer la nouvelle salle du makerspace. L'ancienne salle était mal agancé et avait besoin d'être réogarnisé. Ce déplacement de matérielle permettra de faciliter l'instalation des nouvelles tables. 
 
 Dans l’après-midi, j’ai lancé l’impression des deux boîtes qui me manquaient pour terminer le premier tiroir à vis. J’ai également commencé à imprimer les boîtes destinées au tiroir des résistances. J’ai lancé six impressions de boîtes **2×1×2**, contenant chacune trois boîtes, ce qui représente un total de 18 boîtes. À terme, il faudra fabriquer 84 boîtes afin de pouvoir stocker les 84 valeurs de résistances différentes.
 
@@ -65,13 +78,16 @@ La journée a principalement été consacrée à l’impression des boîtes dest
 
 Au cours des impressions, j’ai rencontré plusieurs problèmes techniques. Sur une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p), l’impression a échoué car le plateau était sale et le filament n’adhérait plus correctement à la surface.
 
-![Erreur d'impression sur plateau sale](../images/erreur_plateau.jpg)
+![Erreur d'impression sur plateau sale](../images/semaine4/erreur_plateau.jpg)
+*Figure 7 : erreur sur le plateau*
 
 Une autre pièce a présenté un léger défaut d’impression dû à un problème d’adhérence. Le défaut n’étant pas gênant pour son utilisation finale, j’ai décidé de laisser l’impression se terminer. Une fois la pièce terminée, j’ai utilisé un [ébavureur](../Explication/Definitions/#ebavureur) afin de retirer les petits morceaux de plastique qui dépassaient.
 
-![Défaut d'impression](../images/defaut_impression.jpg)
+<img src="../images/semaine4/defaut_impression.jpg" alt="Défaut d'impression" width="850" style="display:block; margin: 0 auto;">
+*Figure 8 : Pièce en 3d après l'utilisation d'un ébavureur*
 
-![Ébavureur utilisé](../images/ebavureur.jpg)
+![Ébavureur utilisé](../images/semaine4/ebavureur.jpg)
+*Figure 9 : Ébavureur* 
 
 Sur les 56 boîtes prévues, seules 48 ont finalement pu être imprimées. Huit boîtes ont été perdues car le plastique refroidissait trop rapidement, ce qui a provoqué une déformation de la pièce. Comme les impressions sont réalisées couche par couche, le défaut s’est amplifié au fil du temps jusqu’à rendre l’impression inutilisable. Pour éviter ce problème lors des prochaines séries, il faudra utiliser de la colle sur le plateau afin d’améliorer l’adhérence.
 
@@ -83,13 +99,15 @@ J’ai également profité du temps restant pour imprimer deux grilles **2×4** 
 
 Aujourd’hui, j’ai terminé l’impression des boîtes destinées aux résistances en fabriquant les 18 dernières boîtes au format **2×1**. Toutes les boîtes nécessaires sont maintenant disponibles. Il ne reste plus qu’à définir une logique de rangement claire et à réaliser l’étiquetage.
 
-![Toutes les boîtes de résistances](../images/boites_resistances.jpg)
+![Toutes les boîtes de résistances](../images/semaine4/boites_resistances.jpg)
+*Figure 10 : Toutes les boites de resistances* 
 
 J’ai également terminé l’impression de la grille du tiroir des résistances avec les dernières pièces nécessaires. La grille est maintenant complète et prête à recevoir les boîtes.
 
 Ensuite, j’ai commencé à préparer le deuxième tiroir destiné aux vis. J’ai imprimé plusieurs nouvelles grilles afin de compléter le fond du tiroir. J’avais déjà quatre grilles **4×4**, j’en ai donc réimprimé quatre supplémentaires ainsi que deux grilles **2×4** et deux grilles **3×4**.
 
-![Impression des grilles du deuxième tiroir](../images/grilles_tiroir_2.jpg)
+![Impression des grilles du deuxième tiroir](../images/semaine4/grilles_tiroir_2.jpg)
+*Figure 11 : Grilles du deuxième tiroir* 
 
 Pour demain, j’ai prévu de commencer l’organisation des tiroirs à vis et à résistances. L’objectif est de mettre en place une logique de rangement simple et facile à comprendre pour n’importe quel utilisateur. Une fois cette logique définie, il faudra également la documenter afin que chacun puisse retrouver rapidement le matériel recherché.
 
@@ -103,7 +121,8 @@ J’ai aussi appris que je devrai fabriquer les grilles pour quatre autres tiroi
 
 Aujourd’hui, j’ai terminé l’organisation du tiroir destiné aux résistances. Toutes les boîtes sont désormais en place et le système de rangement est fonctionnel.
 
-![Tiroir des résistances terminé](../images/tiroir_resistances.jpg)
+![Tiroir des résistances terminé](../images/semaine4/tiroir_resistances.jpg)
+*Figure 12 : Tiroir des résistances* 
 
 Pour le classement, nous avons choisi de ranger les résistances par ordre croissant de valeur. On commence par les plus petites valeurs, puis on progresse progressivement jusqu’aux plus grandes. Une fois arrivé en bas d’une colonne, le rangement reprend en haut de la colonne suivante. Cette méthode permet de retrouver rapidement une résistance sans avoir à chercher dans tout le tiroir.
 
