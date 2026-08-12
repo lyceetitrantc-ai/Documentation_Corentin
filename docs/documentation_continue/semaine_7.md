@@ -7,35 +7,9 @@ title: semaine 7
 
 # Semaine 7 – Documentation, fabrication et préparation de la soutenance
 
-## Introduction
+## Introduction de la semaine
 
 Cette septième semaine de stage a été principalement consacrée à la documentation du travail réalisé depuis le début du stage ainsi qu'à la préparation de la soutenance blanche. J'ai également participé à la fabrication et à l'installation de portes-bobines et de porte-étiquettes pour le Makerspace. Cette semaine m'a permis de travailler davantage sur la présentation d'un projet technique, mais aussi de comprendre l'importance de la communication et de l'organisation dans un travail en équipe.
-
----
-
-# Jour 30 – Documentation et fabrication des portes-bobines
-
-La semaine a commencé par l'ajout des photos de la première semaine sur mon site de documentation. L'objectif était de commencer à intégrer les photographies prises pendant le stage afin d'illustrer les différentes missions réalisées. Certaines images étaient cependant trop grandes et prenaient trop de place sur les pages. J'ai donc dû adapter leur taille afin qu'elles soient mieux intégrées au site.
-
-![Ajout des photos de la semaine 1](../assets/images/semaine7/photos-semaine1.jpg)
-
-*Figure 1 : Ajout des photos de la première semaine sur le site.*
-
-En parallèle, nous avons travaillé sur la fabrication des portes-bobines et des porte-étiquettes. Pour assembler certaines pièces imprimées en 3D, nous avons utilisé une machine qui fonctionne sur un principe similaire à un fer à souder afin de mettre en place des [inserts](../Explication/Definitions/#insert) métalliques.
-
-Un insert permet de créer un point de fixation dans une pièce imprimée en 3D. Une fois installé, il permet notamment de visser une pièce sans avoir besoin de réaliser directement le filetage dans le plastique.
-
-![Mise en place d'un insert](../assets/images/semaine7/insert.jpg)
-
-*Figure 2 : Mise en place d'un insert dans une pièce imprimée en 3D.*
-
-Après cette étape, Raphaël a utilisé la [découpeuse laser](../Explication/Definitions/#decoupeuse-laser) afin de fabriquer les pièces nécessaires à l'accrochage des portes-bobines. Les différentes pièces ont ensuite été assemblées afin d'obtenir les portes-bobines terminés.
-
-![Portes-bobines installés](../assets/images/semaine7/portes-bobines.jpg)
-
-*Figure 3 : Installation des portes-bobines dans le Makerspace.*
-
-Cette activité m'a permis de voir comment plusieurs techniques de fabrication peuvent être utilisées pour réaliser un même objet. Les pièces imprimées en 3D permettent de réaliser les éléments personnalisés tandis que la découpeuse laser permet de fabriquer rapidement des pièces plates servant à l'assemblage.
 
 ---
 
@@ -59,8 +33,6 @@ Pour cela, nous avons réfléchi à l'utilisation de [Onshape](../Explication/De
 
 Cette mission permet également de poursuivre la réflexion sur l'identification des espaces du Makerspace. Des panneaux clairement visibles doivent permettre aux utilisateurs de comprendre rapidement dans quelle salle ils se trouvent et quelles activités peuvent y être réalisées.
 
----
-
 # Jour 32 – Documentation du stage et préparation de la soutenance
 
 Cette journée a été consacrée à la poursuite de la documentation. J'ai terminé l'ajout des photos disponibles sur le site afin d'illustrer les différentes semaines du stage.
@@ -72,8 +44,6 @@ Cette journée a été consacrée à la poursuite de la documentation. J'ai term
 Une fois cette partie terminée, nous avons commencé à réfléchir à la préparation de la soutenance blanche prévue pour la fin de la semaine.
 
 L'objectif était de déterminer les informations importantes à présenter et de réfléchir à la structure générale du diaporama. Il fallait notamment décider quelles missions présenter, comment expliquer le contexte du stage et comment présenter les différents résultats obtenus.
-
----
 
 # Jour 33 – Préparation de la soutenance et communication
 
@@ -88,8 +58,6 @@ Cette situation m'a permis de prendre conscience de l'importance de la communica
 J'ai également compris qu'il est important de prendre du recul lorsqu'une situation devient difficile. Lorsqu'une personne reste bloquée sur une incompréhension, il peut être compliqué de trouver une solution si la discussion devient conflictuelle. Utiliser une autre manière d'expliquer le problème ou demander l'avis d'une autre personne peut permettre de débloquer rapidement la situation.
 
 Cette expérience constitue donc également un apprentissage professionnel, car la communication est importante dans n'importe quel projet réalisé en équipe.
-
----
 
 # Jour 34 – Finalisation du diaporama
 
@@ -106,8 +74,6 @@ Nous avons également réfléchi à la manière de présenter les informations �
 La préparation nous a donc permis de sélectionner les informations importantes et de réfléchir à l'ordre dans lequel elles seraient présentées.
 
 [**Télécharger le diaporama de la soutenance blanche**](../assets/fichiers/soutenance-blanche.pdf)
-
----
 
 # Jour 35 – Soutenance blanche et axes d'amélioration
 

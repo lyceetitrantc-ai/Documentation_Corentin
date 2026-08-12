@@ -13,20 +13,6 @@ Cette semaine a principalement été consacrée à l'aménagement de l'espace de
 
 ---
 
-## Jour 20 : Fin du tiroir à résistances et poursuite du deuxième tiroir à vis
-
-Aujourd'hui, j'ai terminé le tiroir destiné aux résistances. Toutes les boîtes sont maintenant en place, il ne reste plus que l'étiquetage, que je réaliserai la semaine prochaine.
-
-![](../images/tiroir_resistances.jpg)
-
-J'ai également réfléchi à une logique de rangement afin que les résistances soient faciles à retrouver. Nous avons choisi de les classer par ordre croissant de leur valeur. On commence avec la plus petite résistance, **1 Ω**, puis les valeurs augmentent en descendant dans la première colonne. Une fois arrivé en bas, on reprend en haut de la colonne suivante avec la valeur suivante. Par exemple, la première colonne contient les résistances de **1 Ω à 5 Ω**, puis la deuxième commence avec **6 Ω**, suivie de **7 Ω**, **8 Ω**, et ainsi de suite jusqu'à remplir l'ensemble du tiroir. Cette organisation permettra de retrouver rapidement une valeur sans avoir à chercher dans toutes les boîtes.
-
-J'ai ensuite terminé l'impression des dernières grilles du deuxième tiroir à vis. J'ai imprimé **deux grilles de 3×4** ainsi qu'**une grille de 3×2**. Le deuxième tiroir est donc presque terminé ; il ne lui manque plus que quelques boîtes.
-
-Dans la journée, j'ai également corrigé un problème sur mon site web. Certaines balises ne redirigeaient pas vers la bonne page lorsqu'on cliquait dessus. Après correction, chaque lien fonctionne désormais correctement.
-
-Je n'ai finalement pas eu le temps d'étiqueter toutes les boîtes. Cette tâche sera réalisée la semaine prochaine, lorsque j'aurai le matériel nécessaire. J'ai également défini une logique de rangement pour le tiroir des résistances, mais il faudra encore la documenter afin que les autres utilisateurs puissent la comprendre facilement. Il me restera ensuite à trouver une logique similaire pour les tiroirs à vis, une fois que toutes les grilles et les boîtes auront été imprimées.
-
 ## Jour 21 : Réorganisation de l'espace des imprimantes 3D
 
 Aujourd'hui, nous avons poursuivi la réorganisation de l'espace dédié aux imprimantes 3D afin de préparer l'installation de deux nouvelles [Bambu Lab A1 Mini](../Explication/Imprimante/#bambu-lab-a1-mini). Pour cela, il a fallu démonter une grande partie de l'étagère existante afin de modifier la hauteur des différents niveaux.

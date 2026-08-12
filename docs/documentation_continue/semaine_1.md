@@ -9,7 +9,7 @@ nav_order: 1
 
 # Semaine 1 – Découverte du Makerspace et mise en place d'un système de rangement Gridfinity
 
-## Introduction
+## Introduction de la semaine
 
 Cette première semaine de stage a été consacrée à la découverte du Makerspace, à l'analyse de l'organisation des différents espaces et à la mise en place d'un projet d'amélioration du rangement. Une grande partie du travail a porté sur la préparation d'un système de stockage modulaire basé sur [Gridfinity](../Explication/Definitions/#gridfinity) afin d'optimiser le rangement des vis et des petites pièces.
 

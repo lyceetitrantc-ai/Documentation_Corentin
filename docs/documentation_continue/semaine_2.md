@@ -7,7 +7,7 @@ title: semaine 2
 
 # Semaine 2 – Poursuite du projet Gridfinity et découverte des problématiques d'impression 3D
 
-## Introduction
+## Introduction de la semaine
 
 Cette deuxième semaine de stage a principalement été consacrée à la poursuite de l'impression des bacs de rangement destinés au système [Gridfinity](../Explication/Definitions/#gridfinity). Cette phase de production m'a permis de découvrir davantage le fonctionnement des imprimantes 3D du Makerspace ainsi que certaines problématiques courantes rencontrées lors des impressions. J'ai également participé à la mise en place d'un site web destiné au suivi quotidien des activités réalisées pendant le stage.
 
@@ -59,7 +59,7 @@ Pour gagner du temps, j'ai utilisé une [Bambu Lab P1P](../Explication/Imprimant
 
 Une fois les impressions terminées, nous avons commencé à étiqueter les différents contenants afin de faciliter l'identification des vis et des écrous. Cette étape constitue une partie importante du projet puisqu'elle permettra aux utilisateurs de retrouver rapidement les composants recherchés.
 
-![Boîtes étiquetées](../images/semaine2/etiquetage.jpg)
+![Boîtes étiquetées](../images/semaine3/etiquetage.jpg)
 
 *Figure 7 : Étiquetage des bacs afin de faciliter le rangement des composants.*
 
@@ -74,6 +74,8 @@ Dans certains cas, le filament utilisé pour les lignes de test restait égaleme
 ![Problème de ligne de test](../images/semaine2/ligne-test.jpg)
 
 *Figure 9 : Exemple d'une ligne de test restée accrochée à la buse.*
+
+Après réflexion, le problème lié à la ligne de test qui restait accrochée à la buse était lié au plateau. Le plateau n'étant pas nettoyé et la personne précédente ayant utilisé de la colle, le filament n'adhérait pas au plateau et restait sur la buse. Après avoir réglé ce problème, le problème lié à la purge qui restait accrochée à la buse persistait. C'était parce que le filament était mal inséré : il ne faisait chauffer qu'une petite partie du filament, ce qui faisait en sorte que la buse ne sortait pas assez de plastique, donc ça n'adhérait pas au plateau et ça s'accrochait à la buse.
 
 Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](Explication/Imprimantes/#bambu-lab-x1-carbon). Cette machine plus avancée m'a permis de découvrir un autre type d'imprimante 3D ainsi que ses fonctionnalités spécifiques.
 

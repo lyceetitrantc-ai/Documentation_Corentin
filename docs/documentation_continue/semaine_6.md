@@ -7,45 +7,15 @@ title: semaine 6
 
 # Semaine 6 – Finalisation du rangement Gridfinity et organisation du Makerspace
 
-## Introduction
+## Introduction de la semaine
 
 Cette sixième semaine de stage a principalement été consacrée à la finalisation du système de rangement Gridfinity pour les tiroirs de stockage. J'ai terminé l'impression des boîtes destinées aux vis et aux écrous, puis j'ai poursuivi la fabrication des grilles nécessaires aux différents tiroirs. Cette semaine m'a également permis de participer à plusieurs tâches d'organisation et d'aménagement des espaces du Makerspace.
-
----
-
-# Jour 25 – Finalisation des boîtes pour les vis
-
-La journée a commencé par la poursuite de l'impression des dernières boîtes nécessaires au rangement des vis. Après avoir refait les comptes, car j'avais précédemment mal estimé le nombre de boîtes nécessaires, j'ai imprimé deux boîtes de format 4 × 3, cinq boîtes de 2 × 2 et vingt-trois boîtes de 1 × 2.
-
-![Boîtes imprimées et vis restantes](../assets/images/semaine6/boites-vis.jpg)
-
-*Figure 1 : Dernières boîtes imprimées et vis restant à ranger.*
-
-Grâce à ces impressions, j'ai terminé la fabrication de toutes les boîtes nécessaires au rangement des vis. Il ne restait donc plus que les dernières grilles à imprimer afin de pouvoir terminer complètement l'organisation des tiroirs.
-
-![Grilles restantes à imprimer](../assets/images/semaine6/grilles-restantes.jpg)
-
-*Figure 2 : Grilles restantes nécessaires pour terminer les tiroirs.*
-
-En parallèle, nous avons travaillé sur l'aménagement du MediaLab. Les mousses acoustiques présentes dans la salle étaient tombées à cause de la chaleur. Nous avons donc essayé de les remettre en place en utilisant du [scotch double face](../Explication/Definitions/#scotch-double-face).
-
-![Remise en place des mousses acoustiques](../assets/images/semaine6/mousses-acoustiques.jpg)
-
-*Figure 3 : Remise en place des mousses acoustiques dans le MediaLab.*
-
-Nous avons également déplacé une table qui se trouvait dans le laboratoire 4 afin de l'installer dans le RepairSpace. Ce déplacement avait pour objectif d'adapter l'organisation du mobilier aux besoins des différents espaces.
-
-![Déplacement de la table vers le RepairSpace](../assets/images/semaine6/table-repairspace.jpg)
-
-*Figure 4 : Table déplacée du laboratoire 4 vers le RepairSpace.*
 
 ---
 
 # Jour 26 et 27 – Jours fériés
 
 Les jours 26 et 27 étaient des jours fériés. Aucune activité de stage n'a donc été réalisée pendant ces deux journées.
-
----
 
 # Jour 28 – Poursuite du rangement des tiroirs
 
@@ -68,8 +38,6 @@ J'ai également poursuivi la fabrication des grilles destinées aux autres tiroi
 J'ai ensuite commencé la grille de l'avant-dernier tiroir. Pour celui-ci, j'ai imprimé huit grilles de 4 × 8, deux grilles de 4 × 2 et une grille de 3 × 2. Il ne me restait alors plus que quatre grilles de 3 × 4 ainsi que les grilles du dernier tiroir à fabriquer.
 
 En parallèle, nous avons déplacé plusieurs cartons du laboratoire 3 vers le laboratoire 4 afin de poursuivre l'organisation des espaces.
-
----
 
 # Jour 29 – Fin de l'impression des grilles
 
@@ -96,6 +64,30 @@ Une fois les impressions des grilles terminées, j'ai également imprimé les qu
 *Figure 9 : Portes-bobines et porte-étiquettes imprimés.*
 
 Enfin, nous avons aidé l'association UniMakers à déplacer plusieurs tables. Cette tâche m'a permis de participer à l'organisation générale des espaces du Makerspace en dehors de mon projet principal.
+
+# Jour 30 – Documentation et fabrication des portes-bobines
+
+La semaine a commencé par l'ajout des photos de la première semaine sur mon site de documentation. L'objectif était de commencer à intégrer les photographies prises pendant le stage afin d'illustrer les différentes missions réalisées. Certaines images étaient cependant trop grandes et prenaient trop de place sur les pages. J'ai donc dû adapter leur taille afin qu'elles soient mieux intégrées au site.
+
+![Ajout des photos de la semaine 1](../assets/images/semaine7/photos-semaine1.jpg)
+
+*Figure 1 : Ajout des photos de la première semaine sur le site.*
+
+En parallèle, nous avons travaillé sur la fabrication des portes-bobines et des porte-étiquettes. Pour assembler certaines pièces imprimées en 3D, nous avons utilisé une machine qui fonctionne sur un principe similaire à un fer à souder afin de mettre en place des [inserts](../Explication/Definitions/#insert) métalliques.
+
+Un insert permet de créer un point de fixation dans une pièce imprimée en 3D. Une fois installé, il permet notamment de visser une pièce sans avoir besoin de réaliser directement le filetage dans le plastique.
+
+![Mise en place d'un insert](../assets/images/semaine7/insert.jpg)
+
+*Figure 2 : Mise en place d'un insert dans une pièce imprimée en 3D.*
+
+Après cette étape, Raphaël a utilisé la [découpeuse laser](../Explication/Definitions/#decoupeuse-laser) afin de fabriquer les pièces nécessaires à l'accrochage des portes-bobines. Les différentes pièces ont ensuite été assemblées afin d'obtenir les portes-bobines terminés.
+
+![Portes-bobines installés](../assets/images/semaine7/portes-bobines.jpg)
+
+*Figure 3 : Installation des portes-bobines dans le Makerspace.*
+
+Cette activité m'a permis de voir comment plusieurs techniques de fabrication peuvent être utilisées pour réaliser un même objet. Les pièces imprimées en 3D permettent de réaliser les éléments personnalisés tandis que la découpeuse laser permet de fabriquer rapidement des pièces plates servant à l'assemblage.
 
 ---
 

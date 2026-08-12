@@ -13,14 +13,6 @@ Cette semaine a été principalement consacrée à l'amélioration de l'organisa
 
 ---
 
-# Jour 15 : Correction de bugs sur le site
-
-Aujourd’hui, j’ai corrigé un problème sur le site web. Certaines balises redirigeaient vers les mauvaises pages lorsqu’on cliquait dessus. J’ai donc vérifié les liens et corrigé ceux qui étaient mal configurés afin que chaque balise mène bien vers la page correspondante.
-
-Nous avons également fait un point avec mon maître de stage sur le travail réalisé durant la semaine. Cela a permis de faire le bilan des tâches terminées et de préparer celles à venir.
-
-Pour la semaine prochaine, nous devrons commencer à réfléchir à une solution concernant les ordinateurs qui rencontrent régulièrement des problèmes.
-
 # Jour 16 : Impression multicolore et rangement des vis
 
 Je me suis renseigné sur les possibilités d’impression multicolore avec les imprimantes disponibles au Makerspace. Je voulais savoir s’il était possible de mélanger plusieurs couleurs comme en peinture afin d’obtenir de nouvelles teintes. J’ai appris que ce n’était pas possible avec les machines dont nous disposons. En revanche, certaines imprimantes peuvent utiliser plusieurs filaments de couleurs différentes au cours d’une même impression.
@@ -119,18 +111,18 @@ J’ai aussi appris que je devrai fabriquer les grilles pour quatre autres tiroi
 
 # Jour 20 : Fin du tiroir des résistances
 
-Aujourd’hui, j’ai terminé l’organisation du tiroir destiné aux résistances. Toutes les boîtes sont désormais en place et le système de rangement est fonctionnel.
+Aujourd'hui, j'ai terminé le tiroir destiné aux résistances. Toutes les boîtes sont maintenant en place, il ne reste plus que l'étiquetage, que je réaliserai la semaine prochaine.
 
 ![Tiroir des résistances terminé](../images/semaine4/tiroir_resistances.jpg)
 *Figure 12 : Tiroir des résistances* 
 
-Pour le classement, nous avons choisi de ranger les résistances par ordre croissant de valeur. On commence par les plus petites valeurs, puis on progresse progressivement jusqu’aux plus grandes. Une fois arrivé en bas d’une colonne, le rangement reprend en haut de la colonne suivante. Cette méthode permet de retrouver rapidement une résistance sans avoir à chercher dans tout le tiroir.
+J'ai également réfléchi à une logique de rangement afin que les résistances soient faciles à retrouver. Nous avons choisi de les classer par ordre croissant de leur valeur. On commence avec la plus petite résistance, **1 Ω**, puis les valeurs augmentent en descendant dans la première colonne. Une fois arrivé en bas, on reprend en haut de la colonne suivante avec la valeur suivante. Par exemple, la première colonne contient les résistances de **1 Ω à 5 Ω**, puis la deuxième commence avec **6 Ω**, suivie de **7 Ω**, **8 Ω**, et ainsi de suite jusqu'à remplir l'ensemble du tiroir. Cette organisation permettra de retrouver rapidement une valeur sans avoir à chercher dans toutes les boîtes.
 
-J’ai également terminé l’impression des dernières grilles nécessaires pour le deuxième tiroir à vis. Celui-ci est désormais presque prêt et ne nécessite plus que quelques boîtes supplémentaires pour être entièrement opérationnel.
+J'ai ensuite terminé l'impression des dernières grilles du deuxième tiroir à vis. J'ai imprimé **deux grilles de 3×4** ainsi qu'**une grille de 3×2**. Le deuxième tiroir est donc presque terminé ; il ne lui manque plus que quelques boîtes.
 
 J’ai aussi corrigé sur le site web le problème de redirection des balises. Désormais, lorsqu’un utilisateur clique sur un mot ou une balise, il est correctement redirigé vers la page correspondante.
 
-Je n’ai finalement pas eu le temps d’étiqueter toutes les boîtes. Cette tâche sera réalisée la semaine prochaine. Il reste également à documenter précisément la logique de rangement du tiroir des résistances afin qu’elle puisse être comprise et utilisée facilement par les autres utilisateurs du Makerspace.
+Je n’ai finalement pas eu le temps d’étiqueter toutes les boîtes. Cette tâche sera réalisée la semaine prochaine. 
 
 Pour les tiroirs à vis, la logique de rangement n’est pas encore définie. Je prévois de m’en occuper une fois l’ensemble des grilles et des boîtes imprimées. Cette tâche fera partie des objectifs de la semaine prochaine.
 

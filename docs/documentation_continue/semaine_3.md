@@ -8,31 +8,11 @@ nav_order: 3
 
 # Semaine 3 – Finalisation du premier tiroir et amélioration de la documentation
 
-## Introduction
+## Introduction de la semaine
 
 Cette troisième semaine de stage a été consacrée à la poursuite du projet de rangement avec le système [Gridfinity](../Explication/Definitions/#gridfinity). L'objectif était de terminer le premier tiroir en poursuivant l'impression des bacs, tout en découvrant de nouvelles problématiques liées aux imprimantes 3D. Une partie de la semaine a également été consacrée à l'amélioration de la documentation du stage et à la conception du site web.
 
 ---
-
-# Jour 10 – Impression de bacs de plus grande capacité
-
-Afin de poursuivre l'organisation des vis et des écrous, nous avons commencé à remplir les premiers bacs imprimés. Nous avons rapidement constaté que certains types de vis étaient présents en grande quantité. Pour éviter de répartir un même composant dans plusieurs contenants, j'ai décidé d'imprimer des bacs de plus grande capacité.
-
-Pour accélérer la production, j'ai utilisé une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p), dont le plateau est plus grand que celui d'une Bambu Lab A1 Mini. Cette imprimante permet de produire davantage de pièces en une seule impression, ce qui réduit le temps nécessaire à la fabrication de l'ensemble des bacs.
-
-Une fois les impressions terminées, nous avons commencé à étiqueter les différents bacs afin de faciliter le rangement et l'identification des composants.
-
-![Boîtes étiquetées](../images/semaine3/etiquetage.jpg)
-
-*Figure 1 : Mise en place des étiquettes sur les bacs.*
-
-Au cours de cette journée, j'ai également observé un problème récurrent sur une imprimante P1P. Lors de la purge du filament [PLA](../Explication/Definitions/#pla), celui-ci restait parfois collé à la buse au lieu d'être correctement évacué. Ce phénomène pouvait empêcher le bon déroulement de l'impression.
-
-Il arrivait également que la ligne de test réalisée au début de l'impression reste accrochée à la buse. Lorsque cela se produisait, elle pouvait être entraînée pendant les déplacements de la tête d'impression et provoquer un défaut sur la pièce.
-
-Après réflexion, le problème lié à la ligne de test qui restait accrochée à la buse était lié au plateau. Le plateau n'étant pas nettoyé et la personne précédente ayant utilisé de la colle, le filament n'adhérait pas au plateau et restait sur la buse. Après avoir réglé ce problème, le problème lié à la purge qui restait accrochée à la buse persistait. C'était parce que le filament était mal inséré : il ne faisait chauffer qu'une petite partie du filament, ce qui faisait en sorte que la buse ne sortait pas assez de plastique, donc ça n'adhérait pas au plateau et ça s'accrochait à la buse.
-
-Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon), ce qui m'a permis de découvrir une nouvelle machine ainsi que ses fonctionnalités avancées.
 
 # Jour 11 – Diagnostic de nouvelles erreurs d'impression
 
