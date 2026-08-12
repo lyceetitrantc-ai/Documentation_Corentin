@@ -23,24 +23,18 @@ Les deux premiers niveaux ont été entièrement démontés. Pour le troisième,
 
 Nous nous sommes ensuite rendu compte que la multiprise se retrouvait trop haute par rapport à sa position initiale. Pour résoudre ce problème, nous avons inversé la barre supportant la multiprise avec celle de l'étage supérieur. Cette modification nous a obligés à déplacer également les numéros des imprimantes afin qu'ils correspondent de nouveau à leur emplacement.
 
-![](../images/reorganisation_etagere.jpg)
+![Reorganisation etagere](../images/semaine5/reorganisation_etagere.jpg)
+*Figure 1 : Reorganisation étagère* 
 
 À la fin de la journée, les imprimantes étaient installées dans leur nouvelle configuration, mais les deux nouvelles machines n'avaient pas encore pu être montées.
-
-![](../images/nouvelle_configuration_imprimantes.jpg)
 
 J'ai également commencé à réfléchir au [cable management](../Explication/Definitions/#cable-management). En revanche, je n'ai pas encore trouvé de solution satisfaisante pour le câble de la multiprise, qui reste beaucoup trop long, même en le faisant passer le long des montants métalliques.
 
 Nous avons également relevé plusieurs éléments qu'il faudra corriger avant que l'installation soit totalement terminée :
 
-* il manque les plaques rouges portant les numéros **11** et **12** ;
-* il manque deux porte-bobines, un pour le côté gauche et un pour le côté droit des nouvelles imprimantes.
+-il manque les plaques rouges portant les numéros **11** et **12** ;-il manque deux porte-bobines, un pour le côté gauche et un pour le côté droit des nouvelles imprimantes.
 
-![](../images/plaque_manquante.jpg)
-
-![](../images/porte_bobine_manquant.jpg)
-
-À la fin de cette journée, les imprimantes n'étaient donc pas encore opérationnelles. Certaines étaient rebranchées sur la multiprise, mais sans filament ni [bac de purge](../Explication/Definitions/#purge), tandis que d'autres étaient toujours débranchées. La prochaine étape consistera à terminer le montage des nouvelles imprimantes, remettre en place les accessoires manquants et finaliser le rangement des câbles.
+À la fin de cette journée, les imprimantes n'étaient donc pas encore opérationnelles. Certaines étaient rebranchées sur la multiprise, mais sans filament ni [bac de purge](../Explication/Definitions/#purge), tandis que d'autres étaient toujours débranchées. La prochaine étape consistera à terminer le montage des nouvelles imprimantes, remettre en place les accessoires manquants et finaliser le management des câbles.
 
 ## Jour 22 : Étiquetage, modélisation 3D et installation des nouvelles imprimantes
 
@@ -50,7 +44,8 @@ J'ai ensuite réalisé un modèle 3D d'un bouchon destiné au stockage des tiges
 
 Pour réaliser ce modèle sur [Onshape](../Explication/Definitions/#onshape), j'ai commencé par mesurer le tube. Celui-ci possède un diamètre extérieur de **6,42 cm** et une épaisseur de **0,3 cm**. J'ai créé une première esquisse avec un cercle de **6,82 cm**, puis j'ai réalisé une extrusion de **35 mm** afin de former le corps du bouchon. J'ai ensuite créé une seconde esquisse avec deux cercles de **6,72 cm** et **6,42 cm**, avant d'effectuer une extrusion en enlèvement de matière afin de créer le logement dans lequel le tube viendra s'insérer. L'objectif est de laisser suffisamment de matière pour que le bouchon maintienne correctement le tube tout en restant facile à installer.
 
-![](../images/modele_bouchon_onshape.jpg)
+![bouchon onshape](../images/semaine5/modele_bouchon_onshape.jpg)
+*Figure 2 : Modèle onshape* 
 
 Au cours de la journée, nous avons également reçu une nouvelle mission : refaire entièrement les bacs de récupération des déchets de purge des imprimantes. Il faudra donc modéliser un nouveau modèle plus adapté avant de lancer leur impression.
 
