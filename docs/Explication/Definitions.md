@@ -168,5 +168,59 @@ Une **imprimante 3D** fabrique des objets en ajoutant de la matière couche par 
 ## Onshape {#onshape}
 
 **Onshape** est un logiciel de conception assistée par ordinateur (CAO) accessible en ligne. Il permet de créer des modèles 3D et de concevoir des pièces qui peuvent ensuite être fabriquées, notamment avec une imprimante 3D ou une découpeuse laser.
+
+## Coque {#coque}
+
+**La coque** est un outil de conception qui permet de creuser une pièce en retirant de la matière à l'intérieur tout en conservant une épaisseur définie pour les parois. Dans Onshape, cet outil permet notamment de transformer rapidement un volume plein en une pièce creuse.
+
+## Encoche {#encoche}
+
+**Une encoche** est une découpe ou une forme réalisée dans une pièce afin de permettre son assemblage ou son positionnement avec une autre pièce. Dans mon projet, j'ai utilisé un système d'encoches pour pouvoir assembler les deux parties de la boîte à déchets après leur impression.
+
+## Supports {#supports}
+
+**Les supports** sont des structures temporaires utilisées lors d'une impression 3D pour maintenir les parties d'une pièce qui se trouvent dans le vide. Ils sont imprimés en même temps que la pièce puis retirés une fois l'impression terminée. Leur utilisation permet notamment de réaliser des formes qui seraient difficiles à imprimer directement.
+
+## Angle d'impression {#angle-d-impression}
+
+**L'angle d'impression** correspond à l'orientation donnée à une pièce lorsqu'elle est placée sur le plateau d'une imprimante 3D. Modifier l'orientation d'une pièce permet de réduire l'utilisation de supports, d'améliorer l'adhérence au plateau ou de faire tenir une pièce plus grande sur le plateau.
+
+## STEP {#step}
+
+**Le STEP** est un format de fichier utilisé pour transférer des modèles 3D entre différents logiciels de conception assistée par ordinateur. Il conserve les informations géométriques nécessaires à la modélisation et permet de continuer à modifier une pièce après son exportation dans un logiciel compatible.
+
+## STL {#stl}
+
+**Le STL** est un format de fichier très utilisé dans l'impression 3D. Il représente la surface d'un objet sous la forme d'un maillage composé de nombreux triangles. Il permet aux logiciels de préparation d'impression de comprendre la forme de la pièce, mais ne conserve pas l'historique de conception utilisé pour créer le modèle.
+
+## 3MF {#3mf}
+
+**Le 3MF** est un format de fichier conçu pour la fabrication additive et l'impression 3D. Il peut contenir davantage d'informations qu'un fichier STL, notamment des informations concernant les couleurs, les matériaux et certains paramètres d'impression. Il est particulièrement intéressant pour les projets nécessitant plusieurs couleurs ou matériaux.
+
+## Maintenance préventive {#maintenance-preventive}
+
+**La maintenance préventive** correspond à l'ensemble des opérations réalisées régulièrement sur une machine afin de maintenir son bon fonctionnement et de prévenir l'apparition de problèmes. Pour une imprimante 3D, cela peut notamment consister à nettoyer certaines pièces mécaniques, appliquer de la graisse ou vérifier différents composants.
+
+## Vis trapézoïdale {#vis-trapezoidale}
+
+**Une vis trapézoïdale** est une vis mécanique utilisée pour transformer un mouvement de rotation en mouvement linéaire. Dans une imprimante 3D, elle peut notamment être utilisée pour déplacer le plateau ou une partie de la machine verticalement.
+
+## Tic de langage {#tic-de-langage}
+
+**Un tic de langage** est un mot, une expression ou un son répété involontairement lorsqu'une personne parle. Les tics de langage peuvent rendre une présentation moins claire ou moins professionnelle lorsqu'ils sont utilisés trop fréquemment. Lors de mes soutenances, j'ai notamment remarqué que j'utilisais souvent l'expression « du coup ».
+
+## Impression multicolore {#impression-multicolore}
+
+**L'impression multicolore** est un procédé d'impression 3D permettant de réaliser une même pièce avec plusieurs couleurs de filament. L'imprimante doit pouvoir sélectionner différents filaments et effectuer des changements de couleur pendant l'impression. Dans mon projet, j'ai utilisé un AMS avec une Bambu Lab X1 Carbon pour réaliser une impression multicolore.
+
+## Maillage {#maillage}
+
+**Un maillage** est une représentation d'une surface ou d'un objet en 3D composée de nombreux éléments géométriques, généralement des triangles. Les fichiers STL utilisent un maillage pour représenter la forme d'un objet destiné à être imprimé.
+
+## CAO {#cao}
+
+**La CAO**, ou Conception Assistée par Ordinateur, correspond à l'utilisation d'un logiciel informatique pour concevoir et modifier des objets ou des pièces en deux ou trois dimensions. Dans mon projet, j'utilise notamment Onshape pour réaliser les modèles 3D des pièces avant leur impression.
+
+
 ```
 
