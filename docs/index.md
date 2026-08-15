@@ -17,7 +17,7 @@ Parmi les équipements disponibles, on retrouve notamment différentes **imprima
 
 J'ai choisi de réaliser mon stage au Makerspace car l'**impression 3D** est un domaine qui m'intéresse particulièrement.
 
-Dans le cadre de ma formation en **Bachelor Ingénierie Numérique**, j'ai eu l'occasion de suivre des cours liés à l'impression 3D. Ces cours m'ont permis de découvrir ce domaine et m'ont donné envie d'approfondir mes connaissances en travaillant directement avec les machines et en réalisant des projets concrets.
+Dans le cadre de ma formation en **Bachelor Ingénierie Numérique**, moi, Corentin TITRANT ai eu l'occasion de suivre des cours liés à l'impression 3D. Ces cours m'ont permis de découvrir ce domaine et m'ont donné envie d'approfondir mes connaissances en travaillant directement avec les machines et en réalisant des projets concrets.
 
 Le Makerspace était donc un environnement intéressant pour mettre en pratique ce que j'avais pu apprendre pendant ma formation, tout en découvrant d'autres aspects liés à la fabrication, à l'organisation d'un espace de travail et à la gestion de projets.
 

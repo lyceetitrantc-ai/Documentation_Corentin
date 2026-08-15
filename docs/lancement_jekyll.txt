@@ -1,2 +1,6 @@
 cd docs
-bundle exec jekyll serve
+bundle exec jekyll servejekyll new myblog
+
+
+
+mon-site
