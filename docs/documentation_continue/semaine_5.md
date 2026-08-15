@@ -13,7 +13,7 @@ Cette semaine a principalement été consacrée à l'aménagement de l'espace de
 
 ---
 
-## Jour 21 : Réorganisation de l'espace des imprimantes 3D
+# Jour 21 : Réorganisation de l'espace des imprimantes 3D
 
 Aujourd'hui, nous avons poursuivi la réorganisation de l'espace dédié aux imprimantes 3D afin de préparer l'installation de deux nouvelles [Bambu Lab A1 Mini](../Explication/Imprimante/#bambu-lab-a1-mini). Pour cela, il a fallu démonter une grande partie de l'étagère existante afin de modifier la hauteur des différents niveaux.
 
@@ -36,7 +36,7 @@ Nous avons également relevé plusieurs éléments qu'il faudra corriger avant q
 
 À la fin de cette journée, les imprimantes n'étaient donc pas encore opérationnelles. Certaines étaient rebranchées sur la multiprise, mais sans filament ni [bac de purge](../Explication/Definitions/#purge), tandis que d'autres étaient toujours débranchées. La prochaine étape consistera à terminer le montage des nouvelles imprimantes, remettre en place les accessoires manquants et finaliser le management des câbles.
 
-## Jour 22 : Étiquetage, modélisation 3D et installation des nouvelles imprimantes
+# Jour 22 : Étiquetage, modélisation 3D et installation des nouvelles imprimantes
 
 Ce matin, j'ai poursuivi l'étiquetage des boîtes de rangement. J'ai utilisé les dernières recharges de papier de l'étiqueteuse, mais une fois celles-ci terminées, il n'y en avait plus en stock. Je ne peux donc plus continuer l'étiquetage pour le moment et je reprendrai cette tâche lorsque nous aurons reçu de nouvelles recharges.
 
@@ -65,7 +65,7 @@ Une fois le côté droit terminé, nous avons déplacé l'ensemble du côté gau
 
 À la fin de la journée, l'installation était beaucoup plus adaptée, mais il reste encore plusieurs éléments à réaliser : fabriquer les plaques des imprimantes **11** et **12**, imprimer les nouveaux porte-bobines et réimprimer les bacs de récupération des déchets de purge.
 
-## Jour 23 : Amélioration d'un modèle 3D et nouvelles tâches d'organisation
+# Jour 23 : Amélioration d'un modèle 3D et nouvelles tâches d'organisation
 
 Aujourd'hui, j'ai commencé par reprendre le modèle 3D du bouchon réalisé la veille. Lors du premier essai, le bouchon ne rentrait pas correctement dans le tube en plastique.
 
@@ -105,11 +105,11 @@ Enfin, j'ai récupéré deux composants électroniques sur une carte en retirant
 
 ![](../images/recuperation_composants.jpg)
 
-## Jour 24 : Télétravail
+# Jour 24 : Télétravail
 
 Aujourd'hui, j'étais en télétravail. J'en ai profité pour avancer sur la documentation de mon site. J'ai rédigé et mis en ligne la **semaine 4** de la documentation continue, en reprenant les différentes tâches réalisées au cours de cette semaine et en les organisant de manière claire afin de garder un suivi régulier de mon stage.
 
-## Jour 25 : Fin des impressions des boîtes à vis et diverses tâches
+# Jour 25 : Fin des impressions des boîtes à vis et diverses tâches
 
 Aujourd'hui, j'ai lancé les dernières impressions nécessaires pour terminer les boîtes destinées aux tiroirs à vis. Après avoir refait le comptage, je me suis rendu compte que je m'étais trompé la veille sur le nombre de boîtes **1×2** restantes. Il ne m'en fallait finalement pas **15**, mais **23**.
 

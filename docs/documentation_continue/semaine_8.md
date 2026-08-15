@@ -9,11 +9,11 @@ title: semaine 8
 
 ## Introduction
 
-Cette huitième semaine de stage a principalement été consacrée à la conception d'une nouvelle boîte destinée à récupérer les déchets produits par les imprimantes 3D. Cette mission m'a permis d'aller plus loin dans l'utilisation d'[Onshape](../definitions/#onshape), notamment en prenant en compte les contraintes réelles de l'environnement dans lequel la pièce doit être utilisée.
+Cette huitième semaine de stage a principalement été consacrée à la conception d'une nouvelle boîte destinée à récupérer les déchets produits par les imprimantes 3D. Cette mission m'a permis d'aller plus loin dans l'utilisation d'[Onshape](../Explication/Definitions/#onshape), notamment en prenant en compte les contraintes réelles de l'environnement dans lequel la pièce doit être utilisée.
 
-J'ai également découvert de nouvelles méthodes de conception et d'[impression 3D](../definitions/#impression-3d), notamment l'utilisation d'un angle de 45 degrés pour limiter l'utilisation de [supports](../definitions/#supports), ainsi que les différences entre les formats de fichiers utilisés en modélisation et en fabrication.
+J'ai également découvert de nouvelles méthodes de conception et d'[impression 3D](../Explication/Definitions/#impression-3d), notamment l'utilisation d'un angle de 45 degrés pour limiter l'utilisation de [supports](../Explication/Definitions/#supports), ainsi que les différences entre les formats de fichiers utilisés en modélisation et en fabrication.
 
-En parallèle, j'ai participé à une nouvelle soutenance blanche, réalisé la maintenance préventive d'une imprimante Bambu Lab X1 Carbon et participé à une première impression multicolore avec un [AMS](../definitions/#ams).
+En parallèle, j'ai participé à une nouvelle soutenance blanche, réalisé la maintenance préventive d'une imprimante Bambu Lab X1 Carbon et participé à une première impression multicolore avec un [AMS](../Explication/Definitions/#ams).
 
 ---
 
@@ -39,9 +39,9 @@ La solution retenue a donc été de conserver les dimensions permettant à la bo
 
 *Figure 2 : Relevé des dimensions de l'ancienne boîte afin de conserver le même système de fixation.*
 
-Pour commencer la conception sur [Onshape](../definitions/#onshape), j'ai repris les dimensions de l'ancienne boîte afin que la nouvelle puisse s'emboîter correctement sur les barres métalliques de l'étagère.
+Pour commencer la conception sur [Onshape](../Explication/Definitions/#onshape), j'ai repris les dimensions de l'ancienne boîte afin que la nouvelle puisse s'emboîter correctement sur les barres métalliques de l'étagère.
 
-J'ai réalisé une première [esquisse](../definitions/#esquisse) composée de deux rectangles. J'ai ensuite utilisé une [extrusion](../definitions/#extrusion) afin d'ajouter de la matière entre ces deux formes. Cette méthode m'a permis de conserver une épaisseur de paroi d'environ un centimètre.
+J'ai réalisé une première [esquisse](../Explication/Definitions/#esquisse) composée de deux rectangles. J'ai ensuite utilisé une [extrusion](../Explication/Definitions/#extrusion) afin d'ajouter de la matière entre ces deux formes. Cette méthode m'a permis de conserver une épaisseur de paroi d'environ un centimètre.
 
 ![Première esquisse de la boîte](../assets/images/semaine8/premiere-esquisse.jpg)
 
@@ -53,7 +53,7 @@ J'ai ensuite réalisé une deuxième esquisse permettant de créer un passage po
 
 *Figure 4 : Conception de la zone permettant aux déchets de tomber dans la boîte.*
 
-J'ai ensuite ajouté plusieurs [congés](../definitions/#conge) sur les bords extérieurs de la boîte. Cela permet d'éviter d'avoir des angles trop pointus qui pourraient provoquer des blessures lors de la manipulation.
+J'ai ensuite ajouté plusieurs [congés](../Explication/Definitions/#conge) sur les bords extérieurs de la boîte. Cela permet d'éviter d'avoir des angles trop pointus qui pourraient provoquer des blessures lors de la manipulation.
 
 ![Congés sur les bords](../assets/images/semaine8/conges.jpg)
 
@@ -77,8 +77,6 @@ Enfin, j'ai réalisé une extrusion en enlèvement de matière afin d'augmenter 
 
 *Figure 8 : Conception de l'intérieur de la boîte à déchets.*
 
----
-
 # Jour 37 – Amélioration de la conception et prise en compte des contraintes réelles
 
 Cette journée a commencé par la rédaction des explications concernant la conception de la boîte à déchets. La veille, j'avais principalement expliqué les choix réalisés et les raisons de ces choix. J'ai cette fois détaillé les différentes étapes de conception réalisées sur Onshape.
@@ -91,7 +89,7 @@ Il m'a notamment conseillé de reproduire directement les contraintes réelles d
 
 *Figure 9 : Reproduction des contraintes réelles de l'étagère dans Onshape.*
 
-J'ai également découvert l'outil [coque](../definitions/#coque) d'Onshape. Cet outil permet de retirer de la matière à l'intérieur d'une pièce en conservant une épaisseur définie sur ses parois. Cette méthode est beaucoup plus simple que de réaliser manuellement plusieurs esquisses pour créer les parois et le fond de la boîte.
+J'ai également découvert l'outil [coque](../Explication/Definitions/#coque) d'Onshape. Cet outil permet de retirer de la matière à l'intérieur d'une pièce en conservant une épaisseur définie sur ses parois. Cette méthode est beaucoup plus simple que de réaliser manuellement plusieurs esquisses pour créer les parois et le fond de la boîte.
 
 Nous avons également réfléchi à l'orientation de la pièce lors de son impression. Je pensais initialement être limité par la taille du plateau et ne pas pouvoir utiliser les trois barres de l'étagère comme points de fixation.
 
@@ -107,9 +105,7 @@ Cependant, cette modification a fait apparaître un nouveau problème : une part
 
 *Figure 10 : Partie de la boîte dépassant du plateau d'impression.*
 
-Pour résoudre ce problème, j'ai décidé de séparer la boîte en deux parties. J'ai ensuite réfléchi à un système d'[encoche](../definitions/#encoche) permettant d'assembler correctement les deux parties après leur impression.
-
----
+Pour résoudre ce problème, j'ai décidé de séparer la boîte en deux parties. J'ai ensuite réfléchi à un système d'[encoche](../Explication/Definitions/#encoche) permettant d'assembler correctement les deux parties après leur impression.
 
 # Jour 38 – Adaptation de la boîte pour limiter les supports
 
@@ -127,15 +123,13 @@ Cette modification m'a permis de mieux comprendre l'importance de l'orientation 
 
 J'ai également réalisé une nouvelle soutenance blanche. Cette deuxième présentation était meilleure que la première et prenait en compte les remarques qui m'avaient été données précédemment.
 
-Cependant, plusieurs points restaient à améliorer. J'avais notamment plusieurs [tics de langage](../definitions/#tic-de-langage), notamment l'utilisation répétée de « du coup ».
+Cependant, plusieurs points restaient à améliorer. J'avais notamment plusieurs [tics de langage](../Explication/Definitions/#tic-de-langage), notamment l'utilisation répétée de « du coup ».
 
 J'ai également appris qu'il était important de mieux organiser la présentation d'un sujet. Par exemple, pour présenter le Makerspace, il était plus logique de suivre l'ordre « qu'est-ce que c'est, où se trouve-t-il, pourquoi avons-nous ce besoin, puis quelles solutions avons-nous mises en place ».
 
 Cette organisation permet de mieux comprendre le raisonnement et évite de donner des informations dans un ordre qui peut sembler répétitif.
 
 Un autre point important était de mieux montrer mon implication personnelle dans les projets. Il fallait expliquer clairement les réflexions que j'avais réalisées et les choix que j'avais faits afin que le travail présenté ne donne pas l'impression d'avoir été réalisé uniquement par quelqu'un d'autre.
-
----
 
 # Jour 39 – Finalisation de la conception et découverte des formats de fichiers
 
@@ -151,15 +145,11 @@ Cette solution a été validée par Alban. Cette mission m'a permis de découvri
 
 J'ai également appris la différence entre plusieurs formats de fichiers utilisés dans la conception et l'impression 3D.
 
-Le format [STEP](../definitions/#step) est un format de modélisation qui permet de conserver les informations nécessaires à la modification d'une pièce. Un fichier STEP peut être ouvert dans différents logiciels de modélisation et peut continuer à être modifié après son exportation.
+Le format [STEP](../Explication/Definitions/#step) est un format de modélisation qui permet de conserver les informations nécessaires à la modification d'une pièce. Un fichier STEP peut être ouvert dans différents logiciels de modélisation et peut continuer à être modifié après son exportation.
 
-À l'inverse, les formats [STL](../definitions/#stl) et [3MF](../definitions/#3mf) sont principalement utilisés pour la fabrication. Ils décrivent la géométrie de la pièce sous forme de petits triangles permettant aux logiciels d'impression de préparer la fabrication. Ils sont donc moins adaptés à la modification de la conception dans un logiciel de modélisation.
+À l'inverse, les formats [STL](../Explication/Definitions/#stl) et [3MF](../Explication/Definitions/#3mf) sont principalement utilisés pour la fabrication. Ils décrivent la géométrie de la pièce sous forme de petits triangles permettant aux logiciels d'impression de préparer la fabrication. Ils sont donc moins adaptés à la modification de la conception dans un logiciel de modélisation.
 
----
-
-# Maintenance préventive de la Bambu Lab X1 Carbon
-
-J'ai également réalisé une opération de [maintenance préventive](../definitions/#maintenance-preventive) sur une [Bambu Lab X1 Carbon](../materiel/#bambu-lab-x1-carbon).
+J'ai également réalisé une opération de [maintenance préventive](../Explication/Definitions/#maintenance-preventive) sur une [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon).
 
 La machine dispose d'un système permettant d'indiquer lorsqu'une opération de maintenance doit être réalisée. Un QR code permet ensuite d'accéder aux instructions nécessaires pour effectuer la procédure.
 
@@ -173,17 +163,13 @@ Pour réaliser cette opération, j'ai commencé par mettre les équipements de p
 
 *Figure 14 : Équipements utilisés lors de la maintenance.*
 
-J'ai nettoyé les [vis trapézoïdales](../definitions/#vis-trapezoidale) qui permettent au plateau de se déplacer verticalement. Pour cela, j'ai utilisé un tissu avec de l'alcool afin de retirer les anciennes saletés et résidus.
+J'ai nettoyé les [vis trapézoïdales](../Explication/Definitions/#vis-trapezoidale) qui permettent au plateau de se déplacer verticalement. Pour cela, j'ai utilisé un tissu avec de l'alcool afin de retirer les anciennes saletés et résidus.
 
 J'ai ensuite appliqué la graisse prévue pour la machine sur les vis afin d'assurer leur bon fonctionnement.
 
 Une fois la maintenance terminée, j'ai indiqué à l'imprimante que l'opération avait été réalisée. J'ai ensuite rangé le matériel utilisé et éliminé les déchets produits pendant l'opération.
 
 Cette intervention m'a permis de comprendre qu'une imprimante 3D nécessite également un entretien régulier pour conserver de bonnes performances et limiter les problèmes mécaniques.
-
----
-
-# Première impression multicolore
 
 J'ai également aidé Raphaël à réaliser une impression multicolore destinée à son panneau en 3D.
 
@@ -195,23 +181,22 @@ J'ai sélectionné les différentes lettres afin de leur attribuer une couleur s
 
 *Figure 15 : Préparation d'une impression multicolore.*
 
-L'impression a été réalisée avec l'[AMS](../definitions/#ams) de la Bambu Lab X1 Carbon. Il s'agissait de ma première expérience avec une impression multicolore.
+L'impression a été réalisée avec l'[AMS](../Explication/Definitions/#ams) de la Bambu Lab X1 Carbon. Il s'agissait de ma première expérience avec une impression multicolore.
 
 Cette expérience m'a permis de mettre en pratique les connaissances que j'avais acquises précédemment sur le fonctionnement de l'AMS et sur les changements de filament nécessaires lors d'une impression multicolore.
-
----
 
 # Jour 40 – Lancement de l'impression et fin du stage
 
 Pour terminer la mission de conception de la boîte à déchets, j'ai lancé son impression.
 
-L'impression étant particulièrement longue, avec une durée prévue d'environ sept heures, je ne pourrai pas observer directement la fin de la fabrication puisque mon stage se termine à ce moment-là. Alban devra donc vérifier le résultat final de l'impression et me transmettre une photo afin de confirmer que la pièce a correctement été fabriquée.
+L'impression étant particulièrement longue, avec une durée prévue d'environ sept heures, je ne pourrai pas observer directement la fin de la fabrication puisque mon stage se termine à ce moment-là. Alban devra donc vérifier le résultat final de l'impression et me transmettre une photo afin de confirmer que la pièce a correctement été fabriquée. 
 
 ![Lancement de l'impression de la boîte](../assets/images/semaine8/lancement-impression.jpg)
 
 *Figure 16 : Lancement de l'impression finale de la boîte à déchets.*
 
-L'après-midi, nous nous sommes rendus à la Machinerie à Amiens afin de réaliser nos [ESS](../definitions/#ess).
+L'après-midi, nous nous sommes rendus à la Machinerie à Amiens afin de réaliser nos ESS (des journées associatives obligatoires). La Machinerie est est aussi un FATLAB avec d'autres machines que le makerspace. Cette visite nous à permis d'utiliser les compétences acquises au Makerspace. 
+J'ai pu revoir Alban dans l'après midi et il m'a dit que la partie gauche de la boite c'était bien imprimée mais que la partie droite à rencontrer un défaut d'impression, elle a commencé à faire des spaghettis (à ne plus suivre son tracé mais à quand meme imprimer ce qui donne l'impression que observe des spaghettis) à la toutes fins de l'impression. 
 
 Cette dernière semaine m'a permis de mettre en pratique de nombreuses compétences développées pendant le stage. J'ai notamment pu travailler sur la conception 3D, l'impression 3D, la maintenance d'une machine, la documentation et la préparation d'une présentation.
 

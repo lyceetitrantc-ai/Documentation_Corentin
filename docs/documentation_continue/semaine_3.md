@@ -42,13 +42,13 @@ Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisé
 
 Une fois cette série terminée, le premier tiroir pouvait être considéré comme presque achevé. Il ne restait plus qu'à installer les vis dans les différents bacs puis à terminer leur étiquetage avant de commencer l'organisation du second tiroir, destiné aux vis de plus grande taille.
 
-Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défaut d'impression. La différence de température entre le plateau chauffant et le haut de la pièce à fait gonfler le milieu des bords ce qui à les à courbé et à force de se courber les bords se sont décollés du plateau au cours de l'impression. Ce phénomène correspond au [warping](../definitions/#warping), qui a provoqué une déformation de la pièce jusqu'à entraîner l'échec de l'impression.
+Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défaut d'impression. La différence de température entre le plateau chauffant et le haut de la pièce à fait gonfler le milieu des bords ce qui à les à courbé et à force de se courber les bords se sont décollés du plateau au cours de l'impression. Ce phénomène correspond au [warping](../Explication/Definitions/#warping), qui a provoqué une déformation de la pièce jusqu'à entraîner l'échec de l'impression.
 
 ![Exemple de warping](../images/semaine3/warping.jpg)
 
 *Figure 7 : Déformation de la pièce provoquée par le warping.*
 
-Après réflexion, l'utilisation d'un [brim](../definitions/#brim) aurait probablement permis d'améliorer l'adhérence de la pièce au plateau et de limiter ce problème.
+Après réflexion, l'utilisation d'un [brim](../Explication/Definitions/#brim) aurait probablement permis d'améliorer l'adhérence de la pièce au plateau et de limiter ce problème.
 
 # Jours 13 et 14 – Télétravail et amélioration du site
 
