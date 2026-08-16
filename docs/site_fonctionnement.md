@@ -12,9 +12,7 @@ Je vous conseille de commencer par Acceuil -> Makerspace -> Documentation contin
 
 ### Acceuil
 
-Vous trouverez une présentation de l'objectif du stage et son contexte
-
-Onglet : [Acceuil](index.md)
+Vous trouverez une présentation de l'objectif du stage et son contexte.
 
 ### Makerspace
 
