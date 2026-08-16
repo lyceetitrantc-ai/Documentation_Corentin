@@ -4,6 +4,7 @@ nav_order: 1
 title: Accueil
 permalink: /
 ---
+test
 
 # Bienvenue sur le site de la documentation de mon stage au Makerspace
 
