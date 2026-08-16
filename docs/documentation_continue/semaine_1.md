@@ -1,4 +1,4 @@
----
+﻿---
 
 layout: default
 title: semaine 1
@@ -37,7 +37,7 @@ J'ai ensuite étudié la nouvelle salle de stockage. Plusieurs pistes d'amélior
 
 *Salle de stockage*
 
-D'autres améliorations ont été envisagées, comme l'installation de supports sous certaines tables pour stocker les bobines de filament ou encore le déplacement de certains matériaux vers des salles plus adaptées à leur utilisation. Par exemple, les composants électroniques pourraient être regroupés dans le RepairSpace tandis que les planches de bois pourraient être stockées à proximité des découpeuses laser dans l'OpenLab.
+D'autres améliorations ont été envisagées, comme l'installation de supports sous certaines tables pour stocker les bobines de [filament](../Explication/Definitions/#filament) ou encore le déplacement de certains matériaux vers des salles plus adaptées à leur utilisation. Par exemple, les composants électroniques pourraient être regroupés dans le RepairSpace tandis que les planches de bois pourraient être stockées à proximité des découpeuses laser dans l'OpenLab.
 
 J'ai également visité la salle de bureau et la salle destinée à devenir un futur espace de travail. Dans cette dernière, j'ai constaté que l'agencement actuel rendait difficile la circulation d'une personne en fauteuil roulant. Une réorganisation de l'espace sera nécessaire afin de conserver un accès conforme aux besoins des personnes à mobilité réduite et des services de secours.
 
@@ -47,11 +47,11 @@ J'ai également visité la salle de bureau et la salle destinée à devenir un f
 
 Enfin, une réflexion a été menée sur la gestion du stock. Une solution intéressante serait l'installation d'une tablette permettant d'enregistrer les emprunts de matériel, de signaler les composants manquants et de suivre plus facilement l'état des stocks.
 
-Lors de cette deuxième journée, j'ai découvert le système de rangement modulaire [Gridfinity](../Explication/Definitions/#gridfinity), très utilisé en impression 3D. Son principe repose sur une grille standardisée permettant de créer des bacs de différentes tailles qui s'emboîtent parfaitement dans des tiroirs ou des espaces de stockage.
+Lors de cette deuxième journée, j'ai découvert le système de rangement modulaire [Gridfinity](../Explication/Definitions/#gridfinity), très utilisé en [impression 3D](../Explication/Definitions/#impression-3d). Son principe repose sur une grille standardisée permettant de créer des bacs de différentes tailles qui s'emboîtent parfaitement dans des tiroirs ou des espaces de stockage.
 
 J'ai commencé à rechercher différents modèles disponibles en ligne afin de comprendre le fonctionnement du système et d'identifier les pièces qui pourraient être utiles pour le projet.
 
-<img src="../images/jour2_gridfinity.webp" alt="Photo Gridfinity" width="400" style="max-width:100%; height:auto;" />
+<img src="../images/jour2_gridfinity.webp" alt="Photo [Gridfinity](../Explication/Definitions/#gridfinity)" width="400" style="max-width:100%; height:auto;" />
 
 *Gridfinity*
 
@@ -84,7 +84,7 @@ Le système [Gridfinity](../Explication/Definitions/#gridfinity) étant basé su
 
 ![Schéma module tiroir](../images/jour3_schema.png)
 
-J'ai également installé et configuré [OrcaSlicer](../Explication/Definitions/#orcaslicer) sur mon ordinateur afin de préparer les futures impressions 3D. Cette étape m'a permis de découvrir les bases du [tranchage (slicing)](../Explication/Definitions/#tranchage-slicing) de modèles et de la préparation des fichiers destinés aux imprimantes.
+J'ai également installé et configuré [OrcaSlicer](../Explication/Definitions/#orcaslicer) sur mon ordinateur afin de préparer les futures impressions 3D. Cette étape m'a permis de découvrir les bases du [tranchage (slicing)](../Explication/Definitions/#[tranchage](../Explication/Definitions/#tranchage-slicing)-slicing) de modèles et de la préparation des fichiers destinés aux imprimantes.
 
 ![Capture OrcaSlicer](../images/jour3_orcaslicer.webp)
 
@@ -96,7 +96,7 @@ J'ai enfin pu redécouvrir le parc d'imprimantes 3D du Makerspace, comprenant no
 
 # Jour 4 – Impression des grilles et choix des bacs
 
-Après avoir préparé les fichiers nécessaires, j'ai lancé l'impression des différentes plaques constituant le fond du tiroir Gridfinity.
+Après avoir préparé les fichiers nécessaires, j'ai lancé l'impression des différentes plaques constituant le fond du tiroir [Gridfinity](../Explication/Definitions/#gridfinity).
 
 Une fois toutes les pièces terminées, j'ai pu vérifier leur assemblage dans le tiroir. Les dimensions calculées étaient correctes et l'ensemble s'est parfaitement intégré dans l'espace prévu.
 
@@ -127,3 +127,4 @@ Au fur et à mesure de l'avancement, il a été possible de visualiser l'organis
 Cette première semaine m'a permis de découvrir le fonctionnement général du Makerspace ainsi que les différents espaces qui le composent. J'ai participé à l'analyse de plusieurs problématiques de rangement et proposé différentes pistes d'amélioration visant à rendre les espaces plus pratiques et plus sécurisés.
 
 J'ai également découvert le système [Gridfinity](../Explication/Definitions/#gridfinity), appris à utiliser [OrcaSlicer](../Explication/Definitions/#orcaslicer) et réalisé mes premières impressions dans le cadre d'un projet concret. Les différents tests effectués ont permis de valider la conception du futur système de rangement, dont la mise en place se poursuivra au cours des prochaines semaines.
+

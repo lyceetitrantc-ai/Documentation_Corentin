@@ -1,8 +1,44 @@
 ---
 layout: default
 title: Projets
-nav_order: 2
+nav_order: 5
 has_children: true
 ---
 
-à compléter
+# Mes projets
+
+Durant mon stage, j'ai participé à plusieurs projets qui m'ont permis de travailler sur différents aspects du fonctionnement du Makerspace. Pour présenter ces projets de manière claire, j'ai choisi de créer une page dédiée à chacun d'entre eux.
+
+Pour chaque projet, j'ai utilisé la même méthode de présentation. Je commence par expliquer **le besoin**, afin de présenter le problème ou la situation qui a conduit à la réalisation du projet. Je présente ensuite **le but**, c'est-à-dire ce que je cherche à obtenir ou à améliorer.
+
+Je détaille ensuite **la méthode utilisée** et les différentes étapes de réalisation. Cette partie permet d'expliquer mes choix, les outils utilisés ainsi que les différentes actions que j'ai réalisées.
+
+Lorsque j'ai rencontré des difficultés, je présente également **les problèmes rencontrés et les solutions mises en place**. Enfin, je termine par **le résultat obtenu** et, lorsque cela est nécessaire, les éventuelles améliorations qui pourraient être réalisées par la suite.
+
+La structure utilisée pour chaque projet est donc :
+
+**Besoin → But → Méthode → Réalisation → Problèmes rencontrés → Solutions → Résultat**
+
+Cette organisation me permet de montrer non seulement le résultat final, mais également la réflexion et le travail réalisés pour parvenir à ce résultat.
+
+<span style="color: red;">Attention</span> : je conseille fortement de commencer par le projet <span style="color: red;">6</span> car il permet d'avoir les bases de l'impression 3d. 
+
+---
+
+# Les projets
+
+## [Projet 1 – Zone de stockage](zone-stockage)
+
+## [Projet 2 – Mousse acoustique](mousse-acoustique)
+
+## [Projet 3 – Réhaussement des armoires et installation des imprimantes](armoires-imprimantes)
+
+## [Projet 4 – Réorganisation des salles](reorganisation-salles)
+
+## [Projet 5 – Documentation continue et site web](documentation-continue)
+
+## [Projet 6 – Utilisation et fonctionnement des imprimantes 3D](impression-3d)
+
+## [Projet 7 – Signalétique des salles](signaletique)
+
+## [Projet 8 – Récupération de composants électroniques](recuperation-composants)

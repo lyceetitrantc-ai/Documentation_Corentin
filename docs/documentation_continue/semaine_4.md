@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 parent: Documentation continue
 nav_order: 4
@@ -9,13 +9,13 @@ title: Semaine 4
 
 ## Introduction de la semaine
 
-Cette semaine a été principalement consacrée à l'amélioration de l'organisation du Makerspace ainsi qu'au développement de mon site de documentation. J'ai poursuivi la réalisation des tiroirs de rangement pour les vis et les résistances en imprimant les différentes boîtes et grilles nécessaires. En parallèle, j'ai corrigé plusieurs problèmes sur le site web et mis en place un environnement de développement local avec [Jekyll](../Explication/Definitions/#jekyll) afin de pouvoir tester mes modifications avant leur mise en ligne. J'ai également participé à différentes tâches annexes, comme le rangement d'une salle, des échanges autour de l'impression 3D ou encore l'accompagnement d'un nouveau stagiaire.
+Cette semaine a été principalement consacrée à l'amélioration de l'organisation du Makerspace ainsi qu'au développement de mon site de documentation. J'ai poursuivi la réalisation des tiroirs de rangement pour les vis et les résistances en imprimant les différentes boîtes et grilles nécessaires. En parallèle, j'ai corrigé plusieurs problèmes sur le site web et mis en place un environnement de développement local avec [Jekyll](../Explication/Definitions/#jekyll) afin de pouvoir tester mes modifications avant leur mise en ligne. J'ai également participé à différentes tâches annexes, comme le rangement d'une salle, des échanges autour de l'[impression 3D](../Explication/Definitions/#impression-3d) ou encore l'accompagnement d'un nouveau stagiaire.
 
 ---
 
 # Jour 16 : Impression multicolore et rangement des vis
 
-Je me suis renseigné sur les possibilités d’impression multicolore avec les imprimantes disponibles au Makerspace. Je voulais savoir s’il était possible de mélanger plusieurs couleurs comme en peinture afin d’obtenir de nouvelles teintes. J’ai appris que ce n’était pas possible avec les machines dont nous disposons. En revanche, certaines imprimantes peuvent utiliser plusieurs filaments de couleurs différentes au cours d’une même impression.
+Je me suis renseigné sur les possibilités d’[impression multicolore](../Explication/Definitions/#impression-multicolore) avec les imprimantes disponibles au Makerspace. Je voulais savoir s’il était possible de mélanger plusieurs couleurs comme en peinture afin d’obtenir de nouvelles teintes. J’ai appris que ce n’était pas possible avec les machines dont nous disposons. En revanche, certaines imprimantes peuvent utiliser plusieurs [filament](../Explication/Definitions/#filament)s de couleurs différentes au cours d’une même impression.
 
 La [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon) du Makerspace possède notamment un système [AMS](../Explication/Definitions/#ams) (*Automatic Material System*) qui permet d’utiliser jusqu’à quatre couleurs différentes. Grâce à ce système, il est possible de réaliser des dégradés de couleurs, mais pas de mélanger directement les couleurs comme on le ferait avec de la peinture.
 
@@ -38,7 +38,7 @@ Avant de terminer la journée, j’ai également nettoyé la zone de travail. Le
 
 # Jour 17 : Nouvelle mission
 
-Ce matin, j’ai installé [Jekyll](../Explication/Definitions/#jekyll) sur mon ordinateur. Cet outil permet de lancer une version locale du site web afin de visualiser les modifications avant de les envoyer sur GitHub. Cela évite de publier des changements qui pourraient provoquer des erreurs sur le site en ligne. Je peux donc tester chaque modification en temps réel tout en conservant une version stable du site accessible aux utilisateurs.
+Ce matin, j’ai installé [Jekyll](../Explication/Definitions/#jekyll) sur mon ordinateur. Cet outil permet de lancer une version locale du site web afin de visualiser les modifications avant de les envoyer sur [GitHub](../Explication/Definitions/#github). Cela évite de publier des changements qui pourraient provoquer des erreurs sur le site en ligne. Je peux donc tester chaque modification en temps réel tout en conservant une version stable du site accessible aux utilisateurs.
 
 J’ai ensuite reçu une nouvelle mission : créer une grille [Gridfinity](../Explication/Definitions/#gridfinity) adaptée à un tiroir moins haut afin de ranger des résistances. Cette mission va me demander de concevoir les boîtes et les grilles nécessaires pour organiser correctement les différents composants.
 
@@ -60,15 +60,15 @@ Ce déplacement de matériel avait pour but de préparer la nouvelle salle du ma
 
 Dans l’après-midi, j’ai lancé l’impression des deux boîtes qui me manquaient pour terminer le premier tiroir à vis. J’ai également commencé à imprimer les boîtes destinées au tiroir des résistances. J’ai lancé six impressions de boîtes **2×1×2**, contenant chacune trois boîtes, ce qui représente un total de 18 boîtes. À terme, il faudra fabriquer 84 boîtes afin de pouvoir stocker les 84 valeurs de résistances différentes.
 
-J’ai aussi discuté avec Adrien et Alban à propos de l’impression 3D multicolore et des imprimantes résine. J’ai appris que l’impression multicolore génère beaucoup de déchets, car l’imprimante doit purger l’ancien filament à chaque changement de couleur. Certaines machines utilisent cependant une tour de purge qui permet de limiter les pertes et d’améliorer la qualité des impressions. Ils m’ont également expliqué qu’il était possible de créer l’illusion de nouvelles couleurs en alternant de très fines couches de différentes couleurs, un principe similaire à celui utilisé en imprimerie.
+J’ai aussi discuté avec Adrien et Alban à propos de l’[impression 3D](../Explication/Definitions/#impression-3d) multicolore et des imprimantes résine. J’ai appris que l’[impression multicolore](../Explication/Definitions/#impression-multicolore) génère beaucoup de déchets, car l’imprimante doit [purge](../Explication/Definitions/#purge)r l’ancien [filament](../Explication/Definitions/#filament) à chaque changement de couleur. Certaines machines utilisent cependant une tour de [purge](../Explication/Definitions/#purge) qui permet de limiter les pertes et d’améliorer la qualité des impressions. Ils m’ont également expliqué qu’il était possible de créer l’illusion de nouvelles couleurs en alternant de très fines couches de différentes couleurs, un principe similaire à celui utilisé en imprimerie.
 
-Enfin, nous avons accueilli un nouveau stagiaire. Nous lui avons présenté GitHub ainsi que la procédure permettant de créer un portfolio afin qu’il puisse commencer à documenter son travail.
+Enfin, nous avons accueilli un nouveau stagiaire. Nous lui avons présenté [GitHub](../Explication/Definitions/#github) ainsi que la procédure permettant de créer un portfolio afin qu’il puisse commencer à documenter son travail.
 
 # Jour 18 : Impression des boîtes pour les résistances
 
 La journée a principalement été consacrée à l’impression des boîtes destinées au tiroir des résistances. J’ai lancé l’impression de 56 boîtes au total sur plusieurs imprimantes [Bambu Lab A1 Mini](../Explication/Imprimante/#bambu-lab-a1-mini). En parallèle, j’ai également imprimé six grilles **4×4** qui serviront de base pour organiser le futur tiroir.
 
-Au cours des impressions, j’ai rencontré plusieurs problèmes techniques. Sur une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p), l’impression a échoué car le plateau était sale et le filament n’adhérait plus correctement à la surface.
+Au cours des impressions, j’ai rencontré plusieurs problèmes techniques. Sur une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p), l’impression a échoué car le plateau était sale et le [filament](../Explication/Definitions/#filament) n’adhérait plus correctement à la surface.
 
 ![Erreur d'impression sur plateau sale](../images/semaine4/erreur_plateau.jpg)
 *Figure 7 : erreur sur le plateau*
@@ -130,4 +130,4 @@ Pour les tiroirs à vis, la logique de rangement n’est pas encore définie. Je
 
 # Bilan de la semaine
 
-Cette semaine m'a permis de progresser sur plusieurs aspects. J'ai presque terminé le premier tiroir à vis et finalisé la fabrication du tiroir destiné aux résistances, même s'il reste encore l'étiquetage et la documentation de son organisation. J'ai également amélioré ma manière de travailler sur le site web grâce à l'installation de [Jekyll](../Explication/Definitions/#jekyll), ce qui me permets désormais de tester mes modifications en local avant de les publier. Enfin, j'ai approfondi mes connaissances sur l'impression 3D, notamment sur l'impression multicolore et les contraintes liées aux longues séries d'impression. La semaine prochaine sera principalement consacrée à la finalisation des tiroirs, à leur documentation ainsi qu'à l'installation des nouvelles imprimantes 3D.
+Cette semaine m'a permis de progresser sur plusieurs aspects. J'ai presque terminé le premier tiroir à vis et finalisé la fabrication du tiroir destiné aux résistances, même s'il reste encore l'étiquetage et la documentation de son organisation. J'ai également amélioré ma manière de travailler sur le site web grâce à l'installation de [Jekyll](../Explication/Definitions/#jekyll), ce qui me permets désormais de tester mes modifications en local avant de les publier. Enfin, j'ai approfondi mes connaissances sur l'[impression 3D](../Explication/Definitions/#impression-3d), notamment sur l'[impression multicolore](../Explication/Definitions/#impression-multicolore) et les contraintes liées aux longues séries d'impression. La semaine prochaine sera principalement consacrée à la finalisation des tiroirs, à leur documentation ainsi qu'à l'installation des nouvelles imprimantes 3D.

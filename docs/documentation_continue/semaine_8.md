@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 parent: Documentation continue
 nav_order: 8
@@ -13,7 +13,7 @@ Cette huitième semaine de stage a principalement été consacrée à la concept
 
 J'ai également découvert de nouvelles méthodes de conception et d'[impression 3D](../Explication/Definitions/#impression-3d), notamment l'utilisation d'un angle de 45 degrés pour limiter l'utilisation de [supports](../Explication/Definitions/#supports), ainsi que les différences entre les formats de fichiers utilisés en modélisation et en fabrication.
 
-En parallèle, j'ai participé à une nouvelle soutenance blanche, réalisé la maintenance préventive d'une imprimante Bambu Lab X1 Carbon et participé à une première impression multicolore avec un [AMS](../Explication/Definitions/#ams).
+En parallèle, j'ai participé à une nouvelle soutenance blanche, réalisé la maintenance préventive d'une imprimante [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon) et participé à une première [impression multicolore](../Explication/Definitions/#impression-multicolore) avec un [AMS](../Explication/Definitions/#ams).
 
 ---
 
@@ -31,7 +31,7 @@ L'objectif était d'améliorer la boîte existante afin d'éviter de devoir la v
 
 J'ai d'abord réfléchi à plusieurs solutions. Une première possibilité aurait été de rendre la boîte plus profonde, mais les imprimantes situées sous l'étagère empêchent d'utiliser davantage d'espace vers le bas. J'ai également envisagé d'augmenter la largeur de la boîte, mais le plateau des imprimantes ne permet pas d'imprimer une pièce suffisamment grande.
 
-Une autre idée consistait à créer des rampes permettant de guider tous les déchets vers un même endroit. Cependant, les câbles et certaines buses se trouvent dans cette zone et empêchent la mise en place de cette solution. De plus, l'espace disponible sur le côté gauche de l'armoire est insuffisant.
+Une autre idée consistait à créer des rampes permettant de guider tous les déchets vers un même endroit. Cependant, les câbles et certaines [buse](../Explication/Definitions/#buse)s se trouvent dans cette zone et empêchent la mise en place de cette solution. De plus, l'espace disponible sur le côté gauche de l'armoire est insuffisant.
 
 La solution retenue a donc été de conserver les dimensions permettant à la boîte de s'emboîter sur les barres métalliques de l'étagère tout en augmentant sa capacité.
 
@@ -41,15 +41,15 @@ La solution retenue a donc été de conserver les dimensions permettant à la bo
 
 Pour commencer la conception sur [Onshape](../Explication/Definitions/#onshape), j'ai repris les dimensions de l'ancienne boîte afin que la nouvelle puisse s'emboîter correctement sur les barres métalliques de l'étagère.
 
-J'ai réalisé une première [esquisse](../Explication/Definitions/#esquisse) composée de deux rectangles. J'ai ensuite utilisé une [extrusion](../Explication/Definitions/#extrusion) afin d'ajouter de la matière entre ces deux formes. Cette méthode m'a permis de conserver une épaisseur de paroi d'environ un centimètre.
+J'ai réalisé une première [esquisse](../Explication/Definitions/#[esquisse](../Explication/Definitions/#esquisse)) composée de deux rectangles. J'ai ensuite utilisé une [extrusion](../Explication/Definitions/#[extrusion](../Explication/Definitions/#extrusion)) afin d'ajouter de la matière entre ces deux formes. Cette méthode m'a permis de conserver une épaisseur de paroi d'environ un centimètre.
 
-![Première esquisse de la boîte](../assets/images/semaine8/premiere-esquisse.jpg)
+![Première [esquisse](../Explication/Definitions/#esquisse) de la boîte](../assets/images/semaine8/premiere-[esquisse](../Explication/Definitions/#esquisse).jpg)
 
 *Figure 3 : Première esquisse utilisée pour commencer la conception de la boîte.*
 
-J'ai ensuite réalisé une deuxième esquisse permettant de créer un passage pour la buse. L'objectif était que la buse ne puisse pas entrer en contact avec la boîte et que les déchets puissent tomber correctement à l'intérieur.
+J'ai ensuite réalisé une deuxième [esquisse](../Explication/Definitions/#esquisse) permettant de créer un passage pour la [buse](../Explication/Definitions/#buse). L'objectif était que la [buse](../Explication/Definitions/#buse) ne puisse pas entrer en contact avec la boîte et que les déchets puissent tomber correctement à l'intérieur.
 
-![Passage pour la buse](../assets/images/semaine8/passage-buse.jpg)
+![Passage pour la buse](../assets/images/semaine8/passage-[buse](../Explication/Definitions/#buse).jpg)
 
 *Figure 4 : Conception de la zone permettant aux déchets de tomber dans la boîte.*
 
@@ -59,19 +59,19 @@ J'ai ensuite ajouté plusieurs [congés](../Explication/Definitions/#conge) sur 
 
 *Figure 5 : Arrondissement des bords extérieurs de la boîte.*
 
-Après cela, j'ai réalisé une extrusion permettant de créer le fond de la boîte.
+Après cela, j'ai réalisé une [extrusion](../Explication/Definitions/#extrusion) permettant de créer le fond de la boîte.
 
 ![Fond de la boîte](../assets/images/semaine8/fond-boite.jpg)
 
 *Figure 6 : Création du fond de la boîte.*
 
-J'ai ensuite réalisé une nouvelle esquisse en prenant en compte la distance entre les barres de l'étagère. Cette étape m'a permis d'agrandir la boîte vers le bas afin d'augmenter sa capacité tout en conservant son système de fixation.
+J'ai ensuite réalisé une nouvelle [esquisse](../Explication/Definitions/#esquisse) en prenant en compte la distance entre les barres de l'étagère. Cette étape m'a permis d'agrandir la boîte vers le bas afin d'augmenter sa capacité tout en conservant son système de fixation.
 
 ![Adaptation aux barres de l'étagère](../assets/images/semaine8/contraintes-etagere.jpg)
 
 *Figure 7 : Prise en compte des dimensions réelles de l'étagère.*
 
-Enfin, j'ai réalisé une extrusion en enlèvement de matière afin d'augmenter le volume disponible à l'intérieur de la boîte. J'ai également ajouté deux congés à l'intérieur afin d'arrondir les angles et de faciliter la chute des déchets vers le fond.
+Enfin, j'ai réalisé une [extrusion](../Explication/Definitions/#extrusion) en enlèvement de matière afin d'augmenter le volume disponible à l'intérieur de la boîte. J'ai également ajouté deux congés à l'intérieur afin d'arrondir les angles et de faciliter la chute des déchets vers le fond.
 
 ![Intérieur de la boîte](../assets/images/semaine8/interieur-boite.jpg)
 
@@ -79,17 +79,17 @@ Enfin, j'ai réalisé une extrusion en enlèvement de matière afin d'augmenter 
 
 # Jour 37 – Amélioration de la conception et prise en compte des contraintes réelles
 
-Cette journée a commencé par la rédaction des explications concernant la conception de la boîte à déchets. La veille, j'avais principalement expliqué les choix réalisés et les raisons de ces choix. J'ai cette fois détaillé les différentes étapes de conception réalisées sur Onshape.
+Cette journée a commencé par la rédaction des explications concernant la conception de la boîte à déchets. La veille, j'avais principalement expliqué les choix réalisés et les raisons de ces choix. J'ai cette fois détaillé les différentes étapes de conception réalisées sur [Onshape](../Explication/Definitions/#onshape).
 
 J'ai ensuite eu une longue discussion avec Alban afin d'améliorer la conception de la boîte.
 
-Il m'a notamment conseillé de reproduire directement les contraintes réelles de l'étagère dans Onshape. J'ai donc modélisé les barres métalliques sur lesquelles la boîte doit venir se fixer. Cela permet de vérifier directement dans le logiciel si ma pièce respecte les dimensions disponibles.
+Il m'a notamment conseillé de reproduire directement les contraintes réelles de l'étagère dans [Onshape](../Explication/Definitions/#onshape). J'ai donc modélisé les barres métalliques sur lesquelles la boîte doit venir se fixer. Cela permet de vérifier directement dans le logiciel si ma pièce respecte les dimensions disponibles.
 
 ![Reproduction de l'étagère sur Onshape](../assets/images/semaine8/contraintes-onshape.jpg)
 
 *Figure 9 : Reproduction des contraintes réelles de l'étagère dans Onshape.*
 
-J'ai également découvert l'outil [coque](../Explication/Definitions/#coque) d'Onshape. Cet outil permet de retirer de la matière à l'intérieur d'une pièce en conservant une épaisseur définie sur ses parois. Cette méthode est beaucoup plus simple que de réaliser manuellement plusieurs esquisses pour créer les parois et le fond de la boîte.
+J'ai également découvert l'outil [coque](../Explication/Definitions/#[coque](../Explication/Definitions/#coque)) d'[Onshape](../Explication/Definitions/#onshape). Cet outil permet de retirer de la matière à l'intérieur d'une pièce en conservant une épaisseur définie sur ses parois. Cette méthode est beaucoup plus simple que de réaliser manuellement plusieurs [esquisse](../Explication/Definitions/#esquisse)s pour créer les parois et le fond de la boîte.
 
 Nous avons également réfléchi à l'orientation de la pièce lors de son impression. Je pensais initialement être limité par la taille du plateau et ne pas pouvoir utiliser les trois barres de l'étagère comme points de fixation.
 
@@ -143,7 +143,7 @@ Pour le reste de la boîte, j'ai créé une forme courbée permettant de respect
 
 Cette solution a été validée par Alban. Cette mission m'a permis de découvrir une technique de conception plus avancée et de mieux comprendre comment adapter une pièce aux contraintes de fabrication.
 
-J'ai également appris la différence entre plusieurs formats de fichiers utilisés dans la conception et l'impression 3D.
+J'ai également appris la différence entre plusieurs formats de fichiers utilisés dans la conception et l'[impression 3D](../Explication/Definitions/#impression-3d).
 
 Le format [STEP](../Explication/Definitions/#step) est un format de modélisation qui permet de conserver les informations nécessaires à la modification d'une pièce. Un fichier STEP peut être ouvert dans différents logiciels de modélisation et peut continuer à être modifié après son exportation.
 
@@ -171,7 +171,7 @@ Une fois la maintenance terminée, j'ai indiqué à l'imprimante que l'opératio
 
 Cette intervention m'a permis de comprendre qu'une imprimante 3D nécessite également un entretien régulier pour conserver de bonnes performances et limiter les problèmes mécaniques.
 
-J'ai également aidé Raphaël à réaliser une impression multicolore destinée à son panneau en 3D.
+J'ai également aidé Raphaël à réaliser une [impression multicolore](../Explication/Definitions/#impression-multicolore) destinée à son panneau en 3D.
 
 Pour réaliser cette impression, il fallait d'abord séparer le modèle en plusieurs parties afin de pouvoir attribuer une couleur différente à chaque élément.
 
@@ -181,9 +181,9 @@ J'ai sélectionné les différentes lettres afin de leur attribuer une couleur s
 
 *Figure 15 : Préparation d'une impression multicolore.*
 
-L'impression a été réalisée avec l'[AMS](../Explication/Definitions/#ams) de la Bambu Lab X1 Carbon. Il s'agissait de ma première expérience avec une impression multicolore.
+L'impression a été réalisée avec l'[AMS](../Explication/Definitions/#ams) de la [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon). Il s'agissait de ma première expérience avec une [impression multicolore](../Explication/Definitions/#impression-multicolore).
 
-Cette expérience m'a permis de mettre en pratique les connaissances que j'avais acquises précédemment sur le fonctionnement de l'AMS et sur les changements de filament nécessaires lors d'une impression multicolore.
+Cette expérience m'a permis de mettre en pratique les connaissances que j'avais acquises précédemment sur le fonctionnement de l'[AMS](../Explication/Definitions/#ams) et sur les changements de [filament](../Explication/Definitions/#filament) nécessaires lors d'une [impression multicolore](../Explication/Definitions/#impression-multicolore).
 
 # Jour 40 – Lancement de l'impression et fin du stage
 
@@ -198,7 +198,7 @@ L'impression étant particulièrement longue, avec une durée prévue d'environ 
 L'après-midi, nous nous sommes rendus à la Machinerie à Amiens afin de réaliser nos ESS (des journées associatives obligatoires). La Machinerie est est aussi un FATLAB avec d'autres machines que le makerspace. Cette visite nous à permis d'utiliser les compétences acquises au Makerspace. 
 J'ai pu revoir Alban dans l'après midi et il m'a dit que la partie gauche de la boite c'était bien imprimée mais que la partie droite à rencontrer un défaut d'impression, elle a commencé à faire des spaghettis (à ne plus suivre son tracé mais à quand meme imprimer ce qui donne l'impression que observe des spaghettis) à la toutes fins de l'impression. 
 
-Cette dernière semaine m'a permis de mettre en pratique de nombreuses compétences développées pendant le stage. J'ai notamment pu travailler sur la conception 3D, l'impression 3D, la maintenance d'une machine, la documentation et la préparation d'une présentation.
+Cette dernière semaine m'a permis de mettre en pratique de nombreuses compétences développées pendant le stage. J'ai notamment pu travailler sur la conception 3D, l'[impression 3D](../Explication/Definitions/#impression-3d), la maintenance d'une machine, la documentation et la préparation d'une présentation.
 
 ---
 
@@ -206,11 +206,11 @@ Cette dernière semaine m'a permis de mettre en pratique de nombreuses compéten
 
 Cette dernière semaine a principalement été consacrée à la conception d'une nouvelle boîte à déchets pour les imprimantes 3D. Cette mission m'a permis de partir d'un problème concret, de rechercher plusieurs solutions puis de concevoir une pièce en tenant compte des contraintes réelles de l'environnement.
 
-J'ai approfondi mon utilisation d'Onshape en découvrant de nouveaux outils comme la coque et en apprenant à reproduire directement les contraintes physiques dans le logiciel. J'ai également appris à réfléchir à l'orientation d'une pièce afin de limiter l'utilisation de supports et d'optimiser l'espace disponible sur le plateau d'impression.
+J'ai approfondi mon utilisation d'[Onshape](../Explication/Definitions/#onshape) en découvrant de nouveaux outils comme la [coque](../Explication/Definitions/#coque) et en apprenant à reproduire directement les contraintes physiques dans le logiciel. J'ai également appris à réfléchir à l'orientation d'une pièce afin de limiter l'utilisation de supports et d'optimiser l'espace disponible sur le plateau d'impression.
 
-La maintenance préventive de la Bambu Lab X1 Carbon m'a permis de découvrir l'importance de l'entretien régulier d'une imprimante 3D et de suivre un protocole de maintenance.
+La maintenance préventive de la [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon) m'a permis de découvrir l'importance de l'entretien régulier d'une imprimante 3D et de suivre un protocole de maintenance.
 
-J'ai également réalisé ma première impression multicolore avec un AMS, ce qui m'a permis de mettre en pratique les connaissances acquises au cours des semaines précédentes.
+J'ai également réalisé ma première [impression multicolore](../Explication/Definitions/#impression-multicolore) avec un [AMS](../Explication/Definitions/#ams), ce qui m'a permis de mettre en pratique les connaissances acquises au cours des semaines précédentes.
 
 Enfin, les différentes soutenances blanches m'ont permis d'améliorer ma manière de présenter mon travail. J'ai compris qu'il était important d'expliquer clairement le contexte, la problématique, les solutions envisagées et les choix que j'ai personnellement réalisés.
 

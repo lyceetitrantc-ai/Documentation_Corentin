@@ -13,13 +13,15 @@ Le **Makerspace** est un espace de fabrication et de création qui met à dispos
 
 Parmi les équipements disponibles, on retrouve notamment différentes **imprimantes 3D**, ainsi que du matériel permettant de travailler sur différents types de projets. Le Makerspace constitue donc un environnement dans lequel il est possible d'expérimenter, d'apprendre et de développer des projets en utilisant directement les machines et les ressources mises à disposition.
 
+Vous pourrez trouver plus d'informations sur comment est agancée le makerspace sur cette page : [makerspace](objectifs.md).
+
 ## Pourquoi ai-je choisi ce stage ?
 
 J'ai choisi de réaliser mon stage au Makerspace car l'**impression 3D** est un domaine qui m'intéresse particulièrement.
 
 Dans le cadre de ma formation en **Bachelor Ingénierie Numérique**, moi, Corentin TITRANT ai eu l'occasion de suivre des cours liés à l'impression 3D. Ces cours m'ont permis de découvrir ce domaine et m'ont donné envie d'approfondir mes connaissances en travaillant directement avec les machines et en réalisant des projets concrets.
 
-Le Makerspace était donc un environnement intéressant pour mettre en pratique ce que j'avais pu apprendre pendant ma formation, tout en découvrant d'autres aspects liés à la fabrication, à l'organisation d'un espace de travail et à la gestion de projets.
+Le Makerspace était donc un environnement intéressant pour réaliser mon stage de deuxième année et de mettre en pratique ce que j'avais pu apprendre pendant ma formation, tout en découvrant d'autres aspects liés à la fabrication, à l'organisation d'un espace de travail et à la gestion de projets. 
 
 ## Le besoin du Makerspace
 
@@ -56,37 +58,6 @@ La documentation continue permet notamment de :
 
 L'organisation par semaine permet de suivre chronologiquement l'évolution du stage et de voir progressivement comment les projets avancent.
 
-## Organisation du site
-
-Le site est organisé en plusieurs parties afin de permettre une navigation simple entre les différents contenus.
-
-### Missions
-
-Dans l'onglet **Missions**, il est possible de retrouver les différents projets et travaux réalisés pendant mon stage. Chaque mission possède sa propre page afin de présenter son objectif, les différentes étapes de réalisation et le résultat obtenu.
-
-### Documentation continue
-
-L'onglet **Documentation continue** regroupe l'ensemble de mon travail sous la forme d'un suivi hebdomadaire.
-
-Chaque semaine contient une introduction, une description des différentes journées, des illustrations et un bilan permettant de faire le point sur l'avancement du travail.
-
-Cette partie permet donc d'avoir une **vue globale de mon stage**, tandis que les pages de missions permettent d'approfondir chaque projet.
-
-### À propos de moi
-
-Un onglet **À propos de moi** permet également de présenter mon parcours, ma formation et mon profil, afin de donner davantage de contexte sur mon stage et les raisons pour lesquelles j'ai choisi de le réaliser au Makerspace.
-
-### Matériel et définitions
-
-Enfin, le site contient une partie dédiée au **matériel et aux définitions**.
-
-Cette section regroupe les informations techniques utiles pour comprendre les différents projets présentés sur le site. On peut notamment y retrouver :
-
-* des **définitions** des termes techniques utilisés ;
-* les **différents types d'imprimantes 3D** disponibles ;
-* les **différents types de plastiques** utilisés pour les impressions.
-
-L'objectif est de centraliser ces informations afin d'éviter de répéter les mêmes explications dans chaque projet et de permettre au lecteur de retrouver rapidement une définition ou une information technique.
 
 ## Objectif du site
 
@@ -95,3 +66,6 @@ L'objectif de ce site est donc de **présenter mon stage, mes missions et mon é
 Il permet à la fois de suivre mon travail au quotidien grâce à la documentation continue et de retrouver une présentation plus détaillée de chaque mission.
 
 Ce site constitue ainsi une trace de mon expérience au Makerspace, des solutions que j'ai pu proposer et mettre en place, mais également des connaissances et compétences que j'ai pu développer pendant mon stage.
+
+
+<span style="color: red;">Comment lire le site :</span> Pour avoir une idée de comment lire le site je vous conseille de visiter cette page : [Organisation du site web](site_fonctionnement).

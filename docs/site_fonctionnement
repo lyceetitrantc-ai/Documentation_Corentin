@@ -1,0 +1,62 @@
+---
+layout: default
+nav_order: 3
+title: Organisation du Site Web
+---
+
+# Organisation du site
+
+Le site est organisé en plusieurs parties afin de permettre une navigation simple entre les différents contenus.
+
+Je vous conseille de commencer par Acceuil -> Makerspace -> Documentation continue -> Projets -> Apprentissage et suite. 
+
+### Acceuil
+
+Vous trouverez une présentation de l'objectif du stage et son contexte
+
+Onglet : [Acceuil](index.md)
+
+### Makerspace
+
+L'onglet *Makerspace* vous permez de trouver toutes les possibilités qu'offre le makerspace pour réaliser un projet. 
+
+Onglet : [Makerspace](objectifs.md)
+
+### Documentation continue
+
+L'onglet **Documentation continue** regroupe l'ensemble de mon travail sous la forme d'un suivi hebdomadaire.
+
+Chaque semaine contient une introduction, une description des différentes journées, des illustrations et un bilan permettant de faire le point sur l'avancement du travail.
+
+Cette partie permet donc d'avoir une **vue globale de mon stage**, tandis que les pages de missions permettent d'approfondir chaque projet.
+
+Onglet : [Documentation continue](documentation_continue/Recap_semaine.md)
+
+### Projets 
+
+Dans l'onglet **Projets**, il est possible de retrouver les différents projets et travaux réalisés pendant mon stage. Chaque mission possède sa propre page afin de présenter son objectif, les différentes étapes de réalisation et le résultat obtenu.
+
+Onglet : [Projets](Projets/projets)
+
+### Matériel et définitions
+
+Le site contient une partie dédiée au **matériel et aux définitions**.
+
+Cette section regroupe les informations techniques utiles pour comprendre les différents projets présentés sur le site. On peut notamment y retrouver :
+
+* des **définitions** des termes techniques utilisés ;
+* les **différents types d'imprimantes 3D** disponibles ;
+* les **différents types de plastiques** utilisés pour les impressions.
+
+L'objectif est de centraliser ces informations afin d'éviter de répéter les mêmes explications dans chaque projet et de permettre au lecteur de retrouver rapidement une définition ou une information technique.
+
+
+Onglet : [Matériel et Définitons](Explication/Explication.md)
+
+### Apprentissages et suite 
+
+L'onglet **Apprentissage et suite** vous permez de trouver ce que j'ai appris de ce stage de manière professionelle et ce qu'elle ma appris pour mon futur métier. 
+
+Onglet : [Apprentissages et suite ](Moi.md)
+
+

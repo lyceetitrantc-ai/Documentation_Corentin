@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 parent: Documentation continue
 nav_order: 7
@@ -87,7 +87,7 @@ Nous devons également davantage présenter le contexte global du stage plutôt 
 
 Il nous a également été conseillé de ne pas hésiter à récupérer du matériel du Makerspace pour accompagner certaines explications lors de la soutenance. Il peut être plus simple de présenter directement une [imprimante 3D](../Explication/Definitions/#imprimante-3d), une pièce imprimée ou un matériau plutôt que de simplement montrer une photographie.
 
-La partie technique devra également être mieux expliquée. Si nous présentons une notion comme le [bridge](../Explication/Definitions/#bridge-pont), il faut expliquer pourquoi cette technique est utilisée et dans quelles situations elle est nécessaire. Il ne faut pas simplement utiliser un terme technique sans expliquer son fonctionnement et son intérêt.
+La partie technique devra également être mieux expliquée. Si nous présentons une notion comme le [bridge](../Explication/Definitions/#[bridge](../Explication/Definitions/#bridge-pont)-pont), il faut expliquer pourquoi cette technique est utilisée et dans quelles situations elle est nécessaire. Il ne faut pas simplement utiliser un terme technique sans expliquer son fonctionnement et son intérêt.
 
 La présentation de [GitHub](../Explication/Definitions/#github) devra également être améliorée. Nous devons expliquer plus clairement son rôle dans le projet et notamment pourquoi nous avons choisi de mettre en place une documentation continue. Il faut montrer que le site n'est pas seulement un endroit où nous déposons nos travaux, mais qu'il permet de conserver une trace organisée de l'évolution du projet.
 
@@ -105,7 +105,7 @@ Nous devons également faire attention aux tics de langage pendant la présentat
 
 Cette semaine a principalement permis de faire avancer la documentation du stage et de préparer la soutenance blanche. L'ajout des photographies sur le site permet désormais de mieux illustrer les différentes étapes du projet et de conserver une trace plus complète du travail réalisé.
 
-J'ai également participé à la fabrication de portes-bobines et de porte-étiquettes en utilisant plusieurs techniques de fabrication, notamment l'impression 3D, l'utilisation d'inserts et la découpe laser.
+J'ai également participé à la fabrication de portes-bobines et de porte-étiquettes en utilisant plusieurs techniques de fabrication, notamment l'[impression 3D](../Explication/Definitions/#impression-3d), l'utilisation d'[insert](../Explication/Definitions/#insert)s et la découpe laser.
 
 La préparation de la soutenance blanche m'a surtout permis de prendre du recul sur la manière de présenter un projet technique. J'ai compris qu'il est essentiel de toujours commencer par expliquer le problème et son contexte avant de présenter la solution mise en place.
 
