@@ -36,7 +36,7 @@ Onglet : [Documentation continue](documentation_continue/Recap_semaine.md)
 
 Dans l'onglet **Projets**, il est possible de retrouver les différents projets et travaux réalisés pendant mon stage. Chaque mission possède sa propre page afin de présenter son objectif, les différentes étapes de réalisation et le résultat obtenu.
 
-Onglet : [Projets](Projets/projets)
+Onglet : [Projets](Projets/projets.md)
 
 ### Matériel et définitions
 

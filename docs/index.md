@@ -69,4 +69,4 @@ Il permet à la fois de suivre mon travail au quotidien grâce à la documentati
 Ce site constitue ainsi une trace de mon expérience au Makerspace, des solutions que j'ai pu proposer et mettre en place, mais également des connaissances et compétences que j'ai pu développer pendant mon stage.
 
 
-<span style="color: red;">Comment lire le site :</span> Pour avoir une idée de comment lire le site je vous conseille de visiter cette page : [Organisation du site web](site_fonctionnement).
+<span style="color: red;">Comment lire le site :</span> Pour avoir une idée de comment lire le site je vous conseille de visiter cette page : [Organisation du site web](site_fonctionnement.md).

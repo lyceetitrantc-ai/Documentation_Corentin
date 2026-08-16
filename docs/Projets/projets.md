@@ -27,18 +27,18 @@ Cette organisation me permet de montrer non seulement le résultat final, mais �
 
 # Les projets
 
-## [Projet 1 – Zone de stockage](salle_de_stockage)
+## [Projet 1 – Zone de stockage](salle_de_stockage.md)
 
-## [Projet 2 – Mousse acoustique](mousse_acoustique)
+## [Projet 2 – Mousse acoustique](mousse_acoustique.md)
 
-## [Projet 3 – Réhaussement des armoires et installation des imprimantes](nouvelle_imprimante)
+## [Projet 3 – Réhaussement des armoires et installation des imprimantes](nouvelle_imprimante.md)
 
-## [Projet 4 – Réorganisation des salles](organisation_salle)
+## [Projet 4 – Réorganisation des salles](organisation_salle.md)
 
-## [Projet 5 – Documentation continue et site web](documentation_continue_explication)
+## [Projet 5 – Documentation continue et site web](documentation_continue_explication.md)
 
-## [Projet 6 – Utilisation et fonctionnement des imprimantes 3D](imprimantes)
+## [Projet 6 – Utilisation et fonctionnement des imprimantes 3D](imprimantes.md)
 
-## [Projet 7 – Signalétique des salles](signalétique)
+## [Projet 7 – Signalétique des salles](signalétique.md)
 
-## [Projet 8 – Récupération de composants électroniques](electronique)
+## [Projet 8 – Récupération de composants électroniques](electronique.md)
