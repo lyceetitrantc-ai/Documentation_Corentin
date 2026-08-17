@@ -51,37 +51,48 @@ Au cours de la journée, nous avons également reçu une nouvelle mission : refa
 
 Nous avons aussi terminé le remontage des armoires destinées à accueillir les deux nouvelles imprimantes. Une erreur ayant été repérée lors du premier montage réalisé la veille, nous avons dû reprendre une partie de l'installation afin de corriger la configuration.
 
-![](../images/armoire_imprimantes.jpg)
-
 J'ai ensuite procédé au montage des deux nouvelles [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini) en suivant le guide de montage fourni par le constructeur. J'ai retiré les différentes protections de transport, enlevé les quatre vis qui maintenaient l'axe horizontal pendant le transport, puis serré les trois vis permettant de fixer correctement le [plateau chauffant](../Explication/Definitions.md#plateau-chauffant). J'ai également installé le support en plastique situé à l'arrière de chaque imprimante afin de pouvoir y fixer le porte-bobine.
+
+![Photo dans la boite](../images/semaine5/imprimante_dans_boite.jpg)
+*Imprimante dans leurs boites*
 
 Une fois le montage mécanique terminé, j'ai branché les deux imprimantes et les ai connectées au réseau Wi-Fi. Je me suis arrêté à cette étape, car la configuration finale des machines sur le réseau du [Makerspace](../Explication/Definitions.md#makerspace) sera réalisée par Adrien.
 
-![](../images/montage_bambu_lab.jpg)
-
 En fin de journée, nous avons dû modifier une nouvelle fois l'installation des étagères. Nous nous sommes rendu compte que les imprimantes avaient été remontées trop haut, ce qui les rendait difficiles d'accès pour les personnes de petite taille. Nous avons donc entièrement redémonté l'installation afin d'abaisser les étagères de quelques crans.
 
+![Armoire finis](../images/semaine5/armoire_sans_porte_bobine.jpg)
+*L'armoire avec les 2 nouvelles imprimantes*
+
 Une fois le côté droit terminé, nous avons déplacé l'ensemble du côté gauche. Cela a nécessité de débrancher toutes les imprimantes, retirer les scratchs du passage des câbles, démonter les imprimantes et leurs supports, déplacer les étagères, inverser la position de la multiprise avec un autre niveau, puis tout remonter dans le bon ordre. Les supports ont été légèrement décalés afin de laisser passer les câbles présents contre le mur. Nous avons ensuite remis les imprimantes en place, rebranché l'ensemble, refait le [câble management](../Explication/Definitions.md#cable-management) et repositionné les numéros des machines ainsi que certains porte-bobines.
+
+![Armoire finis](../images/semaine5/armoire_gauche.jpg)
+*L'armoire avec le côté gauche réhausser*
 
 À la fin de la journée, l'installation était beaucoup plus adaptée, mais il reste encore plusieurs éléments à réaliser : fabriquer les plaques des imprimantes **11** et **12**, imprimer les nouveaux porte-bobines et réimprimer les bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge).
 
 # Jour 23 : Amélioration d'un modèle 3D et nouvelles tâches d'organisation
 
-Aujourd'hui, j'ai commencé par reprendre le modèle 3D du bouchon réalisé la veille. Lors du premier essai, le bouchon ne rentrait pas correctement dans le tube en plastique.
+Aujourd'hui, j'ai commencé par reprendre le modèle 3D du bouchon réalisé la veille. A la fin de son impression et lors du premier essai, le bouchon ne rentrait pas correctement dans le tube en plastique.
 
-![](../images/bouchon_premier_essai.jpg)
+![Bouchon echec](../images/semaine5/bouchon_echec.png)
+*Bouchon qui ne rentre pas*
 
-J'ai donc modifié le modèle en supprimant le contour afin d'obtenir un bouchon plus proche d'un bouchon classique. Cette nouvelle version s'insérait correctement dans le tube, mais elle ne tenait pas suffisamment en place.
+C’était à cause des bordures que j’avais faites pour accrocher le bouchon au tube. La bordure, trop fine, empêchait le bouchon de rentrer.
 
-![](../images/bouchon_deuxieme_essai.jpg)
+J’ai donc repris la pièce 3D existante et j’ai supprimé le contour afin d’obtenir un bouchon plus proche d’un modèle classique. Cette nouvelle version s’insérait correctement dans le tube, mais elle ne tenait pas suffisamment en place.
+
+![Bouchon modifier](../images/semaine5/bouchon_modifier.jpg)
+*Bouchon modifier*
 
 Pour résoudre ce problème, j'ai utilisé de la **super glue** afin de fixer définitivement le bouchon. Comme il s'agissait d'une colle en gel qui réagit avec l'humidité, j'ai porté des gants afin d'éviter tout contact avec la peau. J'ai appliqué la colle sur le bouchon avant de l'insérer dans le tube, puis j'ai attendu son séchage. Le résultat est satisfaisant et permettra désormais de stocker les tiges filetées plus facilement.
 
-![](../images/collage_bouchon.jpg)
+![Bouchon collé](../images/semaine5/bouchon_dans_tube.jpg)
+*Bouchon collé*
 
 Nous avons ensuite commencé une nouvelle mission consistant à recréer les bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge) des [imprimantes 3D](../Explication/Definitions.md#imprimante-3d). Pour cela, j'ai pris toutes les dimensions de l'ancien modèle afin de pouvoir concevoir une nouvelle version compatible avec les barres de fixation déjà présentes sur les imprimantes.
 
-![](../images/prise_mesures_bac_purge.jpg)
+![Bac mesure](../images/semaine5/bac_mesure.jpg)
+*Bac prise de mesure*
 
 Je suis ensuite revenu sur le deuxième tiroir destiné aux vis. J'ai commencé à répartir les vis dans les boîtes déjà disponibles afin de vérifier combien de boîtes il restait à fabriquer. Après avoir fait le comptage, il manque encore :
 
@@ -95,15 +106,24 @@ Avec l'installation des nouvelles imprimantes, il faut également fabriquer de n
 
 Une autre tâche de la journée a consisté à déplacer une servante qui se trouvait dans le **Résine Lab** vers la salle de stockage. Pour faciliter son déplacement, nous avons d'abord retiré tous les tiroirs ainsi que la machine installée sur le dessus. Une fois la servante déplacée, nous avons remis les tiroirs à leur place.
 
-![](../images/servante_avant.jpg)
+![Servante 1](../images/semaine5/servante_sans_tiroir_2.jpg)
+*Servante sans les tiroirs*
 
-![](../images/retrait_tiroirs.jpg)
+![Servante 2](../images/semaine5/tiroir.jpg)
+*les tiroirs de la servantes*
 
-![](../images/servante_stockage.jpg)
+![Servante 3](../images/semaine5/servante_monté.jpg)
+*La servante monté dans la salle de stockage *
 
-Enfin, j'ai récupéré deux composants électroniques sur une carte en retirant leur brasage. Chaque composant ayant une valeur d'environ **30 €**, il était plus intéressant de les récupérer que de les jeter avec la carte. Une fois dessoudés, je les ai nettoyés à l'aide d'un produit spécifique afin d'enlever les résidus de soudure et de flux avant leur réutilisation.
+Enfin, j’ai récupéré deux composants électroniques sur une carte en retirant leur brasage. Chaque composant ayant une valeur d’environ **30 €**, il était plus intéressant de les récupérer que de les jeter avec la carte. Une fois dessoudés, je les ai nettoyés à l’aide d’un produit spécifique afin d’enlever les résidus de soudure et de flux avant leur réutilisation.
 
-![](../images/recuperation_composants.jpg)
+Pour dessouder les composants, j’ai utilisé un fer à souder ainsi qu’une pompe à dessouder, qui aspire le matériau fondu après avoir exercé une pression. Pour effectuer cette tâche, il fallait également allumer une ventilation afin d’éviter d’inhaler les vapeurs.
+
+![Composants](../images/semaine5/soudure_materiels.jpg)
+*Materiels soudure*
+
+![Composants](../images/semaine5/recuperation_composants.jpg)
+*Composants électroniques récupérés*
 
 # Jour 24 : Télétravail
 
@@ -119,19 +139,25 @@ J'ai donc imprimé :
 * **5 boîtes 2×2** ;
 * **23 boîtes 1×2**.
 
-![](../images/impression_boites_vis.jpg)
+![Deniere impression](../images/semaine5/boite_derniere_impression.jpg)
+*Dernière impression de boite*
 
 Grâce à ces impressions, toutes les boîtes nécessaires pour les tiroirs à vis sont désormais terminées. Il ne restera plus qu'à imprimer les trois derniers plateaux [Gridfinity](../Explication/Definitions.md#gridfinity) afin de finaliser complètement les tiroirs.
 
-![](../images/boites_vis_terminees.jpg)
+
 
 Nous avons ensuite remis en place les mousses acoustiques dans la salle du **Medialab**. Avec la chaleur, plusieurs mousses s'étaient décollées du mur. Nous avons donc utilisé du [scotch double face](../Explication/Definitions.md#scotch-double-face) pour les refixer correctement. Sur le mur gauche on a utilisé un double face standard et sur le mur de droite un double face fibreux. La différence entre les deux est que le fibreux est plus résistant. 
 
-![](../images/remise_mousses_acoustiques.jpg)
+![mousse_qui_manque](../images/semaine5/mousse_qui_manque.jpg)
+*Mousse manquante*
+
+![mousse_solution](../images/semaine5/mousse_solution.jpg)
+*Solution pour installer la mousse
+
+![mousse_installer](../images/semaine5/mousse_installer.jpg)
+*Mousse installer*
 
 Enfin, nous avons déplacé une table qui se trouvait dans le **Labo 4** afin de l'installer dans le **Repair Space**, où elle sera plus utile pour les prochaines activités.
-
-![](../images/deplacement_table.jpg)
 
 ---
 

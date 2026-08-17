@@ -21,7 +21,8 @@ Les jours 26 et 27 étaient des jours fériés. Aucune activité de stage n'a do
 
 En début de journée, nous avons constaté que les mousses acoustiques du MediaLab étaient de nouveau tombées. Malgré l'utilisation d'une quantité supplémentaire de [scotch double face](../Explication/Definitions.md#scotch-double-face), la chaleur de la salle continuait à provoquer leur décollement.
 
-![Mousses acoustiques décollées](../assets/images/semaine6/mousses-tombees.jpg)
+![Mousses acoustiques décollées](../images/semaine6/mousse_sol.png)
+*Mousse au sol suite à la chaleur*
 
 *Mousses acoustiques qui se sont de nouveau décollées à cause de la chaleur.*
 
@@ -29,8 +30,7 @@ Nous avons donc décidé de retirer complètement les mousses ainsi que le scotc
 
 J'ai ensuite terminé le rangement du deuxième tiroir destiné aux vis. Les différentes vis ont été réparties dans les boîtes en suivant la logique de rangement définie précédemment. Il ne restait plus que l'étiquetage des boîtes. Cependant, l'étiqueteuse n'avait plus de papier, et il fallait donc attendre la réception d'une nouvelle commande avant de pouvoir terminer cette étape.
 
-![Deuxième tiroir à vis terminé](../assets/images/semaine6/deuxieme-tiroir-vis.jpg)
-
+![Deuxième tiroir à vis terminé](../images/semaine6/deuxieme-tiroir-vis.jpg)
 *Deuxième tiroir à vis après le rangement des composants.*
 
 J'ai également poursuivi la fabrication des grilles destinées aux autres tiroirs. Pour le quatrième tiroir, j'ai terminé l'ensemble des grilles nécessaires. Cela représentait quatre grilles de 4 × 4, quatre grilles de 4 × 3, deux grilles de 4 × 2 et une grille de 3 × 2.
@@ -45,23 +45,24 @@ Cette journée a permis de terminer l'impression de toutes les grilles nécessai
 
 Pour terminer l'ensemble du stock de grilles, j'ai imprimé les dernières pièces nécessaires, soit huit grilles de 4 × 4, huit grilles de 4 × 3, deux grilles de 4 × 2 et une grille de 3 × 2.
 
-![Toutes les grilles imprimées](../assets/images/semaine6/toutes-grilles.jpg)
-
-*Ensemble des grilles [Gridfinity](../Explication/Definitions.md#gridfinity) imprimées pour les différents tiroirs.*
+![Toutes les grilles imprimées](../images/semaine6/toutes-grilles.jpg)
+*Ensemble des grilles Gridfinity imprimées pour les différents tiroirs.*
 
 J'ai rencontré un problème lors de l'impression d'une grille de 4 × 4. Les coins de la pièce ont commencé à se soulever à cause du phénomène de [warping](../Explication/Definitions.md#warping). Pour éviter que ce problème ne se reproduise sur les impressions suivantes, j'ai ajouté un [brim](../Explication/Definitions.md#brim) autour de la pièce.
 
-![Problème de warping sur une grille](../assets/images/semaine6/warping-grille.jpg)
-
-*Grille présentant un défaut lié au [warping](../Explication/Definitions.md#warping).*
+![Problème de warping sur une grille](../images/semaine6/warping-grille.jpg)
+*Grille présentant un défaut lié au warping.*
 
 Le [brim](../Explication/Definitions.md#brim) permet d'augmenter la surface de contact entre la pièce et le plateau d'impression. Cela permet de mieux maintenir les bords de la pièce et de réduire les risques de décollement pendant l'impression.
 
 Une fois les impressions des grilles terminées, j'ai également imprimé les quatre portes-bobines ainsi que les quatre porte-étiquettes nécessaires au Makerspace.
 
-![Portes-bobines et porte-étiquettes](../assets/images/semaine6/portes-bobines-et-etiquettes.jpg)
+![Portes-bobines](../images/semaine6/porte_bobine.jpg)
+*Portes-bobines imprimés.*
 
-*Portes-bobines et porte-étiquettes imprimés.*
+
+![porte-étiquettes](../images/semaine6/porte_etiquette.jpg)
+*Porte-étiquettes imprimés.*
 
 Enfin, nous avons aidé l'association UniMakers à déplacer plusieurs tables. Cette tâche m'a permis de participer à l'organisation générale des espaces du [Makerspace](../Explication/Definitions.md#makerspace) en dehors de mon projet principal.
 
@@ -69,23 +70,31 @@ Enfin, nous avons aidé l'association UniMakers à déplacer plusieurs tables. C
 
 La semaine a commencé par l'ajout des photos de la première semaine sur mon site de documentation. L'objectif était de commencer à intégrer les photographies prises pendant le stage afin d'illustrer les différentes missions réalisées. Certaines images étaient cependant trop grandes et prenaient trop de place sur les pages. J'ai donc dû adapter leur taille afin qu'elles soient mieux intégrées au site.
 
-![Ajout des photos de la semaine 1](../assets/images/semaine7/photos-semaine1.jpg)
-
-*Ajout des photos de la première semaine sur le site.*
-
 En parallèle, nous avons travaillé sur la fabrication des portes-bobines et des porte-étiquettes. Pour assembler certaines pièces imprimées en 3D, nous avons utilisé une machine qui fonctionne sur un principe similaire à un fer à souder afin de mettre en place des [inserts](../Explication/Definitions.md#insert) métalliques.
 
 Un [insert](../Explication/Definitions.md#insert) permet de créer un point de fixation dans une pièce imprimée en 3D. Une fois installé, il permet notamment de visser une pièce sans avoir besoin de réaliser directement le filetage dans le plastique.
 
-![Mise en place d'un insert](../assets/images/semaine7/insert.jpg)
-
+<video src="../images/semaine6/VID_insert.mp4" controls muted>
+</video>
 *Mise en place d'un insert dans une pièce imprimée en 3D.*
+
+![Portes-bobines installés](../images/semaine6/pieces_insert.jpg)
+*Toutes les piéces avec un insert*
 
 Après cette étape, Raphaël a utilisé la [découpeuse laser](../Explication/Definitions.md#decoupeuse-laser) afin de fabriquer les pièces nécessaires à l'accrochage des portes-bobines. Les différentes pièces ont ensuite été assemblées afin d'obtenir les portes-bobines terminés.
 
-![Portes-bobines installés](../assets/images/semaine7/portes-bobines.jpg)
 
-*Installation des portes-bobines dans le [Makerspace](../Explication/Definitions.md#makerspace).*
+Ensuite Raphaël à fait le montage des portes bobines :
+
+<video src="../images/semaine6/VID_montage.mp4" controls muted>
+</video>
+
+Et j'ai installé sur les amoires les portes bobines et les portes étiquettes : 
+
+![Portes-bobines installés](../images/semaine6/bobine_insta_noir.jpg)
+![Portes-bobines](../images/semaine6/bobine_insta_blanc.jpg)
+*Installation des portes-bobines et portes-étiquettes dans le Makerspace.*
+
 
 Cette activité m'a permis de voir comment plusieurs techniques de fabrication peuvent être utilisées pour réaliser un même objet. Les pièces imprimées en 3D permettent de réaliser les éléments personnalisés tandis que la découpeuse laser permet de fabriquer rapidement des pièces plates servant à l'assemblage.
 
