@@ -131,6 +131,8 @@ Cette organisation permet de mieux comprendre le raisonnement et évite de donne
 
 Un autre point important était de mieux montrer mon implication personnelle dans les projets. Il fallait expliquer clairement les réflexions que j'avais réalisées et les choix que j'avais faits afin que le travail présenté ne donne pas l'impression d'avoir été réalisé uniquement par quelqu'un d'autre.
 
+**Accéder au diaporama de la soutenance blanche modifié** : https://drive.google.com/file/d/12Jd32AJvK52eNN-uyKHGR-FirI0FKmUF/view?usp=drive_link (le fichier étant trop volumineux pour github j'ai du mettre un lien pour un google drive)
+
 # Jour 39 – Finalisation de la conception et découverte des formats de fichiers
 
 Pour résoudre définitivement le problème lié aux [supports](../Explication/Definitions.md#supports), j'ai conservé une partie de la base avec un angle de 90 degrés. Cette partie nécessitera des [supports](../Explication/Definitions.md#supports), mais elle permettra à la boîte de se bloquer correctement contre les barres de l'étagère.

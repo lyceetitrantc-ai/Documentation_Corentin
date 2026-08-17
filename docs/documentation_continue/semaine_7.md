@@ -61,7 +61,7 @@ Nous avons également réfléchi à la manière de présenter les informations �
 
 La préparation nous a donc permis de sélectionner les informations importantes et de réfléchir à l'ordre dans lequel elles seraient présentées.
 
-**Accéder au diaporama de la soutenance blanche** : https://drive.google.com/drive/folders/1FsHaT8JB92UPuR40Ry8X-RaV0kLaUSr_?usp=sharing (le fichier étant trop volumineux pour github j'ai du mettre un lien pour un google drive)
+**Accéder au diaporama de la soutenance blanche** : https://drive.google.com/file/d/19NKhveP6f14_sLtthQID4jJ_aouUm0aC/view?usp=drive_link (le fichier étant trop volumineux pour github j'ai du mettre un lien pour un google drive)
 
 # Jour 35 – Soutenance blanche et axes d'amélioration
 
