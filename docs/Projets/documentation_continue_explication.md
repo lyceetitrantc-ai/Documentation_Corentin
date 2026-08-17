@@ -45,7 +45,7 @@ Le transfert de certaines photos a également été compliqué à cause de probl
 
 J'ai créé une page regroupant les termes techniques utilisés pendant le stage.
 
-L'objectif est de permettre à une personne qui ne connaît pas l'impression 3D ou les outils utilisés de comprendre rapidement les termes présents dans la documentation.
+L'objectif est de permettre à une personne qui ne connaît pas l'[impression 3D](../Explication/Definitions.md#impression-3d) ou les outils utilisés de comprendre rapidement les termes présents dans la documentation.
 
 J'ai ensuite ajouté des liens sur les termes techniques afin qu'un clic permette d'accéder directement à leur définition.
 
@@ -53,7 +53,7 @@ J'ai ensuite ajouté des liens sur les termes techniques afin qu'un clic permett
 
 J'ai installé [Jekyll](../Explication/Definitions.md#jekyll) afin de pouvoir tester le site directement sur mon ordinateur.
 
-Cela me permet de vérifier mes modifications avant de les publier sur GitHub.
+Cela me permet de vérifier mes modifications avant de les publier sur [GitHub](../Explication/Definitions.md#github).
 
 Cette méthode permet notamment de détecter les problèmes de liens, de mise en page ou de fonctionnement avant de mettre les modifications en ligne. Elle permet ainsi d'éviter qu'une modification ne provoque un dysfonctionnement du site et empêche les utilisateurs d'y accéder ou de l'utiliser correctement.
 
@@ -63,7 +63,7 @@ Le site est également lié à [GitHub](../Explication/Definitions.md#github).
 
 J'ai appris à utiliser les notions de [commit](../Explication/Definitions.md#commit) et de [push](../Explication/Definitions.md#push) afin d'envoyer les modifications réalisées sur le site.
 
-L'utilisation de Jekyll permet de vérifier les changements avant de les envoyer.
+L'utilisation de [Jekyll](../Explication/Definitions.md#jekyll) permet de vérifier les changements avant de les envoyer.
 
 J'ai notamment rencontré des problèmes avec certaines balises qui renvoyaient vers les mauvaises pages. J'ai corrigé ces liens afin que les mots techniques redirigent vers les bonnes définitions.
 
@@ -71,7 +71,7 @@ J'ai notamment rencontré des problèmes avec certaines balises qui renvoyaient 
 
 Au cours du stage, j'ai également réfléchi à l'organisation du site.
 
-J'ai ajouté des pages pour présenter les projets, les définitions, les imprimantes et les différentes informations utiles au fonctionnement du Makerspace.
+J'ai ajouté des pages pour présenter les projets, les définitions, les imprimantes et les différentes informations utiles au fonctionnement du [Makerspace](../Explication/Definitions.md#makerspace).
 
 J'ai également renommé certaines pages afin de rendre leur contenu plus compréhensible.
 
@@ -82,5 +82,3 @@ Le site est devenu un support permettant de suivre progressivement le travail r�
 Il regroupe les comptes rendus des semaines, les photos, les définitions, les informations sur les machines et les différents projets.
 
 Cette documentation permet également de montrer l'évolution du travail et les problèmes rencontrés plutôt que de présenter uniquement le résultat final.
-
-

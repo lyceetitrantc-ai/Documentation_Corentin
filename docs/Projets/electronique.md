@@ -9,7 +9,7 @@ title: Récupération de composants électroniques
 
 ## Besoin
 
-Le Makerspace possède différents composants électroniques présents sur des cartes qui ne sont plus utilisées.
+Le [Makerspace](../Explication/Definitions.md#makerspace) possède différents composants électroniques présents sur des cartes qui ne sont plus utilisées.
 
 Plutôt que de jeter directement ces composants avec les cartes, il est possible de récupérer certaines pièces afin de pouvoir les réutiliser dans d'autres projets. ils avaient aussi besoin de tester du nouveaux matériels pour le brasage/soudage. 
 
@@ -33,7 +33,7 @@ Cette manipulation demande de la précision afin d'éviter d'endommager le compo
 
 ## Résultat
 
-Cette mission m'a permis de découvrir une nouvelle utilisation du matériel électronique du Makerspace.
+Cette mission m'a permis de découvrir une nouvelle utilisation du matériel électronique du [Makerspace](../Explication/Definitions.md#makerspace).
 
 J'ai réappris qu'une carte électronique qui n'est plus utilisée peut encore contenir des composants pouvant être récupérés et réutilisés dans de futurs projets.
 

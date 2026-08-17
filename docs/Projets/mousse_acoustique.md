@@ -9,7 +9,7 @@ title: Mousses acoustiques
 
 ## Besoin
 
-Dans le cadre de la préparation d'une visite du Makerspace, il était nécessaire de remettre en place les mousses acoustiques présentes dans la salle du MediaLab.
+Dans le cadre de la préparation d'une visite du [Makerspace](../Explication/Definitions.md#makerspace), il était nécessaire de remettre en place les mousses acoustiques présentes dans la salle du MediaLab.
 
 Ces mousses avaient tendance à tomber à cause de la chaleur, ce qui dégradait l'état de la salle et pouvait également gêner son utilisation.
 
@@ -19,7 +19,7 @@ Le but était de remettre les mousses acoustiques en place et de trouver une sol
 
 ## Réinstallation
 
-Nous avons commencé par remettre les mousses sur les murs à l'aide de scotch double face.
+Nous avons commencé par remettre les mousses sur les murs à l'aide de [scotch double face](../Explication/Definitions.md#scotch-double-face).
 
 Cette solution permettait de fixer les mousses sans réaliser de modification importante du mur.
 
@@ -31,7 +31,7 @@ Cette solution permettait de fixer les mousses sans réaliser de modification im
 
 Après quelque temps, les mousses sont de nouveau tombées à cause de la chaleur.
 
-Nous avons donc essayé d'utiliser davantage de scotch double face afin d'améliorer leur maintien.
+Nous avons donc essayé d'utiliser davantage de [scotch double face](../Explication/Definitions.md#scotch-double-face) afin d'améliorer leur maintien.
 
 Cependant, cette solution n'a pas été suffisante. Les mousses sont une nouvelle fois tombées.
 
