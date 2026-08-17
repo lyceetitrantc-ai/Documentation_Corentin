@@ -126,7 +126,7 @@ Pour dessouder les composants, j’ai utilisé un fer à souder ainsi qu’une p
 *Composants électroniques récupérés*
 
 <iframe width="560" height="315"
-src="https://youtu.be/Qb2znR-DyyU"
+src="https://www.youtube.com/embed/Qb2znR-DyyU"
 frameborder="0" allowfullscreen>
 </iframe>
 *Vidéo brasage*

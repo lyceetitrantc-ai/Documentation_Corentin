@@ -165,7 +165,7 @@ J'ai nettoyé les [vis trapézoïdales](../Explication/Definitions.md#vis-trapez
 J'ai ensuite appliqué la graisse prévue pour la machine sur les vis afin d'assurer leur bon fonctionnement.
 
 <iframe width="560" height="315"
-src="https://youtu.be/pv_Pta3ASQk"
+src="https://www.youtube.com/embed/pv_Pta3ASQk"
 frameborder="0" allowfullscreen>
 </iframe>
 *Vidéo nettoyage de l'imprimante*
