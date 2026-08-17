@@ -23,9 +23,14 @@ Nous avons commencé par remettre les mousses sur les murs à l'aide de [scotch 
 
 Cette solution permettait de fixer les mousses sans réaliser de modification importante du mur.
 
-![Remise en place des mousses acoustiques](../assets/images/projet-mousse/mousses.jpg)
+![mousse_qui_manque](../images/semaine5/mousse_qui_manque.jpg)
+*Mousse manquante*
 
-*Remise en place des mousses acoustiques.*
+![mousse_solution](../images/semaine5/mousse_solution.jpg)
+*Solution pour installer la mousse
+
+![mousse_installer](../images/semaine5/mousse_installer.jpg)
+*Mousse installer*
 
 ## Problème rencontré
 
@@ -34,6 +39,9 @@ Après quelque temps, les mousses sont de nouveau tombées à cause de la chaleu
 Nous avons donc essayé d'utiliser davantage de [scotch double face](../Explication/Definitions.md#scotch-double-face) afin d'améliorer leur maintien.
 
 Cependant, cette solution n'a pas été suffisante. Les mousses sont une nouvelle fois tombées.
+
+![Mousses acoustiques décollées](../images/semaine6/mousse_sol.png)
+*Mousse au sol suite à la chaleur*
 
 ## Solution
 

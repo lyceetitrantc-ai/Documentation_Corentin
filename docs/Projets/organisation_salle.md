@@ -21,6 +21,9 @@ Le but était de libérer l'espace afin de permettre la création d'une nouvelle
 
 Nous avons commencé par identifier le matériel qui pouvait être déplacé.
 
+![Salle avant changement](../images/semaine4/rangement_salle.jpg)
+*Salle avant le rangement*
+
 Il y avait des générateurs de tension/courant, des multimètres, des générateurs de fonctions programmables, des oscilloscopes, des câbles, des mini-processeurs STM-32 (ils servent en cours pour apprendre la programmation de micro-contrôleurs) et leurs boîtiers adaptateurs.
 
 Avant de déplacer le matériel, les équipements branchés ont été déconnectés afin de pouvoir les transporter sans risque.
@@ -33,6 +36,9 @@ Les équipements ont ensuite été placés dans une armoire située dans une aut
 <ul> <li><span style="color: red;">Les générateurs de tension/courant.</span></li> <li><span style="color: blue;">Les multimètres.</span></li> <li><span style="color: green;">Les générateurs de fonctions programmables.</span></li> <li><span style="color: gold;">Les oscilloscopes.</span></li> <li><span style="color: teal;">En cyan, ce sont les câbles que j’ai pu récupérer des matériels cités ci-dessus. (Deuxième étage en partant du haut, à gauche des alimentations.)</span></li> </ul>
 
 Les chaises ont également été déplacées vers la salle située dans le couloir.
+
+![Chaise dans le couloir](../images/semaine4/chaise_couloir.jpg)
+*Déplacement des chaises dans le couloir
 
 Nous avons également déplacé une table du laboratoire 4 vers le RepairSpace.
 
@@ -47,3 +53,6 @@ Cette réorganisation était également liée au problème général de stockage
 La salle a été libérée d'une partie du matériel qui n'était plus nécessaire à cet endroit.
 
 Le matériel conservé a été regroupé dans une armoire afin de libérer l'espace et de préparer la future organisation de la salle.
+
+![Salle après changement](../images/semaine4/rangement_salle_apres.jpg)
+*Salle après rangment*

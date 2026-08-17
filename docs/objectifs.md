@@ -26,6 +26,8 @@ C'est dans cette salle que j'ai réalisé une grande partie de mon projet de ran
 
 L'impression 3D permet donc de créer rapidement une pièce adaptée à un besoin précis et de modifier le modèle si le premier résultat ne convient pas.
 
+![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
+
 ## Le Resin Lab
 
 Le Resin Lab est l'espace dédié à l'impression 3D utilisant de la résine. Il permet de réaliser des pièces avec un autre procédé que les imprimantes 3D à filament.
@@ -34,7 +36,9 @@ Cette salle possède également du matériel et des espaces de stockage spécifi
 
 Lors de mon stage, j'ai notamment travaillé sur la réorganisation de cette salle et sur le déplacement de la servante contenant du matériel, afin d'améliorer l'organisation de la zone de stockage.
 
-## La salle d'électronique
+![Photo salle résine](./images/salle-resine.jpg)
+
+## La salle d'électronique (anciennement le Repair Space)
 
 La salle dédiée à l'électronique permet de réaliser des projets électroniques et de travailler sur des cartes et des composants.
 
@@ -57,6 +61,15 @@ Le MediaLab est un espace consacré à la création de contenu multimédia. Il p
 Cet espace peut être utilisé pour documenter un projet, réaliser une présentation ou créer différents supports permettant de communiquer autour d'une réalisation.
 
 J'ai notamment eu l'occasion de travailler autour de cet espace lors de la remise en place des mousses acoustiques.
+
+## La salle de stockage
+
+La salle de stockage est la partie du makerspace dédiée au rangement des bobines de filament, des vis, des écrous, des inserts et des anciens projets. Elle permet également de conserver certains prototypes réalisés auparavant.
+Des zones de stockage sont présentes dans chaque salle, mais l’intérêt de la salle de stockage est de garantir que nous ne manquons jamais de composants. On ne l’utilise que lorsque les éléments nécessaires ne sont plus disponibles dans les salles dédiées.
+Cela permet d’éviter toute rupture de stock, car si un composant n’est plus présent dans une salle, il faut alors procéder à une commande.
+
+![Photo salle stockage](../images/stockage.jpg)
+![Photo salle stockage](../images/stockage2.jpg)
 
 ## L'association Unimakers
 

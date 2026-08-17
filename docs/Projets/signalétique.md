@@ -17,7 +17,13 @@ Des panneaux devaient donc être conçus afin d'indiquer clairement les espaces 
 
 Le but était de participer à la réalisation des panneaux destinés aux différentes salles.
 
-La conception générale du projet a principalement été réalisée par Raphaël. Mon intervention a surtout concerné la partie impression 3D multicolore.
+La conception générale du projet a principalement été réalisée par Raphaël. Mon intervention a surtout concerné la partie impression 3D multicolore. 
+
+Il s'est basé sur l'ancien modèle du panneau.
+
+![Exemple de panneau pour le RepairSpace](../images/semaine7/panneau-repairspace.jpg)
+
+*Exemple de panneau qui était déjà présent au RepairSpace.*
 
 ## Préparation de l'impression
 
@@ -33,9 +39,12 @@ L'impression a été réalisée avec la [Bambu Lab X1 Carbon](../Explication/Imp
 
 L'[AMS](../Explication/Definitions.md#ams) permet de charger plusieurs bobines de filament et de sélectionner automatiquement la couleur nécessaire pendant l'impression.
 
-![Panneau en impression multicolore](../assets/images/projet-signaletique/panneau-multicolore.jpg)
+![Préparation de l'impression multicolore](../images/semaine8/multicouleur.jpg)
+*Impression multicouleur*
 
-*Impression multicolore du panneau.*
+![Préparation de l'impression multicolore](../images/timelapse_texte_rapahel.mp4)
+*Timelapse impression multicouleur*
+
 
 ## Résultat
 
