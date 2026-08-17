@@ -76,7 +76,9 @@ La partie concernant l'électronique m'a également permis de découvrir le trav
 
 Enfin, la création du site web et la documentation continue m'ont permis de travailler sur une autre partie qui m'intéresse : le **développement informatique** et la gestion d'un projet numérique.
 
-Ce stage m'a donc permis de découvrir plusieurs domaines différents et de mieux comprendre les métiers auxquels ces compétences peuvent être associées.
+Ce stage m'a donc permis de découvrir plusieurs domaines différents et de mieux comprendre les métiers auxquels ces compétences peuvent être associées. 
+
+Personnellement, à la suite de ce stage, je souhaiterais m’orienter vers la fabrication numérique et le prototypage, afin de concevoir et réaliser un projet utile, de préférence lié au développement durable.
 
 ## Ce que je retiens de mon stage
 

@@ -31,7 +31,7 @@ J'ai également créé différentes pages complémentaires afin de présenter le
 
 *Site de documentation du stage.*
 
-## Ajout des photos
+## Ajout des photos 
 
 Au fur et à mesure du stage, j'ai ajouté les photos correspondant aux différentes missions.
 
@@ -40,6 +40,8 @@ J'ai notamment ajouté les photos des premières semaines afin d'illustrer les t
 Certaines images étant trop grandes, j'ai dû adapter leur taille afin d'obtenir un affichage correct sur le site.
 
 Le transfert de certaines photos a également été compliqué à cause de problèmes de connexion et de transfert de fichiers.
+
+Ce que je retiens, c’est qu’il faut absolument intégrer les photos au fur et à mesure dans un rapport, car sinon cela devient une corvée de les ajouter à la toute fin.
 
 ## Définitions
 
