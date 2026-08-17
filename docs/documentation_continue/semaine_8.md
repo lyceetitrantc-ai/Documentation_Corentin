@@ -171,7 +171,7 @@ frameborder="0" allowfullscreen>
 *Vidéo nettoyage de l'imprimante*
 
 <iframe width="560" height="315"
-src="https://youtu.be/pLaLseYa-9I"
+src="https://www.youtube.com/embed/F3D_iWfCMfQ"
 frameborder="0" allowfullscreen>
 </iframe>
 *Deuxième vidéo nettoyage de l'imprimante*

@@ -27,9 +27,6 @@ Chaque semaine possède une page permettant de décrire les différentes mission
 
 J'ai également créé différentes pages complémentaires afin de présenter les imprimantes utilisées, les définitions des termes techniques et les différents projets réalisés pendant le stage.
 
-![Site de documentation](../assets/images/projet-documentation/site.jpg)
-
-*Site de documentation du stage.*
 
 ## Ajout des photos 
 
@@ -40,6 +37,8 @@ J'ai notamment ajouté les photos des premières semaines afin d'illustrer les t
 Certaines images étant trop grandes, j'ai dû adapter leur taille afin d'obtenir un affichage correct sur le site.
 
 Le transfert de certaines photos a également été compliqué à cause de problèmes de connexion et de transfert de fichiers.
+
+J'ai appris à transformer des vidéos en gif grâce à Ezgif. 
 
 Ce que je retiens, c’est qu’il faut absolument intégrer les photos au fur et à mesure dans un rapport, car sinon cela devient une corvée de les ajouter à la toute fin.
 
@@ -59,15 +58,23 @@ Cela me permet de vérifier mes modifications avant de les publier sur [GitHub](
 
 Cette méthode permet notamment de détecter les problèmes de liens, de mise en page ou de fonctionnement avant de mettre les modifications en ligne. Elle permet ainsi d'éviter qu'une modification ne provoque un dysfonctionnement du site et empêche les utilisateurs d'y accéder ou de l'utiliser correctement.
 
+<img src="../images/bonus/logoj.png" alt="logo" width="200">
+
+*Logo Jekyll*
+
 ## GitHub
 
 Le site est également lié à [GitHub](../Explication/Definitions.md#github).
 
 J'ai appris à utiliser les notions de [commit](../Explication/Definitions.md#commit) et de [push](../Explication/Definitions.md#push) afin d'envoyer les modifications réalisées sur le site.
 
-L'utilisation de [Jekyll](../Explication/Definitions.md#jekyll) permet de vérifier les changements avant de les envoyer.
+L'utilisation de [Jekyll](../Explication/Definitions.md#jekyll) permet de vérifier les changements avant de les envoyer, car il héberge le site en local.
 
 J'ai notamment rencontré des problèmes avec certaines balises qui renvoyaient vers les mauvaises pages. J'ai corrigé ces liens afin que les mots techniques redirigent vers les bonnes définitions.
+
+<img src="../images/bonus/logog.png" alt="logo" width="200">
+
+*Logo Github*
 
 ## Organisation du site
 
