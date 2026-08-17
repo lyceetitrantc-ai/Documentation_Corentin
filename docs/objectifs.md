@@ -14,9 +14,9 @@ Dans mon stage, j'ai notamment pu utiliser plusieurs espaces du Makerspace pour 
 
 Cette page sert à décrire tout se qu'on peut trouver au makerspace comme salle. 
 
-![Vue du Makerspace](../assets/images/makerspace/makerspace.jpg)
+![Vue du Makerspace](./images/bonus/makerspace.png)
 
-*Vue du Makerspace.*
+*Plan Makerspace*
 
 ## La salle d'impression 3D
 

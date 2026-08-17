@@ -25,17 +25,13 @@ La mission principale de la journée concernait cependant la conception d'une no
 
 L'objectif était d'améliorer la boîte existante afin d'éviter de devoir la vider trop régulièrement. La problématique était donc de concevoir une boîte avec une plus grande capacité tout en respectant les contraintes de l'étagère et des imprimantes situées autour.
 
-![Boîte à déchets conçue sur Onshape](../assets/images/semaine8/boite-dechets.jpg)
-
-*Première conception de la nouvelle boîte à déchets.*
-
 J'ai d'abord réfléchi à plusieurs solutions. Une première possibilité aurait été de rendre la boîte plus profonde, mais les imprimantes situées sous l'étagère empêchent d'utiliser davantage d'espace vers le bas. J'ai également envisagé d'augmenter la largeur de la boîte, mais le plateau des imprimantes ne permet pas d'imprimer une pièce suffisamment grande.
 
 Une autre idée consistait à créer des rampes permettant de guider tous les déchets vers un même endroit. Cependant, les câbles et certaines [buse](../Explication/Definitions.md#buse)s se trouvent dans cette zone et empêchent la mise en place de cette solution. De plus, l'espace disponible sur le côté gauche de l'armoire est insuffisant.
 
 La solution retenue a donc été de conserver les dimensions permettant à la boîte de s'emboîter sur les barres métalliques de l'étagère tout en augmentant sa capacité.
 
-![Dimensions de l'ancienne boîte](../assets/images/semaine8/dimensions-ancienne-boite.jpg)
+![Dimensions de l'ancienne boîte](../images/semaine5/bac_mesure.jpg)
 
 *Relevé des dimensions de l'ancienne boîte afin de conserver le même système de fixation.*
 
@@ -43,39 +39,43 @@ Pour commencer la conception sur [Onshape](../Explication/Definitions.md#onshape
 
 J'ai réalisé une première [esquisse](../Explication/Definitions.md#esquisse) composée de deux rectangles. J'ai ensuite utilisé une [extrusion](../Explication/Definitions.md#extrusion) afin d'ajouter de la matière entre ces deux formes. Cette méthode m'a permis de conserver une épaisseur de paroi d'environ un centimètre.
 
-![Première esquisse de la boîte](../assets/images/semaine8/premiere-esquisse.jpg)
+![Première esquisse de la boîte](../images/semaine8/premiere-esquisse.jpg)
 
 *Première esquisse utilisée pour commencer la conception de la boîte.*
 
 J'ai ensuite réalisé une deuxième [esquisse](../Explication/Definitions.md#esquisse) permettant de créer un passage pour la [buse](../Explication/Definitions.md#buse). L'objectif était que la [buse](../Explication/Definitions.md#buse) ne puisse pas entrer en contact avec la boîte et que les déchets puissent tomber correctement à l'intérieur.
 
-![Passage pour la buse](../assets/images/semaine8/passage-buse.jpg)
+![Passage pour la buse](../images/semaine8/passage-buse.jpg)
 
 *Conception de la zone permettant aux déchets de tomber dans la boîte.*
 
 J'ai ensuite ajouté plusieurs [congés](../Explication/Definitions.md#conge) sur les bords extérieurs de la boîte. Cela permet d'éviter d'avoir des angles trop pointus qui pourraient provoquer des blessures lors de la manipulation.
 
-![Congés sur les bords](../assets/images/semaine8/conges.jpg)
+![Congés sur les bords](../images/semaine8/conges.jpg)
 
 *Arrondissement des bords extérieurs de la boîte.*
 
 Après cela, j'ai réalisé une [extrusion](../Explication/Definitions.md#extrusion) permettant de créer le fond de la boîte.
 
-![Fond de la boîte](../assets/images/semaine8/fond-boite.jpg)
+![Fond de la boîte](../images/semaine8/fond-boite.jpg)
 
 *Création du fond de la boîte.*
 
 J'ai ensuite réalisé une nouvelle [esquisse](../Explication/Definitions.md#esquisse) en prenant en compte la distance entre les barres de l'étagère. Cette étape m'a permis d'agrandir la boîte vers le bas afin d'augmenter sa capacité tout en conservant son système de fixation.
 
-![Adaptation aux barres de l'étagère](../assets/images/semaine8/contraintes-etagere.jpg)
+![Adaptation aux barres de l'étagère](../images/semaine8/contraintes-etagere.jpg)
 
 *Prise en compte des dimensions réelles de l'étagère.*
 
 Enfin, j'ai réalisé une [extrusion](../Explication/Definitions.md#extrusion) en enlèvement de matière afin d'augmenter le volume disponible à l'intérieur de la boîte. J'ai également ajouté deux congés à l'intérieur afin d'arrondir les angles et de faciliter la chute des déchets vers le fond.
 
-![Intérieur de la boîte](../assets/images/semaine8/interieur-boite.jpg)
+![Intérieur de la boîte](../images/semaine8/interieur-boite.jpg)
 
 *Conception de l'intérieur de la boîte à déchets.*
+
+![Intérieur de la boîte](../images/semaine8/premiere_boite.png)
+
+*Boite à déchets finalisé*
 
 # Jour 37 – Amélioration de la conception et prise en compte des contraintes réelles
 
@@ -85,7 +85,7 @@ J'ai ensuite eu une longue discussion avec Alban afin d'améliorer la conception
 
 Il m'a notamment conseillé de reproduire directement les contraintes réelles de l'étagère dans [Onshape](../Explication/Definitions.md#onshape). J'ai donc modélisé les barres métalliques sur lesquelles la boîte doit venir se fixer. Cela permet de vérifier directement dans le logiciel si ma pièce respecte les dimensions disponibles.
 
-![Reproduction de l'étagère sur Onshape](../assets/images/semaine8/contraintes-onshape.jpg)
+![Reproduction de l'étagère sur Onshape](../images/semaine8/contraintes-onshape.jpg)
 
 *Reproduction des contraintes réelles de l'étagère dans Onshape.*
 
@@ -101,7 +101,7 @@ J'ai ensuite modifié la boîte afin qu'elle puisse atteindre la deuxième barre
 
 Cependant, cette modification a fait apparaître un nouveau problème : une partie de la pièce dépassait du plateau d'impression.
 
-![Pièce dépassant du plateau](../assets/images/semaine8/piece-hors-plateau.jpg)
+![Pièce dépassant du plateau](../images/semaine8/piece-hors-plateau.jpg)
 
 *Partie de la boîte dépassant du plateau d'impression.*
 
@@ -113,9 +113,9 @@ Après avoir séparé la boîte en deux parties grâce au système d'encoche, un
 
 Je souhaitais que la boîte puisse correctement s'accrocher aux barres de l'étagère tout en conservant une orientation à 45 degrés. Cependant, cette orientation faisait apparaître des zones nécessitant l'utilisation de [supports](../Explication/Definitions.md#supports).
 
-![Problème lié aux supports](../assets/images/semaine8/probleme-supports.jpg)
+![Problème lié aux supports](../images/semaine8/probleme-supports.jpg)
 
-*Zone de la boîte nécessitant des [supports](../Explication/Definitions.md#supports).*
+*Zone de la boîte nécessitant des supports*
 
 J'ai donc réfléchi à une nouvelle forme pour le dessous de la boîte afin de respecter l'angle nécessaire tout en limitant les zones nécessitant des [supports](../Explication/Definitions.md#supports).
 
@@ -139,9 +139,9 @@ Pour résoudre définitivement le problème lié aux [supports](../Explication/D
 
 Pour le reste de la boîte, j'ai créé une forme courbée permettant de respecter l'angle de 45 degrés. Cette partie ne nécessite ainsi pas de [supports](../Explication/Definitions.md#supports).
 
-![Conception finale de la boîte](../assets/images/semaine8/conception-finale.jpg)
+![Conception finale de la boîte](../images/semaine8/conception-finale.jpg)
 
-*Version finale de la boîte à déchets avec la partie nécessitant des [supports](../Explication/Definitions.md#supports) et la partie inclinée.*
+*Version finale de la boîte à déchets avec la partie nécessitant des supports et la partie inclinée.*
 
 Cette solution a été validée par Alban. Cette mission m'a permis de découvrir une technique de conception plus avancée et de mieux comprendre comment adapter une pièce aux contraintes de fabrication.
 
@@ -170,7 +170,13 @@ frameborder="0" allowfullscreen>
 </iframe>
 *Vidéo nettoyage de l'imprimante*
 
-Une fois la maintenance terminée, j'ai indiqué à l'imprimante que l'opération avait été réalisée. J'ai ensuite rangé le matériel utilisé et éliminé les déchets produits pendant l'opération.
+<iframe width="560" height="315"
+src="https://youtu.be/pLaLseYa-9I"
+frameborder="0" allowfullscreen>
+</iframe>
+*Deuxième vidéo nettoyage de l'imprimante*
+
+Une fois la maintenance terminée, j'ai indiqué à l'imprimante que l'opération avait été réalisée. J'ai ensuite rangé le matériel utilisé et jetée les déchets produits pendant l'opération.
 
 Cette intervention m'a permis de comprendre qu'une [imprimante 3D](../Explication/Definitions.md#imprimante-3d) nécessite également un entretien régulier pour conserver de bonnes performances et limiter les problèmes mécaniques.
 
