@@ -25,7 +25,7 @@ Cette solution permettait de fixer les mousses sans réaliser de modification im
 
 ![Remise en place des mousses acoustiques](../assets/images/projet-mousse/mousses.jpg)
 
-*Figure : Remise en place des mousses acoustiques.*
+*Remise en place des mousses acoustiques.*
 
 ## Problème rencontré
 

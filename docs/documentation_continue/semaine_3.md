@@ -24,7 +24,7 @@ Une autre imprimante Bambu Lab a également rencontré un défaut d'impression. 
 
 ![Filament mal engagé](../images/semaine3/filament-buse.jpg)
 
-*Figure 2 : Mauvais engagement du filament dans la buse.*
+*Mauvais engagement du filament dans la buse.*
 
 J'ai également suivi un tutoriel expliquant la procédure correcte de chargement du [filament](../Explication/Definitions.md#filament) sur les [imprimantes 3D](../Explication/Definitions.md#imprimante-3d). Cette étape m'a permis de mieux comprendre les manipulations à effectuer afin d'éviter ce type de problème. 
 
@@ -38,7 +38,7 @@ Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisé
 
 ![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
 
-*Figure 3 : Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
+*Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
 
 Une fois cette série terminée, le premier tiroir pouvait être considéré comme presque achevé. Il ne restait plus qu'à installer les vis dans les différents bacs puis à terminer leur étiquetage avant de commencer l'organisation du second tiroir, destiné aux vis de plus grande taille.
 
@@ -46,7 +46,7 @@ Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défau
 
 ![Exemple de warping](../images/semaine3/warping.jpg)
 
-*Figure 7 : Déformation de la pièce provoquée par le warping.*
+*Déformation de la pièce provoquée par le warping.*
 
 Après réflexion, l'utilisation d'un [brim](../Explication/Definitions.md#brim) aurait probablement permis d'améliorer l'adhérence de la pièce au plateau et de limiter ce problème.
 

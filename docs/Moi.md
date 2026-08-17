@@ -18,7 +18,7 @@ Cette manière de travailler m'a particulièrement plu car je pouvais voir direc
 
 ![Réalisation du projet](../assets/images/moi/projet.jpg)
 
-*Figure 1 : Une partie des réalisations effectuées pendant le stage.*
+*Une partie des réalisations effectuées pendant le stage.*
 
 ## Ce que j'ai appris professionnellement
 

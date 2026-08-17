@@ -35,7 +35,7 @@ L'AMS permet de charger plusieurs bobines de filament et de sélectionner automa
 
 ![Panneau en impression multicolore](../assets/images/projet-signaletique/panneau-multicolore.jpg)
 
-*Figure : Impression multicolore du panneau.*
+*Impression multicolore du panneau.*
 
 ## Résultat
 

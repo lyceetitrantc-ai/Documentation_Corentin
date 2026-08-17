@@ -9,13 +9,13 @@ title: Semaine 5
 
 ## Introduction de la semaine
 
-Cette semaine a principalement été consacrée à l'aménagement de l'espace des imprimantes 3D ainsi qu'à la poursuite du projet de rangement des composants électroniques. J'ai terminé le tiroir destiné aux résistances, avancé sur le deuxième tiroir à vis et participé à l'installation des deux nouvelles imprimantes [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini). En parallèle, j'ai réalisé plusieurs modélisations 3D, poursuivi le développement de mon site de documentation et participé à différentes tâches d'organisation du Makerspace.
+Cette semaine a principalement été consacrée à l'aménagement de l'espace des [imprimantes 3D](../Explication/Definitions.md#imprimante-3d) ainsi qu'à la poursuite du projet de rangement des composants électroniques. J'ai terminé le tiroir destiné aux résistances, avancé sur le deuxième tiroir à vis et participé à l'installation des deux nouvelles imprimantes [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini). En parallèle, j'ai réalisé plusieurs modélisations 3D, poursuivi le développement de mon site de documentation et participé à différentes tâches d'organisation du [Makerspace](../Explication/Definitions.md#makerspace).
 
 ---
 
 # Jour 21 : Réorganisation de l'espace des imprimantes 3D
 
-Aujourd'hui, nous avons poursuivi la réorganisation de l'espace dédié aux imprimantes 3D afin de préparer l'installation de deux nouvelles [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini). Pour cela, il a fallu démonter une grande partie de l'étagère existante afin de modifier la hauteur des différents niveaux.
+Aujourd'hui, nous avons poursuivi la réorganisation de l'espace dédié aux [imprimantes 3D](../Explication/Definitions.md#imprimante-3d) afin de préparer l'installation de deux nouvelles [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini). Pour cela, il a fallu démonter une grande partie de l'étagère existante afin de modifier la hauteur des différents niveaux.
 
 Nous avons commencé par débrancher toutes les imprimantes, retirer les bandes de scratch utilisées pour le passage des câbles, puis enlever les imprimantes une par une en prenant soin de les identifier avec leur numéro. Une fois les machines retirées, nous avons démonté leurs supports imprimés en 3D ainsi que les différents étages de l'étagère.
 
@@ -24,7 +24,7 @@ Les deux premiers niveaux ont été entièrement démontés. Pour le troisième,
 Nous nous sommes ensuite rendu compte que la multiprise se retrouvait trop haute par rapport à sa position initiale. Pour résoudre ce problème, nous avons inversé la barre supportant la multiprise avec celle de l'étage supérieur. Cette modification nous a obligés à déplacer également les numéros des imprimantes afin qu'ils correspondent de nouveau à leur emplacement.
 
 ![Reorganisation etagere](../images/semaine5/reorganisation_etagere.jpg)
-*Figure 1 : Reorganisation étagère* 
+*Reorganisation étagère* 
 
 À la fin de la journée, les imprimantes étaient installées dans leur nouvelle configuration, mais les deux nouvelles machines n'avaient pas encore pu être montées.
 
@@ -45,7 +45,7 @@ J'ai ensuite réalisé un modèle 3D d'un bouchon destiné au stockage des tiges
 Pour réaliser ce modèle sur [Onshape](../Explication/Definitions.md#onshape), j'ai commencé par mesurer le tube. Celui-ci possède un diamètre extérieur de **6,42 cm** et une épaisseur de **0,3 cm**. J'ai créé une première [esquisse](../Explication/Definitions.md#esquisse) avec un cercle de **6,82 cm**, puis j'ai réalisé une [extrusion](../Explication/Definitions.md#extrusion) de **35 mm** afin de former le corps du bouchon. J'ai ensuite créé une seconde [esquisse](../Explication/Definitions.md#esquisse) avec deux cercles de **6,72 cm** et **6,42 cm**, avant d'effectuer une [extrusion](../Explication/Definitions.md#extrusion) en enlèvement de matière afin de créer le logement dans lequel le tube viendra s'insérer. L'objectif est de laisser suffisamment de matière pour que le bouchon maintienne correctement le tube tout en restant facile à installer.
 
 ![bouchon onshape](../images/semaine5/modele_bouchon_onshape.jpg)
-*Figure 2 : Modèle onshape* 
+*Modèle onshape* 
 
 Au cours de la journée, nous avons également reçu une nouvelle mission : refaire entièrement les bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge) des imprimantes. Il faudra donc modéliser un nouveau modèle plus adapté avant de lancer leur impression.
 
@@ -55,13 +55,13 @@ Nous avons aussi terminé le remontage des armoires destinées à accueillir les
 
 J'ai ensuite procédé au montage des deux nouvelles [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini) en suivant le guide de montage fourni par le constructeur. J'ai retiré les différentes protections de transport, enlevé les quatre vis qui maintenaient l'axe horizontal pendant le transport, puis serré les trois vis permettant de fixer correctement le [plateau chauffant](../Explication/Definitions.md#plateau-chauffant). J'ai également installé le support en plastique situé à l'arrière de chaque imprimante afin de pouvoir y fixer le porte-bobine.
 
-Une fois le montage mécanique terminé, j'ai branché les deux imprimantes et les ai connectées au réseau Wi-Fi. Je me suis arrêté à cette étape, car la configuration finale des machines sur le réseau du Makerspace sera réalisée par Adrien.
+Une fois le montage mécanique terminé, j'ai branché les deux imprimantes et les ai connectées au réseau Wi-Fi. Je me suis arrêté à cette étape, car la configuration finale des machines sur le réseau du [Makerspace](../Explication/Definitions.md#makerspace) sera réalisée par Adrien.
 
 ![](../images/montage_bambu_lab.jpg)
 
 En fin de journée, nous avons dû modifier une nouvelle fois l'installation des étagères. Nous nous sommes rendu compte que les imprimantes avaient été remontées trop haut, ce qui les rendait difficiles d'accès pour les personnes de petite taille. Nous avons donc entièrement redémonté l'installation afin d'abaisser les étagères de quelques crans.
 
-Une fois le côté droit terminé, nous avons déplacé l'ensemble du côté gauche. Cela a nécessité de débrancher toutes les imprimantes, retirer les scratchs du passage des câbles, démonter les imprimantes et leurs supports, déplacer les étagères, inverser la position de la multiprise avec un autre niveau, puis tout remonter dans le bon ordre. Les supports ont été légèrement décalés afin de laisser passer les câbles présents contre le mur. Nous avons ensuite remis les imprimantes en place, rebranché l'ensemble, refait le câble management et repositionné les numéros des machines ainsi que certains porte-bobines.
+Une fois le côté droit terminé, nous avons déplacé l'ensemble du côté gauche. Cela a nécessité de débrancher toutes les imprimantes, retirer les scratchs du passage des câbles, démonter les imprimantes et leurs supports, déplacer les étagères, inverser la position de la multiprise avec un autre niveau, puis tout remonter dans le bon ordre. Les supports ont été légèrement décalés afin de laisser passer les câbles présents contre le mur. Nous avons ensuite remis les imprimantes en place, rebranché l'ensemble, refait le [câble management](../Explication/Definitions.md#cable-management) et repositionné les numéros des machines ainsi que certains porte-bobines.
 
 À la fin de la journée, l'installation était beaucoup plus adaptée, mais il reste encore plusieurs éléments à réaliser : fabriquer les plaques des imprimantes **11** et **12**, imprimer les nouveaux porte-bobines et réimprimer les bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge).
 
@@ -79,9 +79,9 @@ Pour résoudre ce problème, j'ai utilisé de la **super glue** afin de fixer d�
 
 ![](../images/collage_bouchon.jpg)
 
-Nous avons ensuite commencé une nouvelle mission consistant à recréer les bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge) des imprimantes 3D. Pour cela, j'ai pris toutes les dimensions de l'ancien modèle afin de pouvoir concevoir une nouvelle version compatible avec les barres de fixation déjà présentes sur les imprimantes.
+Nous avons ensuite commencé une nouvelle mission consistant à recréer les bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge) des [imprimantes 3D](../Explication/Definitions.md#imprimante-3d). Pour cela, j'ai pris toutes les dimensions de l'ancien modèle afin de pouvoir concevoir une nouvelle version compatible avec les barres de fixation déjà présentes sur les imprimantes.
 
-![](../images/prise_mesures_bac_[purge](../Explication/Definitions.md#purge).jpg)
+![](../images/prise_mesures_bac_purge.jpg)
 
 Je suis ensuite revenu sur le deuxième tiroir destiné aux vis. J'ai commencé à répartir les vis dans les boîtes déjà disponibles afin de vérifier combien de boîtes il restait à fabriquer. Après avoir fait le comptage, il manque encore :
 
@@ -91,7 +91,7 @@ Je suis ensuite revenu sur le deuxième tiroir destiné aux vis. J'ai commencé 
 
 Je prévois de lancer ces impressions vendredi.
 
-Avec l'installation des nouvelles imprimantes, il faut également fabriquer de nouveaux accessoires. J'ai donc prévu d'imprimer **4 porte-bobines** ainsi que **4 supports de numérotation**. Deux serviront pour les imprimantes installées cette semaine et les deux autres seront conservés en avance, car le Makerspace prévoit d'acheter deux imprimantes supplémentaires.
+Avec l'installation des nouvelles imprimantes, il faut également fabriquer de nouveaux accessoires. J'ai donc prévu d'imprimer **4 porte-bobines** ainsi que **4 supports de numérotation**. Deux serviront pour les imprimantes installées cette semaine et les deux autres seront conservés en avance, car le [Makerspace](../Explication/Definitions.md#makerspace) prévoit d'acheter deux imprimantes supplémentaires.
 
 Une autre tâche de la journée a consisté à déplacer une servante qui se trouvait dans le **Résine Lab** vers la salle de stockage. Pour faciliter son déplacement, nous avons d'abord retiré tous les tiroirs ainsi que la machine installée sur le dessus. Une fois la servante déplacée, nous avons remis les tiroirs à leur place.
 
@@ -125,7 +125,7 @@ Grâce à ces impressions, toutes les boîtes nécessaires pour les tiroirs à v
 
 ![](../images/boites_vis_terminees.jpg)
 
-Nous avons ensuite remis en place les mousses acoustiques dans la salle du **Medialab**. Avec la chaleur, plusieurs mousses s'étaient décollées du mur. Nous avons donc utilisé du **scotch double face** pour les refixer correctement. Sur le mur gauche on a utilisé un double face standard et sur le mur de droite un double face fibreux. La différence entre les deux est que le fibreux est plus résistant. 
+Nous avons ensuite remis en place les mousses acoustiques dans la salle du **Medialab**. Avec la chaleur, plusieurs mousses s'étaient décollées du mur. Nous avons donc utilisé du [scotch double face](../Explication/Definitions.md#scotch-double-face) pour les refixer correctement. Sur le mur gauche on a utilisé un double face standard et sur le mur de droite un double face fibreux. La différence entre les deux est que le fibreux est plus résistant. 
 
 ![](../images/remise_mousses_acoustiques.jpg)
 
@@ -137,6 +137,4 @@ Enfin, nous avons déplacé une table qui se trouvait dans le **Labo 4** afin de
 
 # Bilan de la semaine
 
-Cette semaine m'a permis de terminer une étape importante du projet de rangement avec la finalisation du tiroir à résistances et l'impression de l'ensemble des boîtes nécessaires pour les tiroirs à vis. J'ai également participé à la réorganisation complète de l'espace des imprimantes 3D, ce qui m'a permis de découvrir les contraintes liées à l'installation et à l'aménagement d'un parc d'imprimantes. Enfin, j'ai développé de nouvelles compétences en modélisation 3D avec la conception d'un bouchon et le début de la refonte des bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge). La semaine prochaine sera principalement consacrée à la finalisation des tiroirs, à l'impression des derniers accessoires pour les imprimantes et à la poursuite de la documentation du projet sur mon site.
-
-
+Cette semaine m'a permis de terminer une étape importante du projet de rangement avec la finalisation du tiroir à résistances et l'impression de l'ensemble des boîtes nécessaires pour les tiroirs à vis. J'ai également participé à la réorganisation complète de l'espace des [imprimantes 3D](../Explication/Definitions.md#imprimante-3d), ce qui m'a permis de découvrir les contraintes liées à l'installation et à l'aménagement d'un parc d'imprimantes. Enfin, j'ai développé de nouvelles compétences en modélisation 3D avec la conception d'un bouchon et le début de la refonte des bacs de récupération des déchets de [purge](../Explication/Definitions.md#purge). La semaine prochaine sera principalement consacrée à la finalisation des tiroirs, à l'impression des derniers accessoires pour les imprimantes et à la poursuite de la documentation du projet sur mon site.

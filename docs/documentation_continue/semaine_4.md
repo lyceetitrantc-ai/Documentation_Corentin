@@ -23,7 +23,7 @@ Au cours de la journée, nous avons rencontré un petit problème avec l’étiq
 
 ![Changement d'étiqueteuse](../images/semaine4/changement_etiqueteuse.jpg)
 
-*Figure 1 : Changement d'étiqueteuse*
+*Changement d'étiqueteuse*
 
 J’ai ensuite poursuivi le rangement des vis dans les nouvelles boîtes. La méthode utilisée est assez simple : je récupère les informations présentes sur l’emballage d’origine, je place les vis dans la nouvelle boîte, puis je conserve les informations concernant les dimensions. Ensuite, à l’aide de l’étiqueteuse, je recrée une étiquette propre qui est collée sur la boîte afin de pouvoir identifier facilement son contenu.
 
@@ -35,7 +35,7 @@ Avant de terminer la journée, j’ai également nettoyé la zone de travail. Le
 
 <img src="../images/semaine4/cartons_vides.jpg" alt="Cartons rangés dans un sac" width="200">
 
-*Figure 2 : Cartons rangés dans un sac*
+*Cartons rangés dans un sac*
 
 # Jour 17 : Nouvelle mission
 
@@ -46,16 +46,16 @@ J’ai ensuite reçu une nouvelle mission : créer une grille [Gridfinity](../Ex
 Une partie de la matinée a également été consacrée au rangement d’une salle qui va prochainement être réaménagée. Les oscilloscopes et le matériel pouvant être déplacé ont été rangés dans une armoire située dans une autre salle. Nous avons également déplacé les chaises dans le couloir et débranché tous les équipements avant leur déplacement.
 
 ![Salle avant changement](../images/semaine4/rangement_salle.jpg)
-*Figure 3 : Salle avant le rangement*
+*Salle avant le rangement*
 
 ![Matériel rangé dans l'armoire](../images/semaine4/armoire_materiel.jpg)
-*Figure 4 : Matériel déplacé dans une amoire*
+*Matériel déplacé dans une amoire*
 
 ![Chaise dans le couloir](../images/semaine4/chaise_couloir.jpg)
-*Figure 5 : Déplacement des chaises dans le couloir*
+*Déplacement des chaises dans le couloir*
 
 ![Salle après changement](../images/semaine4/rangement_salle_apres.jpg)
-*Figure 6 : Salle après rangment*
+*Salle après rangment*
 
 Ce déplacement de matériel avait pour but de préparer la nouvelle salle du [Makerspace](../Explication/Definitions.md#makerspace). L'ancienne salle était mal agancé et avait besoin d'être réogarnisé. Ce déplacement de matérielle permettra de faciliter l'instalation des nouvelles tables.
 
@@ -72,7 +72,7 @@ La journée a principalement été consacrée à l’impression des boîtes dest
 Au cours des impressions, j’ai rencontré plusieurs problèmes techniques. Sur une [Bambu Lab P1P](../Explication/Definitions.md#bambu-lab-p1p), l’impression a échoué car le plateau était sale et le [filament](../Explication/Definitions.md#filament) n’adhérait plus correctement à la surface.
 
 ![Erreur d'impression sur plateau sale](../images/semaine4/erreur_plateau.jpg)
-*Figure 7 : erreur sur le plateau*
+*erreur sur le plateau*
 
 Une autre pièce a présenté un léger défaut d’impression dû à un problème d’adhérence. Le défaut n’étant pas gênant pour son utilisation finale, j’ai décidé de laisser l’impression se terminer. Une fois la pièce terminée, j’ai utilisé un [ébavureur](../Explication/Definitions.md#ebavureur) afin de retirer les petits morceaux de plastique qui dépassaient.
 
@@ -80,7 +80,7 @@ Une autre pièce a présenté un léger défaut d’impression dû à un problè
 *Figure 8 : Pièce en 3d après l'utilisation d'un ébavureur*
 
 ![Ébavureur utilisé](../images/semaine4/ebavureur.jpg)
-*Figure 9 : Ébavureur*
+*Ébavureur*
 
 Sur les 56 boîtes prévues, seules 48 ont finalement pu être imprimées. Huit boîtes ont été perdues car le plastique refroidissait trop rapidement, ce qui a provoqué une déformation de la pièce. Comme les impressions sont réalisées couche par couche, le défaut s’est amplifié au fil du temps jusqu’à rendre l’impression inutilisable. Pour éviter ce problème lors des prochaines séries, il faudra utiliser de la colle sur le plateau afin d’améliorer l’adhérence.
 
@@ -93,14 +93,14 @@ J’ai également profité du temps restant pour imprimer deux grilles **2×4** 
 Aujourd’hui, j’ai terminé l’impression des boîtes destinées aux résistances en fabriquant les 18 dernières boîtes au format **2×1**. Toutes les boîtes nécessaires sont maintenant disponibles. Il ne reste plus qu’à définir une logique de rangement claire et à réaliser l’étiquetage.
 
 ![Toutes les boîtes de résistances](../images/semaine4/boites_resistances.jpg)
-*Figure 10 : Toutes les boites de resistances*
+*Toutes les boites de resistances*
 
 J’ai également terminé l’impression de la grille du tiroir des résistances avec les dernières pièces nécessaires. La grille est maintenant complète et prête à recevoir les boîtes.
 
 Ensuite, j’ai commencé à préparer le deuxième tiroir destiné aux vis. J’ai imprimé plusieurs nouvelles grilles afin de compléter le fond du tiroir. J’avais déjà quatre grilles **4×4**, j’en ai donc réimprimé quatre supplémentaires ainsi que deux grilles **2×4** et deux grilles **3×4**.
 
 ![Impression des grilles du deuxième tiroir](../images/semaine4/grilles_tiroir_2.jpg)
-*Figure 11 : Grilles du deuxième tiroir*
+*Grilles du deuxième tiroir*
 
 Pour demain, j’ai prévu de commencer l’organisation des tiroirs à vis et à résistances. L’objectif est de mettre en place une logique de rangement simple et facile à comprendre pour n’importe quel utilisateur. Une fois cette logique définie, il faudra également la documenter afin que chacun puisse retrouver rapidement le matériel recherché.
 
@@ -115,7 +115,7 @@ J’ai aussi appris que je devrai fabriquer les grilles pour quatre autres tiroi
 Aujourd'hui, j'ai terminé le tiroir destiné aux résistances. Toutes les boîtes sont maintenant en place, il ne reste plus que l'étiquetage, que je réaliserai la semaine prochaine.
 
 ![Tiroir des résistances terminé](../images/semaine4/tiroir_resistances.jpg)
-*Figure 12 : Tiroir des résistances*
+*Tiroir des résistances*
 
 J'ai également réfléchi à une logique de rangement afin que les résistances soient faciles à retrouver. Nous avons choisi de les classer par ordre croissant de leur valeur. On commence avec la plus petite résistance, **1 Ω**, puis les valeurs augmentent en descendant dans la première colonne. Une fois arrivé en bas, on reprend en haut de la colonne suivante avec la valeur suivante. Par exemple, la première colonne contient les résistances de **1 Ω à 5 Ω**, puis la deuxième commence avec **6 Ω**, suivie de **7 Ω**, **8 Ω**, et ainsi de suite jusqu'à remplir l'ensemble du tiroir. Cette organisation permettra de retrouver rapidement une valeur sans avoir à chercher dans toutes les boîtes.
 

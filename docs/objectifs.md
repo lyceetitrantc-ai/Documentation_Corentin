@@ -16,7 +16,7 @@ Cette page sert à décrire tout se qu'on peut trouver au makerspace comme salle
 
 ![Vue du Makerspace](../assets/images/makerspace/makerspace.jpg)
 
-*Figure 1 : Vue du Makerspace.*
+*Vue du Makerspace.*
 
 ## La salle d'impression 3D
 
@@ -28,7 +28,7 @@ L'impression 3D permet donc de créer rapidement une pièce adaptée à un besoi
 
 ![Salle d'impression 3D](../assets/images/makerspace/impression-3d.jpg)
 
-*Figure 2 : Salle dédiée à l'impression 3D.*
+*Salle dédiée à l'impression 3D.*
 
 ## Le Resin Lab
 
@@ -40,7 +40,7 @@ Lors de mon stage, j'ai notamment travaillé sur la réorganisation de cette sal
 
 ![Resin Lab](../assets/images/makerspace/resin-lab.jpg)
 
-*Figure 3 : Resin Lab.*
+*Resin Lab.*
 
 ## La salle d'électronique
 
@@ -52,7 +52,7 @@ C'est notamment dans cet espace que j'ai pu découvrir la récupération de comp
 
 ![Salle d'électronique](../assets/images/makerspace/electronique.jpg)
 
-*Figure 4 : Salle dédiée à l'électronique.*
+*Salle dédiée à l'électronique.*
 
 ## La salle des découpeuses laser
 
@@ -64,7 +64,7 @@ Lors de mon stage, Raphaël a notamment utilisé la découpeuse laser pour réal
 
 ![Salle des découpeuses laser](../assets/images/makerspace/decoupeuses-laser.jpg)
 
-*Figure 5 : Salle des découpeuses laser.*
+*Salle des découpeuses laser.*
 
 ## Le MediaLab
 
@@ -76,7 +76,7 @@ J'ai notamment eu l'occasion de travailler autour de cet espace lors de la remis
 
 ![MediaLab](../assets/images/makerspace/medialab.jpg)
 
-*Figure 6 : MediaLab.*
+*MediaLab.*
 
 ## L'association Unimakers
 
@@ -84,7 +84,7 @@ Le Makerspace accueille également l'association **Unimakers**, qui travaille no
 
 ![Unimakers et les robots](../assets/images/makerspace/unimakers.jpg)
 
-*Figure 7 : Projet de robotique réalisé par Unimakers.*
+*Projet de robotique réalisé par Unimakers.*
 
 
 ## Un espace adapté à chaque projet

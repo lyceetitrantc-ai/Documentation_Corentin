@@ -9,7 +9,7 @@ title: semaine 7
 
 ## Introduction de la semaine
 
-Cette septième semaine de stage a été principalement consacrée à la documentation du travail réalisé depuis le début du stage ainsi qu'à la préparation de la soutenance blanche. J'ai également participé à la fabrication et à l'installation de portes-bobines et de porte-étiquettes pour le Makerspace. Cette semaine m'a permis de travailler davantage sur la présentation d'un projet technique, mais aussi de comprendre l'importance de la communication et de l'organisation dans un travail en équipe.
+Cette septième semaine de stage a été principalement consacrée à la documentation du travail réalisé depuis le début du stage ainsi qu'à la préparation de la soutenance blanche. J'ai également participé à la fabrication et à l'installation de portes-bobines et de porte-étiquettes pour le [Makerspace](../Explication/Definitions.md#makerspace). Cette semaine m'a permis de travailler davantage sur la présentation d'un projet technique, mais aussi de comprendre l'importance de la communication et de l'organisation dans un travail en équipe.
 
 ---
 
@@ -19,9 +19,9 @@ Cette journée a principalement été consacrée à l'ajout des photos de la deu
 
 ![Ajout des photos de la semaine 2](../assets/images/semaine7/photos-semaine2.jpg)
 
-*Figure 4 : Ajout des photos de la deuxième semaine sur le site.*
+*Ajout des photos de la deuxième semaine sur le site.*
 
-En parallèle, une nouvelle mission nous a été présentée : réaliser des panneaux permettant d'identifier les différentes salles du Makerspace.
+En parallèle, une nouvelle mission nous a été présentée : réaliser des panneaux permettant d'identifier les différentes salles du [Makerspace](../Explication/Definitions.md#makerspace).
 
 Nous avons commencé à réfléchir à la manière de concevoir ces panneaux afin qu'ils puissent être adaptés aux différentes salles. L'idée était notamment de créer plusieurs éléments pouvant ensuite être assemblés ou modifiés selon les besoins.
 
@@ -29,9 +29,9 @@ Pour cela, nous avons réfléchi à l'utilisation de [Onshape](../Explication/De
 
 ![Exemple de panneau pour le RepairSpace](../assets/images/semaine7/panneau-repairspace.jpg)
 
-*Figure 5 : Exemple de panneau prévu pour le RepairSpace.*
+*Exemple de panneau prévu pour le RepairSpace.*
 
-Cette mission permet également de poursuivre la réflexion sur l'identification des espaces du Makerspace. Des panneaux clairement visibles doivent permettre aux utilisateurs de comprendre rapidement dans quelle salle ils se trouvent et quelles activités peuvent y être réalisées.
+Cette mission permet également de poursuivre la réflexion sur l'identification des espaces du [Makerspace](../Explication/Definitions.md#makerspace). Des panneaux clairement visibles doivent permettre aux utilisateurs de comprendre rapidement dans quelle salle ils se trouvent et quelles activités peuvent y être réalisées.
 
 # Jour 32 – Documentation du stage et préparation de la soutenance
 
@@ -39,7 +39,7 @@ Cette journée a été consacrée à la poursuite de la documentation. J'ai term
 
 ![Site avec les photos du stage](../assets/images/semaine7/site-photos.jpg)
 
-*Figure 6 : Évolution du site après l'ajout des différentes photographies.*
+*Évolution du site après l'ajout des différentes photographies.*
 
 Une fois cette partie terminée, nous avons commencé à réfléchir à la préparation de la soutenance blanche prévue pour la fin de la semaine.
 
@@ -67,7 +67,7 @@ Nous avons organisé la présentation afin de présenter nos projets, notre cont
 
 ![Diaporama de la soutenance](../assets/images/semaine7/diaporama.jpg)
 
-*Figure 7 : Préparation du diaporama de la soutenance blanche.*
+*Préparation du diaporama de la soutenance blanche.*
 
 Nous avons également réfléchi à la manière de présenter les informations à l'oral. Le diaporama devait servir de support à notre présentation et non simplement contenir tout le contenu que nous souhaitions expliquer.
 
@@ -93,11 +93,11 @@ La présentation de [GitHub](../Explication/Definitions.md#github) devra égalem
 
 Enfin, nous avons reçu plusieurs remarques concernant la présentation visuelle du diaporama. Certaines diapositives étaient trop chargées. Il serait préférable de répartir les informations sur plusieurs diapositives afin de pouvoir expliquer davantage de choses à l'oral sans surcharger l'écran.
 
-Nous devons également faire attention aux tics de langage pendant la présentation. Ces habitudes peuvent rendre le discours moins clair et moins professionnel. Il faudra donc faire attention à notre manière de parler lors de la soutenance finale.
+Nous devons également faire attention aux [tics de langage](../Explication/Definitions.md#tic-de-langage) pendant la présentation. Ces habitudes peuvent rendre le discours moins clair et moins professionnel. Il faudra donc faire attention à notre manière de parler lors de la soutenance finale.
 
 ![Soutenance blanche](../assets/images/semaine7/soutenance-blanche.jpg)
 
-*Figure 8 : Présentation lors de la soutenance blanche.*
+*Présentation lors de la soutenance blanche.*
 
 ---
 
@@ -110,6 +110,3 @@ J'ai également participé à la fabrication de portes-bobines et de porte-étiq
 La préparation de la soutenance blanche m'a surtout permis de prendre du recul sur la manière de présenter un projet technique. J'ai compris qu'il est essentiel de toujours commencer par expliquer le problème et son contexte avant de présenter la solution mise en place.
 
 Enfin, les difficultés rencontrées lors de la préparation du diaporama m'ont permis de mieux comprendre l'importance de la communication dans un travail en équipe. Savoir expliquer une idée est important, mais savoir écouter, reformuler et demander de l'aide lorsqu'une incompréhension apparaît l'est tout autant.
-
-
-

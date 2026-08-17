@@ -27,7 +27,7 @@ Avant de déplacer le matériel, les équipements branchés ont été déconnect
 
 ![Matériel avant déplacement](../assets/images/projet-salles/materiel.jpg)
 
-*Figure : Matériel présent dans la salle avant sa réorganisation.*
+*Matériel présent dans la salle avant sa réorganisation.*
 
 Les équipements ont ensuite été placés dans une armoire située dans une autre salle.
 

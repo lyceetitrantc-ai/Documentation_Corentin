@@ -117,7 +117,7 @@ Une fois l'opération terminée, j'ai indiqué à l'imprimante que la maintenanc
 
 ![Maintenance de la X1 Carbon](../assets/images/projet-imprimantes/maintenance.jpg)
 
-*Figure : Réalisation de la maintenance préventive de la X1 Carbon.*
+*Réalisation de la maintenance préventive de la X1 Carbon.*
 
 ## Résultat
 

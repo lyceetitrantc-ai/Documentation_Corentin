@@ -29,7 +29,7 @@ J'ai également créé différentes pages complémentaires afin de présenter le
 
 ![Site de documentation](../assets/images/projet-documentation/site.jpg)
 
-*Figure : Site de documentation du stage.*
+*Site de documentation du stage.*
 
 ## Ajout des photos
 

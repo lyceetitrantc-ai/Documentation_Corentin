@@ -41,13 +41,13 @@ Un [insert](../Explication/Definitions.md#insert) permet ensuite de visser une p
 
 ![Insertion d'un insert](../assets/images/projet-imprimantes/insert.jpg)
 
-*Figure : Mise en place d'un insert dans une pièce imprimée.*
+*Mise en place d'un insert dans une pièce imprimée.*
 
 Raphaël a ensuite utilisé la découpeuse laser afin de fabriquer les pièces nécessaires à l'accrochage des portes-bobines.
 
 ![Portes-bobines installés](../assets/images/projet-imprimantes/portes-bobines.jpg)
 
-*Figure : Installation des portes-bobines.*
+*Installation des portes-bobines.*
 
 ## Conception de la boîte à déchets
 
@@ -77,7 +77,7 @@ J'ai commencé par reprendre les dimensions de l'ancienne boîte afin qu'elle pu
 
 ![Dimensions de l'ancienne boîte](../assets/images/projet-imprimantes/dimensions-boite.jpg)
 
-*Figure : Relevé des dimensions nécessaires à la conception.*
+*Relevé des dimensions nécessaires à la conception.*
 
 J'ai ensuite créé une première esquisse composée de deux rectangles. J'ai utilisé une extrusion afin d'ajouter de la matière entre les deux rectangles.
 
@@ -89,7 +89,7 @@ Des [congés](../Explication/Definitions.md#conge) ont ensuite été ajoutés su
 
 ![Première conception de la boîte](../assets/images/projet-imprimantes/conception-boite.jpg)
 
-*Figure : Première conception de la boîte à déchets.*
+*Première conception de la boîte à déchets.*
 
 ## Prise en compte des contraintes réelles
 

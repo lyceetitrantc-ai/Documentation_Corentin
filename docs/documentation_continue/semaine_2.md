@@ -21,7 +21,7 @@ Les impressions se sont déroulées sans difficulté particulière. Cette phase 
 
 ![Bacs en cours d'impression](../images/semaine2/impression.jpg)
 
-*Figure 1 :Photo des imprimantes en cours d'impression*
+*Photo des imprimantes en cours d'impression*
 
 # Jour 9 – Gestion d'un échec d'impression et découverte de nouvelles notions
 
@@ -33,13 +33,13 @@ Même si l'impression a pu reprendre, une couche manquait déjà sur la pièce. 
 
 ![Impression ratée après changement de filament](../images/semaine2/impression-ratee-filament.jpg)
 
-*Figure 2 : Échec d'impression causé par l'absence d'une couche après le changement de filament.*
+*Échec d'impression causé par l'absence d'une couche après le changement de filament.*
 
 Cette journée m'a également permis d'apprendre plusieurs notions théoriques importantes. J'ai notamment découvert le phénomène de [warping](../Explication/Definitions.md#warping). Celui-ci apparaît lorsqu'une pièce refroidit de manière inégale : la base reste chaude grâce au [plateau chauffant](../Explication/Definitions.md#plateau-chauffant) tandis que les couches supérieures refroidissent plus rapidement. Cette différence de température provoque des contraintes dans le plastique qui peuvent soulever les coins de la pièce et déformer l'impression.
 
 ![Exemple de warping](../images/semaine2/warping.jpg)
 
-*Figure 3 : Exemple de warping observé sur une pièce imprimée.*
+*Exemple de warping observé sur une pièce imprimée.*
 
 J'ai aussi appris le rôle du ventilateur de refroidissement présent sur les [imprimantes 3D](../Explication/Definitions.md#imprimante-3d). Celui-ci permet de refroidir rapidement le [filament](../Explication/Definitions.md#filament) après son [extrusion](../Explication/Definitions.md#extrusion) afin de garantir une meilleure qualité d'impression. Il est particulièrement utile lors de la réalisation de [bridges](../Explication/Definitions.md#bridge-pont), où le [filament](../Explication/Definitions.md#filament) doit être déposé dans le vide entre deux points d'appui sans s'affaisser.
 
@@ -55,25 +55,25 @@ Pour gagner du temps, j'ai utilisé une [Bambu Lab P1P](../Explication/Definitio
 
 ![Bambu Lab P1P](../images/semaine2/p1p.png)
 
-*Figure 6 : Utilisation d'une Bambu Lab P1P pour accélérer la production des bacs.*
+*Utilisation d'une Bambu Lab P1P pour accélérer la production des bacs.*
 
 Une fois les impressions terminées, nous avons commencé à étiqueter les différents contenants afin de faciliter l'identification des vis et des écrous. Cette étape constitue une partie importante du projet puisqu'elle permettra aux utilisateurs de retrouver rapidement les composants recherchés.
 
 ![Boîtes étiquetées](../images/semaine3/etiquetage.jpg)
 
-*Figure 7 : Étiquetage des bacs afin de faciliter le rangement des composants.*
+*Étiquetage des bacs afin de faciliter le rangement des composants.*
 
 Au cours de la journée, j'ai également observé un problème technique sur l'une des imprimantes P1P. Lors de la phase de [purge](../Explication/Definitions.md#purge) du [filament](../Explication/Definitions.md#filament), le plastique fondu restait parfois collé à la [buse](../Explication/Definitions.md#buse) au lieu d'être correctement évacué. Ce phénomène pouvait provoquer une mauvaise alimentation en [filament](../Explication/Definitions.md#filament) ou perturber le début de l'impression.
 
 ![PLA collé à la buse](../images/semaine2/purge-buse.jpg)
 
-*Figure 8 : Le PLA reste parfois collé à la buse après la purge, ce qui peut provoquer des défauts d'impression.*
+*Le PLA reste parfois collé à la buse après la purge, ce qui peut provoquer des défauts d'impression.*
 
 Dans certains cas, le [filament](../Explication/Definitions.md#filament) utilisé pour les lignes de test restait également accroché à la [buse](../Explication/Definitions.md#buse). Cela pouvait entraîner un décalage du dépôt de matière ou gêner les premiers mouvements de la tête d'impression, ce qui augmentait les risques d'échec.
 
 ![Problème de ligne de test](../images/semaine2/ligne-test.jpg)
 
-*Figure 9 : Exemple d'une ligne de test restée accrochée à la buse.*
+*Exemple d'une ligne de test restée accrochée à la buse.*
 
 Après réflexion, le problème lié à la ligne de test qui restait accrochée à la [buse](../Explication/Definitions.md#buse) était lié au plateau. Le plateau n'étant pas nettoyé et la personne précédente ayant utilisé de la colle, le [filament](../Explication/Definitions.md#filament) n'adhérait pas au plateau et restait sur la [buse](../Explication/Definitions.md#buse). Après avoir réglé ce problème, le problème lié à la [purge](../Explication/Definitions.md#purge) qui restait accrochée à la [buse](../Explication/Definitions.md#buse) persistait. C'était parce que le [filament](../Explication/Definitions.md#filament) était mal inséré : il ne faisait chauffer qu'une petite partie du [filament](../Explication/Definitions.md#filament), ce qui faisait en sorte que la [buse](../Explication/Definitions.md#buse) ne sortait pas assez de plastique, donc ça n'adhérait pas au plateau et ça s'accrochait à la [buse](../Explication/Definitions.md#buse).
 
@@ -81,7 +81,7 @@ Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../Explication/De
 
 ![Bambu Lab X1 Carbon](../images/semaine2/x1carbon.jpg)
 
-*Figure 10 : Découverte et utilisation d'une Bambu Lab X1 Carbon.*
+*Découverte et utilisation d'une Bambu Lab X1 Carbon.*
 
 ---
 
