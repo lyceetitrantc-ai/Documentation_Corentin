@@ -21,9 +21,11 @@ J'ai notamment utilisé des [Bambu Lab A1 Mini](../Explication/Definitions.md#ba
 
 ## Préparation d'une impression
 
+<img src="../images/bonus/orcaslicer.png" alt="logo" width="200">
+
 J'ai appris à utiliser [OrcaSlicer](../Explication/Definitions.md#orcaslicer) afin de préparer les fichiers destinés aux imprimantes.
 
-Le modèle 3D doit être préparé avant d'être envoyé à la machine. Le logiciel permet notamment de choisir les paramètres d'impression et de transformer le modèle en informations compréhensibles par l'imprimante.
+Le modèle 3D doit être préparé avant d'être envoyé à la machine. Le logiciel permet notamment de choisir les paramètres d'impression et de transformer le modèle en informations compréhensibles par l'imprimante. Il permet aussi de choisir si on souhaite plusieurs couleur, si on le souhaite mettre du brim ou des supports. 
 
 ## Fonctionnement général d'une impression 3D
 
@@ -35,6 +37,10 @@ La première couche est particulièrement importante car elle doit correctement 
 
 Les couches suivantes sont ensuite déposées au-dessus des précédentes jusqu'à obtenir la pièce complète.
 
+![X1 Carbon](../images/timelaspeboite.mp4)
+
+*Impression 3d*
+
 ## Changement de filament
 
 J'ai également appris à remplacer une bobine de [filament](../Explication/Definitions.md#filament) lorsqu'une imprimante n'avait plus de matière.
@@ -42,6 +48,12 @@ J'ai également appris à remplacer une bobine de [filament](../Explication/Defi
 Lors d'une impression, l'imprimante peut effectuer une phase de [purge](../Explication/Definitions.md#purge) afin d'évacuer le [filament](../Explication/Definitions.md#filament) précédent ou de s'assurer que le nouveau [filament](../Explication/Definitions.md#filament) arrive correctement dans la [buse](../Explication/Definitions.md#buse).
 
 J'ai rencontré une situation dans laquelle l'imprimante était arrivée au bout du [filament](../Explication/Definitions.md#filament). Après avoir chargé une nouvelle bobine, une mauvaise reprise de l'impression avait provoqué l'absence d'une couche et l'impression avait finalement échoué.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ztb8f34oo7U"
+frameborder="0" allowfullscreen>
+</iframe>
+*Vidéo remettre une bobine de filament*
 
 ## Problèmes d'adhérence
 
@@ -53,6 +65,10 @@ J'ai également rencontré un problème sur une [Bambu Lab A1 Mini](../Explicati
 
 Ce phénomène correspond au [warping](../Explication/Definitions.md#warping).
 
+![Exemple de warping](../images/semaine3/warping.jpg)
+
+*Déformation de la pièce provoquée par le warping.*
+
 ## Utilisation du brim
 
 Pour éviter qu'une pièce ne se décolle, il est possible d'utiliser un [brim](../Explication/Definitions.md#brim).
@@ -60,6 +76,8 @@ Pour éviter qu'une pièce ne se décolle, il est possible d'utiliser un [brim](
 Le [brim](../Explication/Definitions.md#brim) ajoute une surface supplémentaire autour de la pièce afin d'augmenter son adhérence au plateau.
 
 J'ai utilisé cette technique après avoir rencontré un problème de [warping](../Explication/Definitions.md#warping) sur une grille [Gridfinity](../Explication/Definitions.md#gridfinity).
+
+<img src="../images/bonus/brim.jpg" alt="logo" width="200">
 
 ## Bridge et refroidissement
 
@@ -69,17 +87,25 @@ Lorsqu'une imprimante doit déposer du [filament](../Explication/Definitions.md#
 
 Le ventilateur permet alors de refroidir rapidement le [filament](../Explication/Definitions.md#filament) afin qu'il puisse rester correctement en place au lieu de s'affaisser.
 
+Par contre, si l’écart est trop grand et qu’il n’y a pas de surface en dessous, le filament va tomber. Car le fileament ne sera pas assez tendu. 
+
+<img src="../images/bonus/bridge.jpg" alt="logo" width="300">
+
 ## Production en série
 
 Une partie importante du stage consistait à produire de grandes quantités de boîtes [Gridfinity](../Explication/Definitions.md#gridfinity).
 
-Pour gagner du temps, plusieurs imprimantes fonctionnaient simultanément.
+Pour gagner du temps, plusieurs imprimantes fonctionnaient simultanément. Ça m’a permis de comprendre qu’une ferme d’imprimantes peut produire en grande quantité. Plus tard, on pourrait donc vendre un objet pratique à bas prix, sans avoir besoin d’acheter une grande machine industrielle pour l’entreprise.
 
 J'ai notamment comparé les [Bambu Lab A1 Mini](../Explication/Definitions.md#bambu-lab-a1-mini), la [P1P](../Explication/Definitions.md#bambu-lab-p1p) et la [X1 Carbon](../Explication/Definitions.md#bambu-lab-x1-carbon).
 
 La [P1P](../Explication/Definitions.md#bambu-lab-p1p) et la [X1 Carbon](../Explication/Definitions.md#bambu-lab-x1-carbon) disposent d'un plateau plus grand que l'[A1 Mini](../Explication/Definitions.md#bambu-lab-a1-mini) et permettent donc de produire davantage de boîtes par impression.
 
 Cette organisation permettait d'optimiser le temps de production en faisant fonctionner plusieurs machines en même temps.
+
+![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
+
+*Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
 
 ## Impression multicolore
 
@@ -90,6 +116,9 @@ La [Bambu Lab X1 Carbon](../Explication/Definitions.md#bambu-lab-x1-carbon) du [
 J'ai notamment aidé Raphaël à réaliser une [impression multicolore](../Explication/Definitions.md#impression-multicolore) pour un panneau.
 
 Pour cela, les différents éléments du modèle ont été séparés afin de pouvoir attribuer une couleur différente à chaque partie.
+
+![Photo de la Bambu Lab X1 Carbon](../images/semaine2/x1carbon.jpg)
+*Système AMS*
 
 ## Déchets liés à l'impression multicolore
 
@@ -107,7 +136,8 @@ La machine indiquait directement qu'une opération de maintenance devait être r
 
 J'ai utilisé des équipements de protection car le protocole nécessitait notamment l'utilisation d'alcool.
 
-![Vidéo equipements](../assets/images/projet-imprimantes/maintenance.jpg)
+<img src="../images/semaine8/protection.jpg" alt="Équipements de protection" width="350">
+*Équipements utilisés lors de la maintenance.*
 
 J'ai nettoyé les [vis trapézoïdales](../Explication/Definitions.md#vis-trapezoidale) permettant au plateau de se déplacer verticalement avec un tissu imbibé d'alcool.
 
@@ -115,9 +145,16 @@ J'ai ensuite appliqué la graisse prévue pour la machine sur les vis.
 
 Une fois l'opération terminée, j'ai indiqué à l'imprimante que la maintenance avait été réalisée et j'ai rangé le matériel utilisé.
 
-![Maintenance de la X1 Carbon](../assets/images/projet-imprimantes/maintenance.jpg)
+src="https://www.youtube.com/embed/pv_Pta3ASQk"
+frameborder="0" allowfullscreen>
+</iframe>
+*Vidéo nettoyage de l'imprimante*
 
-*Réalisation de la [maintenance préventive](../Explication/Definitions.md#maintenance-preventive) de la [X1 Carbon](../Explication/Definitions.md#bambu-lab-x1-carbon).*
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/F3D_iWfCMfQ"
+frameborder="0" allowfullscreen>
+</iframe>
+*Deuxième vidéo nettoyage de l'imprimante*
 
 ## Résultat
 

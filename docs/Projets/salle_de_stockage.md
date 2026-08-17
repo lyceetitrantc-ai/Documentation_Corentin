@@ -37,11 +37,26 @@ Cette étape permettait de libérer de l'espace et de mieux utiliser les capacit
 
 Les cartons et emballages inutiles ont également été regroupés afin de garder la zone de stockage propre.
 
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
+  <img src="../images/jour2_jeter.jpeg" alt="Photo de l'équiement jetée" width="230" style="max-width:100%; height:auto;" />
+  <img src="../images/jour2_garder.jpeg" alt="Photo de l'équiement gardée" width="230" style="max-width:100%; height:auto;" />
+  <img src="../images/jour2_apres.jpeg" alt="Photo après rangement" width="230" style="max-width:100%; height:auto;" />
+</div>
+
 ## Déplacement du matériel
 
 J'ai également participé au déplacement de matériel entre différentes salles.
 
 La servante provenant du Resin Lab devait être déplacée dans la zone de stockage. Cette servante contenait notamment des tiroirs permettant de ranger différentes petites pièces. Elle contenait aussi les résistances du [Makerspace](../Explication/Definitions.md#makerspace).
+
+![Servante 1](../images/semaine5/servante_sans_tiroir_2.jpg)
+*Servante sans les tiroirs*
+
+![Servante 2](../images/semaine5/tiroir.jpg)
+*les tiroirs de la servantes*
+
+![Servante 3](../images/semaine5/servante_monté.jpg)
+*La servante monté dans la salle de stockage *
 
 ## Mise en place de Gridfinity
 
@@ -56,6 +71,10 @@ Cependant, toute la surface du tiroir ne pouvait pas être utilisée. Une partie
 La surface réellement utilisable était donc de 76,2 cm par 46,7 cm.
 
 Avec les dimensions du système [Gridfinity](../Explication/Definitions.md#gridfinity), un carré correspond à environ 4,2 cm. J'ai donc calculé que le tiroir pouvait accueillir une grille de 18 carrés sur la longueur et 11 carrés sur la largeur utilisable.
+
+![Toutes les grilles imprimées](../images/semaine6/toutes-grilles.jpg)
+
+*Grille Gridfinity*
 
 ## Adaptation aux capacités de l'imprimante
 
@@ -72,6 +91,10 @@ La grille était composée de plusieurs éléments de différentes tailles :
 
 J'ai préparé les fichiers avec [OrcaSlicer](../Explication/Definitions.md#orcaslicer), puis lancé plusieurs impressions afin de produire l'ensemble des éléments.
 
+![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
+
+*Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
+
 ## Création des boîtes
 
 Une fois les grilles terminées, j'ai commencé à tester différentes hauteurs de boîtes.
@@ -82,6 +105,10 @@ J'ai ensuite imprimé les boîtes nécessaires pour ranger les différentes vis 
 
 Pour les grandes quantités de composants, j'ai utilisé la [Bambu Lab P1P](../Explication/Imprimante.md#bambu-lab-p1p) et la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon) afin d'augmenter la vitesse de production.
 
+![X1 Carbon](../images/timelaspeboite.mp4)
+
+*Timelasp X1 Carbon*
+
 ## Étiquetage et logique de rangement
 
 Une fois les boîtes imprimées, les vis et les écrous ont été répartis dans les différents bacs.
@@ -89,6 +116,10 @@ Une fois les boîtes imprimées, les vis et les écrous ont été répartis dans
 Les boîtes ont ensuite été étiquetées afin que l'utilisateur puisse rapidement identifier leur contenu.
 
 L'objectif final est que chaque type de composant possède un emplacement précis et que l'utilisateur puisse comprendre facilement où retrouver le matériel.
+
+![Boîtes étiquetées](../images/semaine3/etiquetage.jpg)
+
+*Étiquetage des bacs afin de faciliter le rangement des composants.*
 
 ## Résultat
 
@@ -101,8 +132,8 @@ Le projet a également permis de commencer à mettre en place une logique plus g
 ![Tiroir des résistances terminé](../images/semaine4/tiroir_resistances.jpg)
 *résultat sur les résistances*
 
-![Tiroir des résistances terminé](../images/semaine6/resultat_servantes.jpg)
-*résultat sur les résistances*
+![Deuxième tiroir à vis terminé](../images/semaine6/deuxieme-tiroir-vis.jpg)
+*Resultat d'un tiroir à vis après le rangement des composants.*
 
 ## Compétences développées
 
