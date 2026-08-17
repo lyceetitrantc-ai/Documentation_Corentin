@@ -9,7 +9,7 @@ title: semaine 6
 
 ## Introduction de la semaine
 
-Cette sixième semaine de stage a principalement été consacrée à la finalisation du système de rangement [Gridfinity](../Explication/Definitions/#gridfinity) pour les tiroirs de stockage. J'ai terminé l'impression des boîtes destinées aux vis et aux écrous, puis j'ai poursuivi la fabrication des grilles nécessaires aux différents tiroirs. Cette semaine m'a également permis de participer à plusieurs tâches d'organisation et d'aménagement des espaces du Makerspace.
+Cette sixième semaine de stage a principalement été consacrée à la finalisation du système de rangement [Gridfinity](../Explication/Definitions.md#gridfinity) pour les tiroirs de stockage. J'ai terminé l'impression des boîtes destinées aux vis et aux écrous, puis j'ai poursuivi la fabrication des grilles nécessaires aux différents tiroirs. Cette semaine m'a également permis de participer à plusieurs tâches d'organisation et d'aménagement des espaces du Makerspace.
 
 ---
 
@@ -49,13 +49,13 @@ Pour terminer l'ensemble du stock de grilles, j'ai imprimé les dernières pièc
 
 *Figure 7 : Ensemble des grilles Gridfinity imprimées pour les différents tiroirs.*
 
-J'ai rencontré un problème lors de l'impression d'une grille de 4 × 4. Les coins de la pièce ont commencé à se soulever à cause du phénomène de [warping](../Explication/Definitions/#[warping](../Explication/Definitions/#warping)). Pour éviter que ce problème ne se reproduise sur les impressions suivantes, j'ai ajouté un [brim](../Explication/Definitions/#[brim](../Explication/Definitions/#brim)) autour de la pièce.
+J'ai rencontré un problème lors de l'impression d'une grille de 4 × 4. Les coins de la pièce ont commencé à se soulever à cause du phénomène de [warping](../Explication/Definitions.md#warping). Pour éviter que ce problème ne se reproduise sur les impressions suivantes, j'ai ajouté un [brim](../Explication/Definitions.md#brim) autour de la pièce.
 
-![Problème de [warping](../Explication/Definitions/#warping) sur une grille](../assets/images/semaine6/[warping](../Explication/Definitions/#warping)-grille.jpg)
+![Problème de [warping](../Explication/Definitions.md#warping) sur une grille](../assets/images/semaine6/[warping](../Explication/Definitions.md#warping)-grille.jpg)
 
 *Figure 8 : Grille présentant un défaut lié au warping.*
 
-Le [brim](../Explication/Definitions/#brim) permet d'augmenter la surface de contact entre la pièce et le plateau d'impression. Cela permet de mieux maintenir les bords de la pièce et de réduire les risques de décollement pendant l'impression.
+Le [brim](../Explication/Definitions.md#brim) permet d'augmenter la surface de contact entre la pièce et le plateau d'impression. Cela permet de mieux maintenir les bords de la pièce et de réduire les risques de décollement pendant l'impression.
 
 Une fois les impressions des grilles terminées, j'ai également imprimé les quatre portes-bobines ainsi que les quatre porte-étiquettes nécessaires au Makerspace.
 
@@ -73,15 +73,15 @@ La semaine a commencé par l'ajout des photos de la première semaine sur mon si
 
 *Figure 1 : Ajout des photos de la première semaine sur le site.*
 
-En parallèle, nous avons travaillé sur la fabrication des portes-bobines et des porte-étiquettes. Pour assembler certaines pièces imprimées en 3D, nous avons utilisé une machine qui fonctionne sur un principe similaire à un fer à souder afin de mettre en place des [inserts](../Explication/Definitions/#[insert](../Explication/Definitions/#insert)) métalliques.
+En parallèle, nous avons travaillé sur la fabrication des portes-bobines et des porte-étiquettes. Pour assembler certaines pièces imprimées en 3D, nous avons utilisé une machine qui fonctionne sur un principe similaire à un fer à souder afin de mettre en place des [inserts](../Explication/Definitions.md#insert) métalliques.
 
-Un [insert](../Explication/Definitions/#insert) permet de créer un point de fixation dans une pièce imprimée en 3D. Une fois installé, il permet notamment de visser une pièce sans avoir besoin de réaliser directement le filetage dans le plastique.
+Un [insert](../Explication/Definitions.md#insert) permet de créer un point de fixation dans une pièce imprimée en 3D. Une fois installé, il permet notamment de visser une pièce sans avoir besoin de réaliser directement le filetage dans le plastique.
 
-![Mise en place d'un insert](../assets/images/semaine7/[insert](../Explication/Definitions/#insert).jpg)
+![Mise en place d'un insert](../assets/images/semaine7/[insert](../Explication/Definitions.md#insert).jpg)
 
 *Figure 2 : Mise en place d'un insert dans une pièce imprimée en 3D.*
 
-Après cette étape, Raphaël a utilisé la [découpeuse laser](../Explication/Definitions/#decoupeuse-laser) afin de fabriquer les pièces nécessaires à l'accrochage des portes-bobines. Les différentes pièces ont ensuite été assemblées afin d'obtenir les portes-bobines terminés.
+Après cette étape, Raphaël a utilisé la [découpeuse laser](../Explication/Definitions.md#decoupeuse-laser) afin de fabriquer les pièces nécessaires à l'accrochage des portes-bobines. Les différentes pièces ont ensuite été assemblées afin d'obtenir les portes-bobines terminés.
 
 ![Portes-bobines installés](../assets/images/semaine7/portes-bobines.jpg)
 
@@ -95,8 +95,10 @@ Cette activité m'a permis de voir comment plusieurs techniques de fabrication p
 
 Cette semaine a permis de terminer une étape importante du projet de rangement. J'ai terminé l'impression de toutes les boîtes nécessaires aux tiroirs à vis ainsi que l'ensemble des grilles prévues pour les différents tiroirs.
 
-J'ai également pu mettre en pratique mes connaissances concernant les problèmes d'adhérence lors des impressions 3D. Le problème de [warping](../Explication/Definitions/#[warping](../Explication/Definitions/#warping)) rencontré sur une grille m'a notamment permis d'utiliser un [brim](../Explication/Definitions/#[brim](../Explication/Definitions/#brim)) afin d'améliorer l'adhérence de la pièce au plateau.
+J'ai également pu mettre en pratique mes connaissances concernant les problèmes d'adhérence lors des impressions 3D. Le problème de [warping](../Explication/Definitions.md#warping) rencontré sur une grille m'a notamment permis d'utiliser un [brim](../Explication/Definitions.md#brim) afin d'améliorer l'adhérence de la pièce au plateau.
 
-En parallèle du projet [Gridfinity](../Explication/Definitions/#gridfinity), j'ai participé à plusieurs tâches d'aménagement du Makerspace, comme le déplacement de tables et de cartons ou encore la tentative de remise en place des mousses acoustiques du MediaLab.
+En parallèle du projet [Gridfinity](../Explication/Definitions.md#gridfinity), j'ai participé à plusieurs tâches d'aménagement du Makerspace, comme le déplacement de tables et de cartons ou encore la tentative de remise en place des mousses acoustiques du MediaLab.
 
 À la fin de la semaine, les grilles sont donc toutes prêtes à être utilisées et les différents tiroirs peuvent progressivement être organisés. Il reste notamment à terminer l'étiquetage des boîtes lorsque le papier de l'étiqueteuse sera de nouveau disponible.
+
+

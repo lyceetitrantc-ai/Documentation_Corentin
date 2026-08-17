@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Définitions 
 parent: Matériel et Définition 
@@ -191,4 +191,5 @@ Une **imprimante 3D** fabrique des objets en ajoutant de la matière couche par 
 
 
 ```
+
 

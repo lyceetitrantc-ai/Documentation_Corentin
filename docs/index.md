@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 nav_order: 1
 title: Accueil
@@ -69,3 +69,4 @@ Ce site constitue ainsi une trace de mon expérience au Makerspace, des solution
 
 
 <span style="color: red;">Comment lire le site :</span> Pour avoir une idée de comment lire le site je vous conseille de visiter cette page : [Organisation du site web](site_fonctionnement.md).
+

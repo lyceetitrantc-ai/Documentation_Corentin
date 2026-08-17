@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Imprimantes  
 parent: Matériel et Définition 
@@ -81,4 +81,5 @@ Les imprimantes Artillery présentes au Makerspace permettent également la fabr
 ## Conclusion
 
 L'utilisation de ces différentes imprimantes m'a permis de découvrir plusieurs technologies d'impression 3D et de comprendre les avantages de chaque machine selon les besoins du projet. Le choix de l'imprimante dépend principalement de la taille de la pièce, du temps disponible et du niveau de précision recherché.
+
 

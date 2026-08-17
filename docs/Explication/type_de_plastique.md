@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Types de plastiques
 parent: Matériel et Définition 
@@ -71,4 +71,5 @@ Le **Nylon** est un matériau très résistant à l'usure et aux contraintes mé
 ## Le matériau utilisé pendant mon stage
 
 Pendant mon stage, les impressions ont été réalisées presque exclusivement en **PLA**. Ce matériau est parfaitement adapté au projet de rangement Gridfinity car il est facile à imprimer, suffisamment résistant pour des bacs de stockage et permet d'obtenir rapidement des pièces de bonne qualité.
+
 

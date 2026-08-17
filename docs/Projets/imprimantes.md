@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 parent: Projets
 nav_order: 6
@@ -21,7 +21,7 @@ J'ai notamment utilisé des Bambu Lab A1 Mini, une Bambu Lab P1P et une Bambu La
 
 ## Préparation d'une impression
 
-J'ai appris à utiliser [OrcaSlicer](../definitions/#orcaslicer) afin de préparer les fichiers destinés aux imprimantes.
+J'ai appris à utiliser [OrcaSlicer](../Explication/Definitions.md#orcaslicer) afin de préparer les fichiers destinés aux imprimantes.
 
 Le modèle 3D doit être préparé avant d'être envoyé à la machine. Le logiciel permet notamment de choisir les paramètres d'impression et de transformer le modèle en informations compréhensibles par l'imprimante.
 
@@ -39,7 +39,7 @@ Les couches suivantes sont ensuite déposées au-dessus des précédentes jusqu'
 
 J'ai également appris à remplacer une bobine de filament lorsqu'une imprimante n'avait plus de matière.
 
-Lors d'une impression, l'imprimante peut effectuer une phase de [purge](../definitions/#purge) afin d'évacuer le filament précédent ou de s'assurer que le nouveau filament arrive correctement dans la buse.
+Lors d'une impression, l'imprimante peut effectuer une phase de [purge](../Explication/Definitions.md#purge) afin d'évacuer le filament précédent ou de s'assurer que le nouveau filament arrive correctement dans la buse.
 
 J'ai rencontré une situation dans laquelle l'imprimante était arrivée au bout du filament. Après avoir chargé une nouvelle bobine, une mauvaise reprise de l'impression avait provoqué l'absence d'une couche et l'impression avait finalement échoué.
 
@@ -51,11 +51,11 @@ Un plateau mal nettoyé peut empêcher le filament de correctement adhérer à s
 
 J'ai également rencontré un problème sur une Bambu Lab A1 Mini dont le plateau avait mal chauffé. Les bords de la pièce ont refroidi, se sont décollés puis se sont relevés.
 
-Ce phénomène correspond au [warping](../definitions/#warping).
+Ce phénomène correspond au [warping](../Explication/Definitions.md#warping).
 
 ## Utilisation du brim
 
-Pour éviter qu'une pièce ne se décolle, il est possible d'utiliser un [brim](../definitions/#brim).
+Pour éviter qu'une pièce ne se décolle, il est possible d'utiliser un [brim](../Explication/Definitions.md#brim).
 
 Le brim ajoute une surface supplémentaire autour de la pièce afin d'augmenter son adhérence au plateau.
 
@@ -63,7 +63,7 @@ J'ai utilisé cette technique après avoir rencontré un problème de warping su
 
 ## Bridge et refroidissement
 
-J'ai également appris le fonctionnement du [bridge](../definitions/#bridge-pont).
+J'ai également appris le fonctionnement du [bridge](../Explication/Definitions.md#bridge-pont).
 
 Lorsqu'une imprimante doit déposer du filament entre deux zones sans support directement en dessous, elle doit réaliser un pont.
 
@@ -83,9 +83,9 @@ Cette organisation permettait d'optimiser le temps de production en faisant fonc
 
 ## Impression multicolore
 
-J'ai également découvert l'[impression multicolore](../definitions/#impression-multicolore).
+J'ai également découvert l'[impression multicolore](../Explication/Definitions.md#impression-multicolore).
 
-La Bambu Lab X1 Carbon du Makerspace peut utiliser un [AMS](../definitions/#ams), qui permet de disposer de plusieurs bobines de filament et de changer automatiquement de couleur.
+La Bambu Lab X1 Carbon du Makerspace peut utiliser un [AMS](../Explication/Definitions.md#ams), qui permet de disposer de plusieurs bobines de filament et de changer automatiquement de couleur.
 
 J'ai notamment aidé Raphaël à réaliser une impression multicolore pour un panneau.
 
@@ -101,7 +101,7 @@ Certaines machines utilisent une tour de purge permettant de regrouper ces chang
 
 ## Maintenance préventive
 
-J'ai également réalisé une opération de [maintenance préventive](../definitions/#maintenance-preventive) sur la Bambu Lab X1 Carbon.
+J'ai également réalisé une opération de [maintenance préventive](../Explication/Definitions.md#maintenance-preventive) sur la Bambu Lab X1 Carbon.
 
 La machine indiquait directement qu'une opération de maintenance devait être réalisée et fournissait un QR code permettant d'accéder aux instructions.
 
@@ -126,3 +126,5 @@ Ces différentes expériences m'ont permis de devenir plus autonome dans l'utili
 J'ai appris à préparer une impression, charger du filament, identifier des défauts, comprendre les problèmes d'adhérence et utiliser différentes techniques pour améliorer les impressions.
 
 J'ai également découvert que l'impression 3D ne consiste pas uniquement à lancer une impression : il faut prendre en compte la machine, le matériau, l'orientation de la pièce, l'adhérence, le refroidissement et les paramètres d'impression.
+
+

@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Introduction de la semaine
 
-Cette troisième semaine de stage a été consacrée à la poursuite du projet de rangement avec le système [Gridfinity](../Explication/Definitions/#gridfinity). L'objectif était de terminer le premier tiroir en poursuivant l'impression des bacs, tout en découvrant de nouvelles problématiques liées aux imprimantes 3D. Une partie de la semaine a également été consacrée à l'amélioration de la documentation du stage et à la conception du site web.
+Cette troisième semaine de stage a été consacrée à la poursuite du projet de rangement avec le système [Gridfinity](../Explication/Definitions.md#gridfinity). L'objectif était de terminer le premier tiroir en poursuivant l'impression des bacs, tout en découvrant de nouvelles problématiques liées aux imprimantes 3D. Une partie de la semaine a également été consacrée à l'amélioration de la documentation du stage et à la conception du site web.
 
 ---
 
@@ -34,7 +34,7 @@ En parallèle, la fabrication de nouveaux bacs et de nouvelles grilles a commenc
 
 Cette journée a été consacrée à une importante série d'impressions. L'objectif était de produire dix-sept bacs de format 1 × 2 afin de terminer l'aménagement du premier tiroir.
 
-Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisées simultanément. Six [Bambu Lab A1 Mini](../Explication/Imprimante/#bambu-lab-a1-mini) ont été mises en fonctionnement afin d'imprimer deux bacs par machine. En parallèle, une [Bambu Lab P1P](../Explication/Imprimante/#bambu-lab-p1p) ainsi qu'une [Bambu Lab X1 Carbon](../Explication/Imprimante/#bambu-lab-x1-carbon) réalisaient également deux bacs chacune, mais avec environ vingt-cinq minutes d'avance sur les autres machines. Cette comparaison m'a permis de constater les différences de performances entre les différents modèles d'imprimantes.
+Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisées simultanément. Six [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini) ont été mises en fonctionnement afin d'imprimer deux bacs par machine. En parallèle, une [Bambu Lab P1P](../Explication/Imprimante.md#bambu-lab-p1p) ainsi qu'une [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon) réalisaient également deux bacs chacune, mais avec environ vingt-cinq minutes d'avance sur les autres machines. Cette comparaison m'a permis de constater les différences de performances entre les différents modèles d'imprimantes.
 
 ![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
 
@@ -42,13 +42,13 @@ Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisé
 
 Une fois cette série terminée, le premier tiroir pouvait être considéré comme presque achevé. Il ne restait plus qu'à installer les vis dans les différents bacs puis à terminer leur étiquetage avant de commencer l'organisation du second tiroir, destiné aux vis de plus grande taille.
 
-Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défaut d'impression. La différence de température entre le plateau chauffant et le haut de la pièce à fait gonfler le milieu des bords ce qui à les à courbé et à force de se courber les bords se sont décollés du plateau au cours de l'impression. Ce phénomène correspond au [warping](../Explication/Definitions/#warping), qui a provoqué une déformation de la pièce jusqu'à entraîner l'échec de l'impression.
+Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défaut d'impression. La différence de température entre le plateau chauffant et le haut de la pièce à fait gonfler le milieu des bords ce qui à les à courbé et à force de se courber les bords se sont décollés du plateau au cours de l'impression. Ce phénomène correspond au [warping](../Explication/Definitions.md#warping), qui a provoqué une déformation de la pièce jusqu'à entraîner l'échec de l'impression.
 
 ![Exemple de warping](../images/semaine3/warping.jpg)
 
 *Figure 7 : Déformation de la pièce provoquée par le warping.*
 
-Après réflexion, l'utilisation d'un [brim](../Explication/Definitions/#brim) aurait probablement permis d'améliorer l'adhérence de la pièce au plateau et de limiter ce problème.
+Après réflexion, l'utilisation d'un [brim](../Explication/Definitions.md#brim) aurait probablement permis d'améliorer l'adhérence de la pièce au plateau et de limiter ce problème.
 
 # Jours 13 et 14 – Télétravail et amélioration du site
 
@@ -75,3 +75,5 @@ Il a été décidé que la semaine suivante porterait sur une nouvelle probléma
 Cette semaine m'a permis de finaliser la production des éléments nécessaires au premier tiroir de rangement tout en approfondissant mes connaissances sur le fonctionnement des imprimantes 3D. Les différentes erreurs rencontrées m'ont permis de mieux comprendre les causes possibles d'un échec d'impression ainsi que les méthodes permettant de les éviter.
 
 J'ai également consacré une partie importante de mon temps à la création et à l'amélioration du site web de documentation. Celui-ci devient progressivement un véritable support technique regroupant les comptes rendus du stage, les définitions des principaux termes techniques ainsi que la présentation du matériel utilisé.
+
+

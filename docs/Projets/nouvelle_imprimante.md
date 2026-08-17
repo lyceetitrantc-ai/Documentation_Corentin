@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 parent: Projets
 nav_order: 3
@@ -27,7 +27,7 @@ Nous avons commencé par réfléchir à la manière de créer un nouvel étage s
 
 L'objectif était de conserver une organisation stable tout en utilisant au maximum la hauteur disponible.
 
-Les supports déjà existant nécessaires aux imprimantes devaient également être réimprimés.
+Les supports déjà existants nécessaires aux imprimantes devaient également être réimprimés.
 
 ## Création des portes-bobines
 
@@ -37,7 +37,7 @@ Certaines pièces ont été imprimées en 3D et assemblées avec des pièces fab
 
 Pour assembler les pièces imprimées, nous avons utilisé une machine fonctionnant sur un principe similaire à un fer à souder afin d'insérer des inserts métalliques.
 
-Un [insert](../definitions/#insert) permet ensuite de visser une pièce dans le plastique et d'obtenir un assemblage plus solide.
+Un [insert](../Explication/Definitions.md#insert) permet ensuite de visser une pièce dans le plastique et d'obtenir un assemblage plus solide.
 
 ![Insertion d'un insert](../assets/images/projet-imprimantes/insert.jpg)
 
@@ -71,7 +71,7 @@ L'espace disponible sur la partie gauche de l'armoire était également insuffis
 
 ## Conception sur Onshape
 
-Pour concevoir la nouvelle boîte, j'ai utilisé [Onshape](../definitions/#onshape).
+Pour concevoir la nouvelle boîte, j'ai utilisé [Onshape](../Explication/Definitions.md#onshape).
 
 J'ai commencé par reprendre les dimensions de l'ancienne boîte afin qu'elle puisse toujours s'emboîter sur les barres métalliques de l'armoire.
 
@@ -85,7 +85,7 @@ Cette méthode m'a permis de créer directement des bords d'environ 1 cm d'épai
 
 J'ai ensuite réalisé une deuxième esquisse afin de laisser suffisamment d'espace autour de la buse pour que les déchets puissent tomber dans la boîte sans être gênés.
 
-Des [congés](../definitions/#conge) ont ensuite été ajoutés sur les bords afin d'éviter d'avoir des angles trop pointus.
+Des [congés](../Explication/Definitions.md#conge) ont ensuite été ajoutés sur les bords afin d'éviter d'avoir des angles trop pointus.
 
 ![Première conception de la boîte](../assets/images/projet-imprimantes/conception-boite.jpg)
 
@@ -138,3 +138,5 @@ Ce projet m'a permis de concevoir une pièce en prenant en compte les contrainte
 J'ai également appris à rechercher différentes orientations d'impression afin de limiter les supports et à adapter une pièce aux dimensions du plateau.
 
 Cette mission m'a permis de découvrir une approche plus avancée de la conception pour l'impression 3D.
+
+

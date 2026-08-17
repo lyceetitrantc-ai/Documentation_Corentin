@@ -25,7 +25,7 @@ En parallèle, une nouvelle mission nous a été présentée : réaliser des pan
 
 Nous avons commencé à réfléchir à la manière de concevoir ces panneaux afin qu'ils puissent être adaptés aux différentes salles. L'idée était notamment de créer plusieurs éléments pouvant ensuite être assemblés ou modifiés selon les besoins.
 
-Pour cela, nous avons réfléchi à l'utilisation de [Onshape](../Explication/Definitions/#onshape), afin de concevoir les différentes pièces nécessaires à la réalisation des panneaux.
+Pour cela, nous avons réfléchi à l'utilisation de [Onshape](../Explication/Definitions.md#onshape), afin de concevoir les différentes pièces nécessaires à la réalisation des panneaux.
 
 ![Exemple de panneau pour le RepairSpace](../assets/images/semaine7/panneau-repairspace.jpg)
 
@@ -83,13 +83,13 @@ Le premier point important concerne la présentation de la problématique. Il fa
 
 Il faut également toujours présenter le contexte d'une mission. Lorsque nous expliquons une tâche réalisée pendant le stage, nous devons préciser pourquoi cette mission nous a été confiée, quel était son objectif et en quoi elle est liée au projet global du stage.
 
-Nous devons également davantage présenter le contexte global du stage plutôt que de commencer directement par expliquer qui nous sommes. Il est notamment important de bien expliquer les termes utilisés pendant la présentation. Par exemple, le fonctionnement et le rôle d'un [Makerspace](../Explication/Definitions/#makerspace) doivent être compréhensibles pour une personne qui ne connaît pas cet environnement.
+Nous devons également davantage présenter le contexte global du stage plutôt que de commencer directement par expliquer qui nous sommes. Il est notamment important de bien expliquer les termes utilisés pendant la présentation. Par exemple, le fonctionnement et le rôle d'un [Makerspace](../Explication/Definitions.md#makerspace) doivent être compréhensibles pour une personne qui ne connaît pas cet environnement.
 
-Il nous a également été conseillé de ne pas hésiter à récupérer du matériel du Makerspace pour accompagner certaines explications lors de la soutenance. Il peut être plus simple de présenter directement une [imprimante 3D](../Explication/Definitions/#imprimante-3d), une pièce imprimée ou un matériau plutôt que de simplement montrer une photographie.
+Il nous a également été conseillé de ne pas hésiter à récupérer du matériel du Makerspace pour accompagner certaines explications lors de la soutenance. Il peut être plus simple de présenter directement une [imprimante 3D](../Explication/Definitions.md#imprimante-3d), une pièce imprimée ou un matériau plutôt que de simplement montrer une photographie.
 
-La partie technique devra également être mieux expliquée. Si nous présentons une notion comme le [bridge](../Explication/Definitions/#[bridge](../Explication/Definitions/#bridge-pont)-pont), il faut expliquer pourquoi cette technique est utilisée et dans quelles situations elle est nécessaire. Il ne faut pas simplement utiliser un terme technique sans expliquer son fonctionnement et son intérêt.
+La partie technique devra également être mieux expliquée. Si nous présentons une notion comme le [bridge](../Explication/Definitions.md#bridge-pont), il faut expliquer pourquoi cette technique est utilisée et dans quelles situations elle est nécessaire. Il ne faut pas simplement utiliser un terme technique sans expliquer son fonctionnement et son intérêt.
 
-La présentation de [GitHub](../Explication/Definitions/#github) devra également être améliorée. Nous devons expliquer plus clairement son rôle dans le projet et notamment pourquoi nous avons choisi de mettre en place une documentation continue. Il faut montrer que le site n'est pas seulement un endroit où nous déposons nos travaux, mais qu'il permet de conserver une trace organisée de l'évolution du projet.
+La présentation de [GitHub](../Explication/Definitions.md#github) devra également être améliorée. Nous devons expliquer plus clairement son rôle dans le projet et notamment pourquoi nous avons choisi de mettre en place une documentation continue. Il faut montrer que le site n'est pas seulement un endroit où nous déposons nos travaux, mais qu'il permet de conserver une trace organisée de l'évolution du projet.
 
 Enfin, nous avons reçu plusieurs remarques concernant la présentation visuelle du diaporama. Certaines diapositives étaient trop chargées. Il serait préférable de répartir les informations sur plusieurs diapositives afin de pouvoir expliquer davantage de choses à l'oral sans surcharger l'écran.
 
@@ -105,8 +105,10 @@ Nous devons également faire attention aux tics de langage pendant la présentat
 
 Cette semaine a principalement permis de faire avancer la documentation du stage et de préparer la soutenance blanche. L'ajout des photographies sur le site permet désormais de mieux illustrer les différentes étapes du projet et de conserver une trace plus complète du travail réalisé.
 
-J'ai également participé à la fabrication de portes-bobines et de porte-étiquettes en utilisant plusieurs techniques de fabrication, notamment l'[impression 3D](../Explication/Definitions/#impression-3d), l'utilisation d'[insert](../Explication/Definitions/#insert)s et la découpe laser.
+J'ai également participé à la fabrication de portes-bobines et de porte-étiquettes en utilisant plusieurs techniques de fabrication, notamment l'[impression 3D](../Explication/Definitions.md#impression-3d), l'utilisation d'[insert](../Explication/Definitions.md#insert)s et la découpe laser.
 
 La préparation de la soutenance blanche m'a surtout permis de prendre du recul sur la manière de présenter un projet technique. J'ai compris qu'il est essentiel de toujours commencer par expliquer le problème et son contexte avant de présenter la solution mise en place.
 
 Enfin, les difficultés rencontrées lors de la préparation du diaporama m'ont permis de mieux comprendre l'importance de la communication dans un travail en équipe. Savoir expliquer une idée est important, mais savoir écouter, reformuler et demander de l'aide lorsqu'une incompréhension apparaît l'est tout autant.
+
+

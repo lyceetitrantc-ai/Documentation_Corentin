@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 parent: Projets
 nav_order: 5
@@ -51,17 +51,17 @@ J'ai ensuite ajouté des liens sur les termes techniques afin qu'un clic permett
 
 ## Jekyll
 
-J'ai installé [Jekyll](../definitions/#jekyll) afin de pouvoir tester le site directement sur mon ordinateur.
+J'ai installé [Jekyll](../Explication/Definitions.md#jekyll) afin de pouvoir tester le site directement sur mon ordinateur.
 
 Cela me permet de vérifier mes modifications avant de les publier sur GitHub.
 
-Cette méthode permet notamment de détecter les problèmes de liens, de mise en page ou de fonctionnement avant de mettre les modifications en ligne. Elle permet ainsi d’éviter qu’une modification ne provoque un dysfonctionnement du site et empêche les utilisateurs d’y accéder ou de l’utiliser correctement.
+Cette méthode permet notamment de détecter les problèmes de liens, de mise en page ou de fonctionnement avant de mettre les modifications en ligne. Elle permet ainsi d'éviter qu'une modification ne provoque un dysfonctionnement du site et empêche les utilisateurs d'y accéder ou de l'utiliser correctement.
 
 ## GitHub
 
-Le site est également lié à [GitHub](../definitions/#github).
+Le site est également lié à [GitHub](../Explication/Definitions.md#github).
 
-J'ai appris à utiliser les notions de [commit](../definitions/#commit) et de [push](../definitions/#push) afin d'envoyer les modifications réalisées sur le site.
+J'ai appris à utiliser les notions de [commit](../Explication/Definitions.md#commit) et de [push](../Explication/Definitions.md#push) afin d'envoyer les modifications réalisées sur le site.
 
 L'utilisation de Jekyll permet de vérifier les changements avant de les envoyer.
 
@@ -82,3 +82,5 @@ Le site est devenu un support permettant de suivre progressivement le travail r�
 Il regroupe les comptes rendus des semaines, les photos, les définitions, les informations sur les machines et les différents projets.
 
 Cette documentation permet également de montrer l'évolution du travail et les problèmes rencontrés plutôt que de présenter uniquement le résultat final.
+
+

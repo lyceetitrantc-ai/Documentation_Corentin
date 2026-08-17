@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 nav_order: 3
 title: Organisation du Site Web
@@ -56,5 +56,6 @@ Onglet : [Matériel et Définitons](Explication/Explication.md)
 L'onglet **Apprentissage et suite** vous permez de trouver ce que j'ai appris de ce stage de manière professionelle et ce qu'elle ma appris pour mon futur métier. 
 
 Onglet : [Apprentissages et suite ](Moi.md)
+
 
 

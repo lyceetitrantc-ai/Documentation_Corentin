@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 nav_order: 2
 title: Makerspace
@@ -96,3 +96,4 @@ Une pièce peut par exemple être conçue sur un logiciel de modélisation 3D, p
 Cela permet de passer progressivement de la **conception** à la **fabrication**, puis aux **tests et à l'amélioration** du projet.
 
 Dans mon stage, j'ai pu utiliser cette complémentarité entre les différents espaces pour réaliser mes missions. Le Makerspace met ainsi à disposition un ensemble de ressources qui permettent de trouver une solution adaptée à de nombreux besoins.
+

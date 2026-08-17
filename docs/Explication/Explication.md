@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Matériel et Définition 
 nav_order: 6
@@ -18,4 +18,5 @@ Il est composé de plusieurs catégories :
 L'objectif de ce menu est donc de **centraliser les informations générales** afin qu'elles restent facilement accessibles. Lorsqu'un terme, une imprimante ou un matériau est mentionné dans une page de projet, il est possible de consulter cette section pour obtenir davantage d'informations. Les mots de définitons possèdent normalement une balise qui une fois clické ramène vers la page de définition. 
 
 Cela permet également d'éviter de répéter les mêmes explications dans plusieurs pages et de rendre le site **plus clair, organisé et facile à consulter**.
+
 

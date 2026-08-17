@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Documentation continue 
 nav_order: 4
@@ -48,3 +48,4 @@ Ce bilan permet également de préparer la semaine suivante en identifiant les p
 L'objectif est de maintenir cette documentation pendant toute la durée du stage afin d'obtenir, à la fin des huit semaines, une **trace complète et chronologique de mon travail**.
 
 Cette documentation pourra ensuite être utilisée comme base pour la rédaction de ma soutenance, mais également comme support pour présenter les projets réalisés et montrer concrètement les compétences et expériences acquises pendant mon stage.
+
