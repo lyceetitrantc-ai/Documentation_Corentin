@@ -8,7 +8,7 @@ title: Organisation du Site Web
 
 Le site est organisé en plusieurs parties afin de permettre une navigation simple entre les différents contenus.
 
-Je vous conseille de commencer par Acceuil -> Makerspace -> Documentation continue -> Projets -> Apprentissage et suite. 
+<span style="color: red;">Je vous conseille de commencer </span> par Acceuil -> Makerspace -> Documentation continue -> Projets -> Projet utilisation des imprimantes 3D -> Apprentissage et suite. 
 
 ### Acceuil
 

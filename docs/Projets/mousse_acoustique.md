@@ -9,9 +9,9 @@ title: Mousses acoustiques
 
 ## Besoin
 
-Dans le cadre de la préparation d'une visite du [Makerspace](../Explication/Definitions.md#makerspace), il était nécessaire de remettre en place les mousses acoustiques présentes dans la salle du MediaLab.
+Dans le cadre de la préparation d'une visite du [Makerspace](../Explication/Definitions.md#makerspace), il était nécessaire de remettre en place les mousses acoustiques présentes dans la salle du MediaLab. 
 
-Ces mousses avaient tendance à tomber à cause de la chaleur, ce qui dégradait l'état de la salle et pouvait également gêner son utilisation.
+Ces mousses avaient tendance à tomber à cause de la chaleur, ce qui gêner utilisation de la salle.
 
 ## But du projet
 
