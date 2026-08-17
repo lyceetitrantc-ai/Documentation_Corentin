@@ -84,7 +84,7 @@ Un [insert](../Explication/Definitions.md#insert) permet de créer un point de f
 Après cette étape, Raphaël a utilisé la [découpeuse laser](../Explication/Definitions.md#decoupeuse-laser) afin de fabriquer les pièces nécessaires à l'accrochage des portes-bobines. Les différentes pièces ont ensuite été assemblées afin d'obtenir les portes-bobines terminés.
 
 
-Ensuite Raphaël à fait le montage des portes bobines :
+Montage des portes bobines par Raphaël :
 
 <video src="../images/semaine6/VID_montage.mp4" controls muted>
 </video>

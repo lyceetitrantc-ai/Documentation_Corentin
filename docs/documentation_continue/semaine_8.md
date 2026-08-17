@@ -153,19 +153,20 @@ J'ai également réalisé une opération de [maintenance préventive](../Explica
 
 La machine dispose d'un système permettant d'indiquer lorsqu'une opération de maintenance doit être réalisée. Un QR code permet ensuite d'accéder aux instructions nécessaires pour effectuer la procédure.
 
-![QR code de maintenance](../assets/images/semaine8/maintenance-qr.jpg)
-
-*Accès aux instructions de maintenance de l'imprimante.*
-
 Pour réaliser cette opération, j'ai commencé par mettre les équipements de protection nécessaires. J'ai notamment utilisé des gants et un masque lors de la manipulation de l'alcool utilisé pour nettoyer les composants de la machine.
 
-![Équipements de protection](../assets/images/semaine8/equipements-protection.jpg)
-
+<img src="../images/semaine8/protection.jpg" alt="Équipements de protection" width="350">
 *Équipements utilisés lors de la maintenance.*
 
 J'ai nettoyé les [vis trapézoïdales](../Explication/Definitions.md#vis-trapezoidale) qui permettent au plateau de se déplacer verticalement. Pour cela, j'ai utilisé un tissu avec de l'alcool afin de retirer les anciennes saletés et résidus.
 
 J'ai ensuite appliqué la graisse prévue pour la machine sur les vis afin d'assurer leur bon fonctionnement.
+
+<iframe width="560" height="315"
+src="https://youtu.be/pv_Pta3ASQk"
+frameborder="0" allowfullscreen>
+</iframe>
+*Vidéo nettoyage de l'imprimante*
 
 Une fois la maintenance terminée, j'ai indiqué à l'imprimante que l'opération avait été réalisée. J'ai ensuite rangé le matériel utilisé et éliminé les déchets produits pendant l'opération.
 
@@ -177,9 +178,12 @@ Pour réaliser cette impression, il fallait d'abord séparer le modèle en plusi
 
 J'ai sélectionné les différentes lettres afin de leur attribuer une couleur spécifique, puis j'ai choisi une autre couleur pour le reste de la pièce.
 
-![Préparation de l'impression multicolore](../assets/images/semaine8/impression-multicolore.jpg)
+![Préparation de l'impression multicolore](../images/semaine8/multicouleur.jpg)
+*Impression multicouleur*
 
-*Préparation d'une [impression multicolore](../Explication/Definitions.md#impression-multicolore).*
+![Préparation de l'impression multicolore](../images/timelapse_texte_rapahel.mp4)
+*Timelapse impression multicouleur*
+
 
 L'impression a été réalisée avec l'[AMS](../Explication/Definitions.md#ams) de la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon). Il s'agissait de ma première expérience avec une [impression multicolore](../Explication/Definitions.md#impression-multicolore).
 
@@ -190,10 +194,6 @@ Cette expérience m'a permis de mettre en pratique les connaissances que j'avais
 Pour terminer la mission de conception de la boîte à déchets, j'ai lancé son impression.
 
 L'impression étant particulièrement longue, avec une durée prévue d'environ sept heures, je ne pourrai pas observer directement la fin de la fabrication puisque mon stage se termine à ce moment-là. Alban devra donc vérifier le résultat final de l'impression et me transmettre une photo afin de confirmer que la pièce a correctement été fabriquée. 
-
-![Lancement de l'impression de la boîte](../assets/images/semaine8/lancement-impression.jpg)
-
-*Lancement de l'impression finale de la boîte à déchets.*
 
 L'après-midi, nous nous sommes rendus à la Machinerie à Amiens afin de réaliser nos ESS (des journées associatives obligatoires). La Machinerie est est aussi un FATLAB avec d'autres machines que le makerspace. Cette visite nous à permis d'utiliser les compétences acquises au [Makerspace](../Explication/Definitions.md#makerspace).
 J'ai pu revoir Alban dans l'après midi et il m'a dit que la partie gauche de la boite c'était bien imprimée mais que la partie droite à rencontrer un défaut d'impression, elle a commencé à faire des spaghettis (à ne plus suivre son tracé mais à quand meme imprimer ce qui donne l'impression que observe des spaghettis) à la toutes fins de l'impression. 

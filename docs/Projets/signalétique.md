@@ -27,11 +27,11 @@ Chaque lettre pouvait ainsi être sélectionnée indépendamment afin de lui att
 
 Le reste du panneau pouvait ensuite recevoir une autre couleur.
 
-## Utilisation de l'AMS
+## Utilisation de l'[AMS](../Explication/Definitions.md#ams)
 
-L'impression a été réalisée avec la Bambu Lab X1 Carbon et son [AMS](../Explication/Definitions.md#ams).
+L'impression a été réalisée avec la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon) et son [AMS](../Explication/Definitions.md#ams).
 
-L'AMS permet de charger plusieurs bobines de filament et de sélectionner automatiquement la couleur nécessaire pendant l'impression.
+L'[AMS](../Explication/Definitions.md#ams) permet de charger plusieurs bobines de filament et de sélectionner automatiquement la couleur nécessaire pendant l'impression.
 
 ![Panneau en impression multicolore](../assets/images/projet-signaletique/panneau-multicolore.jpg)
 
@@ -42,5 +42,3 @@ L'AMS permet de charger plusieurs bobines de filament et de sélectionner automa
 Cette mission m'a permis de participer à la fabrication d'un élément de signalétique tout en découvrant concrètement l'impression multicolore.
 
 Même si je n'ai pas réalisé la conception complète du panneau, cette mission m'a permis de comprendre comment préparer un modèle afin de pouvoir attribuer différentes couleurs à ses éléments.
-
-

@@ -26,7 +26,13 @@ Une autre imprimante Bambu Lab a également rencontré un défaut d'impression. 
 
 *Mauvais engagement du filament dans la buse.*
 
-J'ai également suivi un tutoriel expliquant la procédure correcte de chargement du [filament](../Explication/Definitions.md#filament) sur les [imprimantes 3D](../Explication/Definitions.md#imprimante-3d). Cette étape m'a permis de mieux comprendre les manipulations à effectuer afin d'éviter ce type de problème. 
+J'ai également suivi un tutoriel expliquant la procédure correcte de chargement du [filament](../Explication/Definitions.md#filament) sur les [imprimantes 3D](../Explication/Definitions.md#imprimante-3d). Cette étape m’a permis de mieux comprendre les manipulations à effectuer afin d’éviter les problèmes, ainsi que l’importance d’une bonne documentation pour gagner du temps et limiter les erreurs.
+
+<iframe width="560" height="315"
+src="https://youtu.be/ztb8f34oo7U"
+frameborder="0" allowfullscreen>
+</iframe>
+*Vidéo remettre une bobine de filament*
 
 En parallèle, la fabrication de nouveaux bacs et de nouvelles grilles a commencé pour équiper un second tiroir de rangement.
 
@@ -39,6 +45,10 @@ Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisé
 ![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
 
 *Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
+
+![X1 Carbon](../images/timelaspeboite.mp4)
+
+*Timelasp X1 Carbon*
 
 Une fois cette série terminée, le premier tiroir pouvait être considéré comme presque achevé. Il ne restait plus qu'à installer les vis dans les différents bacs puis à terminer leur étiquetage avant de commencer l'organisation du second tiroir, destiné aux vis de plus grande taille.
 

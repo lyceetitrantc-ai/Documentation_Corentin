@@ -9,7 +9,7 @@ title: Réorganisation de la zone de stockage
 
 ## Besoin
 
-La zone de stockage du Makerspace était difficile à utiliser car le matériel n'était pas toujours rangé à un emplacement précis. Certains objets étaient éparpillés, certaines armoires contenaient du matériel qui n'était plus utilisé et plusieurs composants n'étaient pas rangés dans la salle où ils étaient réellement utilisés.
+La zone de stockage du [Makerspace](../Explication/Definitions.md#makerspace) était difficile à utiliser car le matériel n'était pas toujours rangé à un emplacement précis. Certains objets étaient éparpillés, certaines armoires contenaient du matériel qui n'était plus utilisé et plusieurs composants n'étaient pas rangés dans la salle où ils étaient réellement utilisés.
 
 Le rangement des petites pièces, notamment des vis, des écrous et des résistances électroniques, devait également être amélioré afin de pouvoir retrouver rapidement un composant.
 
@@ -23,7 +23,7 @@ Une partie importante du projet consistait à utiliser le système [Gridfinity](
 
 J'ai commencé par observer les différentes salles et les problèmes de rangement présents dans chacune d'elles.
 
-Dans la salle de stockage j'ai proposé de mettre des étiquettes à l'endroit où chaque objet doit être rangé. Une autre idée était d'utiliser des images avec différentes couleurs pour identifier les différents niveaux des armoires mais je n'est la pas mis en place car les étiquettes servait déjà à palier à ce problème.
+Dans la salle de stockage j'ai proposé de mettre des étiquettes à l'endroit où chaque objet doit être rangé. Une autre idée était d'utiliser des images avec différentes couleurs pour identifier les différents niveaux des armoires mais je ne l'ai pas mise en place car les étiquettes servaient déjà à palier à ce problème.
 
 Les petites pièces devaient être regroupées dans des boîtes afin d'éviter qu'elles soient mélangées ou éparpillées.
 
@@ -41,11 +41,11 @@ Les cartons et emballages inutiles ont également été regroupés afin de garde
 
 J'ai également participé au déplacement de matériel entre différentes salles.
 
-La servante provenant du Resin Lab devait être déplacée dans la zone de stockage. Cette servante contenait notamment des tiroirs permettant de ranger différentes petites pièces. Elle contenait aussi les résistances du makerspace.
+La servante provenant du Resin Lab devait être déplacée dans la zone de stockage. Cette servante contenait notamment des tiroirs permettant de ranger différentes petites pièces. Elle contenait aussi les résistances du [Makerspace](../Explication/Definitions.md#makerspace).
 
 ## Mise en place de Gridfinity
 
-Pour améliorer le rangement des petites pièces, j’ai utilisé le système [Gridfinity](../Explication/Definitions.md#gridfinity). Plusieurs solutions étaient envisageables, mais [Gridfinity](../Explication/Definitions.md#gridfinity) reste le système le plus rentable. On aurait pu commander des armoires sur mesure, mais cela aurait coûté très cher. Comme nous sommes dans un makerspace et que nous avons la chance d’avoir une salle d’impression 3D, autant l’utiliser ! Cela nous permet de mettre à profit les imprimantes et le matériel que nous possédons déjà pour équiper la servante.
+Pour améliorer le rangement des petites pièces, j’ai utilisé le système [Gridfinity](../Explication/Definitions.md#gridfinity). Plusieurs solutions étaient envisageables, mais [Gridfinity](../Explication/Definitions.md#gridfinity) reste le système le plus rentable. On aurait pu commander des armoires sur mesure, mais cela aurait coûté très cher. Comme nous sommes dans un [Makerspace](../Explication/Definitions.md#makerspace) et que nous avons la chance d’avoir une salle d’impression 3D, autant l’utiliser ! Cela nous permet de mettre à profit les imprimantes et le matériel que nous possédons déjà pour équiper la servante.
 
 J'ai commencé par prendre les dimensions du tiroir destiné aux vis et aux écrous. Le tiroir mesurait 76,2 cm de longueur, 53,5 cm de largeur et environ 9,8 cm de hauteur.
 
@@ -55,11 +55,11 @@ Cependant, toute la surface du tiroir ne pouvait pas être utilisée. Une partie
 
 La surface réellement utilisable était donc de 76,2 cm par 46,7 cm.
 
-Avec les dimensions du système Gridfinity, un carré correspond à environ 4,2 cm. J'ai donc calculé que le tiroir pouvait accueillir une grille de 18 carrés sur la longueur et 11 carrés sur la largeur utilisable.
+Avec les dimensions du système [Gridfinity](../Explication/Definitions.md#gridfinity), un carré correspond à environ 4,2 cm. J'ai donc calculé que le tiroir pouvait accueillir une grille de 18 carrés sur la longueur et 11 carrés sur la largeur utilisable.
 
 ## Adaptation aux capacités de l'imprimante
 
-La grille devait être imprimée avec une Bambu Lab A1 Mini. Son plateau étant relativement petit, je ne pouvais pas imprimer toute la grille en une seule pièce.
+La grille devait être imprimée avec une [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini). Son plateau étant relativement petit, je ne pouvais pas imprimer toute la grille en une seule pièce.
 
 J'ai donc divisé la grille en plusieurs parties compatibles avec la taille du plateau.
 
@@ -80,7 +80,7 @@ J'ai notamment comparé les hauteurs 1U, 4U et 8U. J'ai finalement choisi la hau
 
 J'ai ensuite imprimé les boîtes nécessaires pour ranger les différentes vis et les écrous.
 
-Pour les grandes quantités de composants, j'ai utilisé la Bambu Lab P1P et la Bambu Lab X1 Carbon afin d'augmenter la vitesse de production.
+Pour les grandes quantités de composants, j'ai utilisé la [Bambu Lab P1P](../Explication/Imprimante.md#bambu-lab-p1p) et la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon) afin d'augmenter la vitesse de production.
 
 ## Étiquetage et logique de rangement
 
@@ -94,7 +94,7 @@ L'objectif final est que chaque type de composant possède un emplacement préci
 
 Cette organisation a permis de transformer progressivement les tiroirs en un système de rangement structuré.
 
-Les grilles Gridfinity permettent de maintenir les boîtes en place tandis que les étiquettes permettent d'identifier leur contenu.
+Les grilles [Gridfinity](../Explication/Definitions.md#gridfinity) permettent de maintenir les boîtes en place tandis que les étiquettes permettent d'identifier leur contenu.
 
 Le projet a également permis de commencer à mettre en place une logique plus générale pour la zone de stockage : chaque objet doit avoir un emplacement défini et les pièces doivent être regroupées dans des contenants adaptés.
 
@@ -109,4 +109,3 @@ Le projet a également permis de commencer à mettre en place une logique plus g
 Ce projet m'a permis de développer mes compétences en organisation, en prise de mesures, en conception de rangement et en impression 3D.
 
 J'ai également appris à adapter une conception aux contraintes physiques d'un espace et aux dimensions du plateau d'une imprimante.
-

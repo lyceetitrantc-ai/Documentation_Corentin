@@ -17,29 +17,21 @@ Cette septième semaine de stage a été principalement consacrée à la documen
 
 Cette journée a principalement été consacrée à l'ajout des photos de la deuxième semaine sur le site. Cette opération a été plus compliquée que prévu en raison de problèmes de transfert de fichiers. La connexion Internet était également mauvaise, ce qui a rendu le transfert des photos vers le Drive plus difficile.
 
-![Ajout des photos de la semaine 2](../assets/images/semaine7/photos-semaine2.jpg)
-
-*Ajout des photos de la deuxième semaine sur le site.*
-
 En parallèle, une nouvelle mission nous a été présentée : réaliser des panneaux permettant d'identifier les différentes salles du [Makerspace](../Explication/Definitions.md#makerspace).
 
 Nous avons commencé à réfléchir à la manière de concevoir ces panneaux afin qu'ils puissent être adaptés aux différentes salles. L'idée était notamment de créer plusieurs éléments pouvant ensuite être assemblés ou modifiés selon les besoins.
 
 Pour cela, nous avons réfléchi à l'utilisation de [Onshape](../Explication/Definitions.md#onshape), afin de concevoir les différentes pièces nécessaires à la réalisation des panneaux.
 
-![Exemple de panneau pour le RepairSpace](../assets/images/semaine7/panneau-repairspace.jpg)
+![Exemple de panneau pour le RepairSpace](../images/semaine7/panneau-repairspace.jpg)
 
-*Exemple de panneau prévu pour le RepairSpace.*
+*Exemple de panneau qui était déjà présent au RepairSpace.*
 
 Cette mission permet également de poursuivre la réflexion sur l'identification des espaces du [Makerspace](../Explication/Definitions.md#makerspace). Des panneaux clairement visibles doivent permettre aux utilisateurs de comprendre rapidement dans quelle salle ils se trouvent et quelles activités peuvent y être réalisées.
 
 # Jour 32 – Documentation du stage et préparation de la soutenance
 
 Cette journée a été consacrée à la poursuite de la documentation. J'ai terminé l'ajout des photos disponibles sur le site afin d'illustrer les différentes semaines du stage.
-
-![Site avec les photos du stage](../assets/images/semaine7/site-photos.jpg)
-
-*Évolution du site après l'ajout des différentes photographies.*
 
 Une fois cette partie terminée, nous avons commencé à réfléchir à la préparation de la soutenance blanche prévue pour la fin de la semaine.
 
@@ -65,15 +57,11 @@ La journée a été consacrée à la finalisation du diaporama avec Raphaël en 
 
 Nous avons organisé la présentation afin de présenter nos projets, notre contexte de stage, les différentes missions réalisées ainsi que les projets secondaires auxquels nous avons participé.
 
-![Diaporama de la soutenance](../assets/images/semaine7/diaporama.jpg)
-
-*Préparation du diaporama de la soutenance blanche.*
-
 Nous avons également réfléchi à la manière de présenter les informations à l'oral. Le diaporama devait servir de support à notre présentation et non simplement contenir tout le contenu que nous souhaitions expliquer.
 
 La préparation nous a donc permis de sélectionner les informations importantes et de réfléchir à l'ordre dans lequel elles seraient présentées.
 
-[**Télécharger le diaporama de la soutenance blanche**](../assets/fichiers/soutenance-blanche.pdf)
+**Accéder au diaporama de la soutenance blanche** : https://drive.google.com/drive/folders/1FsHaT8JB92UPuR40Ry8X-RaV0kLaUSr_?usp=sharing (le fichier étant trop volumineux pour github j'ai du mettre un lien pour un google drive)
 
 # Jour 35 – Soutenance blanche et axes d'amélioration
 
@@ -94,10 +82,6 @@ La présentation de [GitHub](../Explication/Definitions.md#github) devra égalem
 Enfin, nous avons reçu plusieurs remarques concernant la présentation visuelle du diaporama. Certaines diapositives étaient trop chargées. Il serait préférable de répartir les informations sur plusieurs diapositives afin de pouvoir expliquer davantage de choses à l'oral sans surcharger l'écran.
 
 Nous devons également faire attention aux [tics de langage](../Explication/Definitions.md#tic-de-langage) pendant la présentation. Ces habitudes peuvent rendre le discours moins clair et moins professionnel. Il faudra donc faire attention à notre manière de parler lors de la soutenance finale.
-
-![Soutenance blanche](../assets/images/semaine7/soutenance-blanche.jpg)
-
-*Présentation lors de la soutenance blanche.*
 
 ---
 

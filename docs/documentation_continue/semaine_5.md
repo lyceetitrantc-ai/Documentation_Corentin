@@ -125,6 +125,14 @@ Pour dessouder les composants, j’ai utilisé un fer à souder ainsi qu’une p
 ![Composants](../images/semaine5/recuperation_composants.jpg)
 *Composants électroniques récupérés*
 
+<iframe width="560" height="315"
+src="https://youtu.be/Qb2znR-DyyU"
+frameborder="0" allowfullscreen>
+</iframe>
+*Vidéo brasage*
+
+PS : la vidéo est très mal cadré mais c'était pour éviter d'abimer mon téléphone lors de l'éxecution de cette tâche 
+
 # Jour 24 : Télétravail
 
 Aujourd'hui, j'étais en télétravail. J'en ai profité pour avancer sur la documentation de mon site. J'ai rédigé et mis en ligne la **semaine 4** de la documentation continue, en reprenant les différentes tâches réalisées au cours de cette semaine et en les organisant de manière claire afin de garder un suivi régulier de mon stage.

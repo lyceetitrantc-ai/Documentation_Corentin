@@ -11,7 +11,7 @@ Au cours de mon stage, j'ai eu l'occasion de découvrir et d'utiliser plusieurs 
 
 ## Bambu Lab A1 Mini {#bambu-lab-a1-mini}
 
-![Photo de la Bambu Lab A1 Mini](images/a1mini.jpg)
+![Photo de la Bambu Lab A1 Mini](../images/semaine7/Bambulab_mini.jpg)
 
 La Bambu Lab A1 Mini est une imprimante 3D compacte particulièrement adaptée aux petites pièces. Son principal avantage est sa simplicité d'utilisation ainsi que sa rapidité de mise en œuvre.
 
@@ -29,7 +29,7 @@ La Bambu Lab A1 Mini est une imprimante 3D compacte particulièrement adaptée a
 
 ## Bambu Lab P1P {#bambu-lab-p1p}
 
-![Photo de la Bambu Lab P1P](images/p1p.jpg)
+![Photo de la Bambu Lab P1P](../images/semaine7/p1p.jpg)
 
 La Bambu Lab P1P est une imprimante performante permettant de produire rapidement des pièces de grande taille. Elle a été particulièrement utile pour imprimer plusieurs bacs Gridfinity en une seule fois.
 
@@ -46,7 +46,7 @@ La Bambu Lab P1P est une imprimante performante permettant de produire rapidemen
 
 ## Bambu Lab X1 Carbon {#bambu-lab-x1-carbon}
 
-![Photo de la Bambu Lab X1 Carbon](images/x1carbon.jpg)
+![Photo de la Bambu Lab X1 Carbon](../images/semaine2/x1carbon.jpg)
 
 La Bambu Lab X1 Carbon est une imprimante haut de gamme intégrant de nombreuses fonctionnalités avancées. Elle est conçue pour offrir une excellente qualité d'impression et une grande fiabilité.
 
@@ -63,9 +63,9 @@ La Bambu Lab X1 Carbon est une imprimante haut de gamme intégrant de nombreuses
 
 ## Imprimantes Artillery {#imprimantes-artillery}
 
-![Photo d'une imprimante Artillery](images/artillery.jpg)
+![Photo d'une imprimante Artillery](../images/semaine7/artillery.jpg)
 
-Les imprimantes Artillery présentes au Makerspace permettent également la fabrication de pièces en impression 3D. Elles constituent une alternative intéressante aux imprimantes Bambu Lab.
+Les imprimantes Artillery présentes au Makerspace permettent également la fabrication de pièces en impression 3D. Elles constituent une alternative intéressante aux imprimantes Bambu Lab. Elles n'utilisent pas de PLA mais du TPU. 
 
 ### Avantages
 
