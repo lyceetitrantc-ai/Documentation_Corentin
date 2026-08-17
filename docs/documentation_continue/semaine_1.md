@@ -11,7 +11,7 @@ nav_order: 1
 
 ## Introduction de la semaine
 
-Cette première semaine de stage a été consacrée à la découverte du Makerspace, à l'analyse de l'organisation des différents espaces et à la mise en place d'un projet d'amélioration du rangement. Une grande partie du travail a porté sur la préparation d'un système de stockage modulaire basé sur [Gridfinity](../Explication/Definitions.md#gridfinity) afin d'optimiser le rangement des vis et des petites pièces.
+Cette première semaine de stage a été consacrée à la découverte du [Makerspace](../Explication/Definitions.md#makerspace), à l'analyse de l'organisation des différents espaces et à la mise en place d'un projet d'amélioration du rangement. Une grande partie du travail a porté sur la préparation d'un système de stockage modulaire basé sur [Gridfinity](../Explication/Definitions.md#gridfinity) afin d'optimiser le rangement des vis et des petites pièces.
 
 
 ---
@@ -22,7 +22,7 @@ Nous avons commencé le stage un mardi et pour la documentation pour que sa soit
 
 # Jour 2 – Observation et analyse des espaces et découverte de Gridfinity et tri du matériel
 
-Pour cette première journée, ma mission consistait à observer les différentes salles du Makerspace afin d'identifier les problèmes de rangement et de proposer des solutions d'amélioration.
+Pour cette première journée, ma mission consistait à observer les différentes salles du [Makerspace](../Explication/Definitions.md#makerspace) afin d'identifier les problèmes de rangement et de proposer des solutions d'amélioration.
 
 Dans la salle résine, j'ai remarqué que plusieurs objets n'avaient pas d'emplacement clairement défini. Cela peut entraîner une perte de temps lors des recherches de matériel et rendre le rangement plus difficile. J'ai donc proposé la mise en place d'étiquettes ou de zones dédiées afin que chaque objet dispose d'une place précise. J'ai également constaté qu'un rappel plus visible des règles de sécurité pourrait être bénéfique pour les utilisateurs.
 
@@ -37,7 +37,7 @@ J'ai ensuite étudié la nouvelle salle de stockage. Plusieurs pistes d'amélior
 
 *Salle de stockage*
 
-D'autres améliorations ont été envisagées, comme l'installation de supports sous certaines tables pour stocker les bobines de [filament](../Explication/Definitions.md#filament) ou encore le déplacement de certains matériaux vers des salles plus adaptées à leur utilisation. Par exemple, les composants électroniques pourraient être regroupés dans le RepairSpace tandis que les planches de bois pourraient être stockées à proximité des découpeuses laser dans l'OpenLab.
+D'autres améliorations ont été envisagées, comme l'installation de [supports](../Explication/Definitions.md#supports) sous certaines tables pour stocker les bobines de [filament](../Explication/Definitions.md#filament) ou encore le déplacement de certains matériaux vers des salles plus adaptées à leur utilisation. Par exemple, les composants électroniques pourraient être regroupés dans le RepairSpace tandis que les planches de bois pourraient être stockées à proximité des [découpeuses laser](../Explication/Definitions.md#decoupeuse-laser) dans l'OpenLab.
 
 J'ai également visité la salle de bureau et la salle destinée à devenir un futur espace de travail. Dans cette dernière, j'ai constaté que l'agencement actuel rendait difficile la circulation d'une personne en fauteuil roulant. Une réorganisation de l'espace sera nécessaire afin de conserver un accès conforme aux besoins des personnes à mobilité réduite et des services de secours.
 
@@ -90,9 +90,9 @@ J'ai également installé et configuré [OrcaSlicer](../Explication/Definitions.
 
 *OrcaSlicer*
 
-Au cours de cette journée, j'ai aussi pris connaissance de la documentation disponible pour les machines. Les guides d'utilisation, accessibles grâce à des QR codes placés sur les équipements, constituent une ressource très utile pour apprendre rapidement à utiliser les différents outils du Makerspace.
+Au cours de cette journée, j'ai aussi pris connaissance de la documentation disponible pour les machines. Les guides d'utilisation, accessibles grâce à des QR codes placés sur les équipements, constituent une ressource très utile pour apprendre rapidement à utiliser les différents outils du [Makerspace](../Explication/Definitions.md#makerspace).
 
-J'ai enfin pu redécouvrir le parc d'imprimantes 3D du Makerspace, comprenant notamment les [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini), les [Bambu Lab P1P](../Explication/Imprimante.md#bambu-lab-p1p), la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon) ainsi que plusieurs [imprimantes Artillery](../Explication/Imprimante.md#imprimantes-artillery). 
+J'ai enfin pu redécouvrir le parc d'[imprimantes 3D](../Explication/Definitions.md#imprimante-3d) du [Makerspace](../Explication/Definitions.md#makerspace), comprenant notamment les [Bambu Lab A1 Mini](../Explication/Imprimante.md#bambu-lab-a1-mini), les [Bambu Lab P1P](../Explication/Imprimante.md#bambu-lab-p1p), la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon) ainsi que plusieurs [imprimantes Artillery](../Explication/Imprimante.md#imprimantes-artillery). 
 
 # Jour 4 – Impression des grilles et choix des bacs
 
@@ -104,7 +104,7 @@ Une fois toutes les pièces terminées, j'ai pu vérifier leur assemblage dans l
 
 *Grille Gridfinity*
 
-J'ai ensuite réalisé plusieurs essais afin de déterminer la hauteur de bacs la plus adaptée aux besoins du Makerspace. Différentes tailles standard ont été testées afin de comparer leur capacité de rangement et leur facilité d'utilisation.
+J'ai ensuite réalisé plusieurs essais afin de déterminer la hauteur de bacs la plus adaptée aux besoins du [Makerspace](../Explication/Definitions.md#makerspace). Différentes tailles standard ont été testées afin de comparer leur capacité de rangement et leur facilité d'utilisation.
 
 À l'issue de ces essais, j'ai choisi d'utiliser des bacs de hauteur 8U. Cette solution offre un bon compromis entre capacité de stockage et modularité. Elle permet notamment de stocker une quantité importante de vis tout en conservant suffisamment d'espace pour ajouter d'autres bacs au-dessus sans empêcher la fermeture du tiroir.
 
@@ -112,7 +112,7 @@ J'ai ensuite réalisé plusieurs essais afin de déterminer la hauteur de bacs l
 
 Les jours suivants ont été principalement consacrés à l'impression des différents bacs qui composeront le futur système de rangement.
 
-Les impressions se sont déroulées sans difficulté particulière et ont permis de produire progressivement l'ensemble des éléments nécessaires au projet. Cette phase m'a permis de me familiariser davantage avec le fonctionnement des imprimantes 3D ainsi qu'avec la gestion de séries d'impressions sur plusieurs jours.
+Les impressions se sont déroulées sans difficulté particulière et ont permis de produire progressivement l'ensemble des éléments nécessaires au projet. Cette phase m'a permis de me familiariser davantage avec le fonctionnement des [imprimantes 3D](../Explication/Definitions.md#imprimante-3d) ainsi qu'avec la gestion de séries d'impressions sur plusieurs jours.
 
 Au fur et à mesure de l'avancement, il a été possible de visualiser l'organisation future du tiroir et de vérifier que les dimensions choisies répondaient bien aux besoins de stockage des vis et des petites pièces.
 
@@ -124,7 +124,7 @@ Au fur et à mesure de l'avancement, il a été possible de visualiser l'organis
 
 # Bilan de la semaine
 
-Cette première semaine m'a permis de découvrir le fonctionnement général du Makerspace ainsi que les différents espaces qui le composent. J'ai participé à l'analyse de plusieurs problématiques de rangement et proposé différentes pistes d'amélioration visant à rendre les espaces plus pratiques et plus sécurisés.
+Cette première semaine m'a permis de découvrir le fonctionnement général du [Makerspace](../Explication/Definitions.md#makerspace) ainsi que les différents espaces qui le composent. J'ai participé à l'analyse de plusieurs problématiques de rangement et proposé différentes pistes d'amélioration visant à rendre les espaces plus pratiques et plus sécurisés.
 
 J'ai également découvert le système [Gridfinity](../Explication/Definitions.md#gridfinity), appris à utiliser [OrcaSlicer](../Explication/Definitions.md#orcaslicer) et réalisé mes premières impressions dans le cadre d'un projet concret. Les différents tests effectués ont permis de valider la conception du futur système de rangement, dont la mise en place se poursuivra au cours des prochaines semaines.
 

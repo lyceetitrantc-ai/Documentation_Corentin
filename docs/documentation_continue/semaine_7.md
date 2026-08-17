@@ -112,3 +112,4 @@ La préparation de la soutenance blanche m'a surtout permis de prendre du recul 
 Enfin, les difficultés rencontrées lors de la préparation du diaporama m'ont permis de mieux comprendre l'importance de la communication dans un travail en équipe. Savoir expliquer une idée est important, mais savoir écouter, reformuler et demander de l'aide lorsqu'une incompréhension apparaît l'est tout autant.
 
 
+

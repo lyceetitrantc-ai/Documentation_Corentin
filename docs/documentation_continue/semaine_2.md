@@ -9,13 +9,13 @@ title: semaine 2
 
 ## Introduction de la semaine
 
-Cette deuxième semaine de stage a principalement été consacrée à la poursuite de l'impression des bacs de rangement destinés au système [Gridfinity](../Explication/Definitions.md#gridfinity). Cette phase de production m'a permis de découvrir davantage le fonctionnement des imprimantes 3D du Makerspace ainsi que certaines problématiques courantes rencontrées lors des impressions. J'ai également participé à la mise en place d'un site web destiné au suivi quotidien des activités réalisées pendant le stage.
+Cette deuxième semaine de stage a principalement été consacrée à la poursuite de l'impression des bacs de rangement destinés au système [Gridfinity](../Explication/Definitions.md#gridfinity). Cette phase de production m'a permis de découvrir davantage le fonctionnement des [imprimantes 3D](../Explication/Definitions.md#imprimante-3d) du [Makerspace](../Explication/Definitions.md#makerspace) ainsi que certaines problématiques courantes rencontrées lors des impressions. J'ai également participé à la mise en place d'un site web destiné au suivi quotidien des activités réalisées pendant le stage.
 
 ---
 
 # Début de semaine (Jour : 5 à 8) – Impression des bacs
 
-Les premiers jours de la semaine ont été consacrés à la poursuite de l'impression des différents bacs de rangement conçus pour organiser les vis, écrous et autres petites pièces du Makerspace.
+Les premiers jours de la semaine ont été consacrés à la poursuite de l'impression des différents bacs de rangement conçus pour organiser les vis, écrous et autres petites pièces du [Makerspace](../Explication/Definitions.md#makerspace).
 
 Les impressions se sont déroulées sans difficulté particulière. Cette phase a permis d'avancer efficacement dans la production des éléments nécessaires au projet et de compléter progressivement le système de rangement commencé la semaine précédente.
 
@@ -25,25 +25,25 @@ Les impressions se sont déroulées sans difficulté particulière. Cette phase 
 
 # Jour 9 – Gestion d'un échec d'impression et découverte de nouvelles notions
 
-Au cours de cette journée, j'ai rencontré mon premier véritable problème d'impression. Alors qu'une impression était en cours, l'imprimante s'est retrouvée à court de filament. J'ai donc procédé au remplacement de la bobine en suivant la procédure prévue à cet effet.
+Au cours de cette journée, j'ai rencontré mon premier véritable problème d'impression. Alors qu'une impression était en cours, l'imprimante s'est retrouvée à court de [filament](../Explication/Definitions.md#filament). J'ai donc procédé au remplacement de la bobine en suivant la procédure prévue à cet effet.
 
-Après avoir chargé le nouveau filament et effectué une extrusion de test, tout semblait fonctionner correctement. J'ai alors relancé l'impression. Cependant, quelques secondes plus tard, je me suis aperçu que le filament n'était pas correctement déposé sur la pièce. J'ai donc interrompu l'impression et relancé la procédure de chargement du filament.
+Après avoir chargé le nouveau [filament](../Explication/Definitions.md#filament) et effectué une [extrusion](../Explication/Definitions.md#extrusion) de test, tout semblait fonctionner correctement. J'ai alors relancé l'impression. Cependant, quelques secondes plus tard, je me suis aperçu que le [filament](../Explication/Definitions.md#filament) n'était pas correctement déposé sur la pièce. J'ai donc interrompu l'impression et relancé la procédure de chargement du [filament](../Explication/Definitions.md#filament).
 
-Même si l'impression a pu reprendre, une couche manquait déjà sur la pièce. Cette différence a créé un défaut structurel. Les variations de température entre les différentes couches ont provoqué un mauvais collage du plastique, ce qui a entraîné un décalage progressif de l'impression et finalement son échec. Cette expérience m'a permis de mieux comprendre l'importance de la continuité du dépôt de matière lors d'une impression 3D.
+Même si l'impression a pu reprendre, une couche manquait déjà sur la pièce. Cette différence a créé un défaut structurel. Les variations de température entre les différentes couches ont provoqué un mauvais collage du plastique, ce qui a entraîné un décalage progressif de l'impression et finalement son échec. Cette expérience m'a permis de mieux comprendre l'importance de la continuité du dépôt de matière lors d'une [impression 3D](../Explication/Definitions.md#impression-3d).
 
 ![Impression ratée après changement de filament](../images/semaine2/impression-ratee-filament.jpg)
 
 *Figure 2 : Échec d'impression causé par l'absence d'une couche après le changement de filament.*
 
-Cette journée m'a également permis d'apprendre plusieurs notions théoriques importantes. J'ai notamment découvert le phénomène de [warping](../Explication/Definitions.md#warping). Celui-ci apparaît lorsqu'une pièce refroidit de manière inégale : la base reste chaude grâce au plateau chauffant tandis que les couches supérieures refroidissent plus rapidement. Cette différence de température provoque des contraintes dans le plastique qui peuvent soulever les coins de la pièce et déformer l'impression.
+Cette journée m'a également permis d'apprendre plusieurs notions théoriques importantes. J'ai notamment découvert le phénomène de [warping](../Explication/Definitions.md#warping). Celui-ci apparaît lorsqu'une pièce refroidit de manière inégale : la base reste chaude grâce au [plateau chauffant](../Explication/Definitions.md#plateau-chauffant) tandis que les couches supérieures refroidissent plus rapidement. Cette différence de température provoque des contraintes dans le plastique qui peuvent soulever les coins de la pièce et déformer l'impression.
 
 ![Exemple de warping](../images/semaine2/warping.jpg)
 
 *Figure 3 : Exemple de warping observé sur une pièce imprimée.*
 
-J'ai aussi appris le rôle du ventilateur de refroidissement présent sur les imprimantes 3D. Celui-ci permet de refroidir rapidement le filament après son extrusion afin de garantir une meilleure qualité d'impression. Il est particulièrement utile lors de la réalisation de [bridges](../Explication/Definitions.md#bridge-pont), où le filament doit être déposé dans le vide entre deux points d'appui sans s'affaisser.
+J'ai aussi appris le rôle du ventilateur de refroidissement présent sur les [imprimantes 3D](../Explication/Definitions.md#imprimante-3d). Celui-ci permet de refroidir rapidement le [filament](../Explication/Definitions.md#filament) après son [extrusion](../Explication/Definitions.md#extrusion) afin de garantir une meilleure qualité d'impression. Il est particulièrement utile lors de la réalisation de [bridges](../Explication/Definitions.md#bridge-pont), où le [filament](../Explication/Definitions.md#filament) doit être déposé dans le vide entre deux points d'appui sans s'affaisser.
 
-En parallèle, nous avons commencé à mettre en place un site web permettant de réaliser un reporting quotidien des activités du stage. Ce site est hébergé à l'aide de GitHub et servira à documenter l'ensemble des travaux effectués au fil des semaines.
+En parallèle, nous avons commencé à mettre en place un site web permettant de réaliser un reporting quotidien des activités du stage. Ce site est hébergé à l'aide de [GitHub](../Explication/Definitions.md#github) et servira à documenter l'ensemble des travaux effectués au fil des semaines.
 
 # Jour 10 – Production de grands bacs et découverte de nouveaux équipements
 
@@ -51,7 +51,7 @@ L'objectif de cette journée était de poursuivre la création du système de ra
 
 Après avoir commencé à remplir les premiers bacs avec des vis et des écrous, nous avons constaté que certains composants étaient présents en grande quantité. Afin d'éviter de répartir un même type de vis dans plusieurs contenants différents, j'ai décidé d'imprimer des bacs plus grands afin de centraliser le stockage de chaque référence.
 
-Pour gagner du temps, j'ai utilisé une [Bambu Lab P1P](../Explication/Imprimante.md#bambu-lab-p1p). Son plateau d'impression étant plus grand que celui de la Bambu Lab A1 Mini, elle permet de produire davantage de pièces en une seule impression et d'accélérer la fabrication des bacs.
+Pour gagner du temps, j'ai utilisé une [Bambu Lab P1P](../Explication/Definitions.md#bambu-lab-p1p). Son plateau d'impression étant plus grand que celui de la [Bambu Lab A1 Mini](../Explication/Definitions.md#bambu-lab-a1-mini), elle permet de produire davantage de pièces en une seule impression et d'accélérer la fabrication des bacs.
 
 ![Bambu Lab P1P](../images/semaine2/p1p.png)
 
@@ -63,21 +63,21 @@ Une fois les impressions terminées, nous avons commencé à étiqueter les diff
 
 *Figure 7 : Étiquetage des bacs afin de faciliter le rangement des composants.*
 
-Au cours de la journée, j'ai également observé un problème technique sur l'une des imprimantes P1P. Lors de la phase de purge du filament, le plastique fondu restait parfois collé à la buse au lieu d'être correctement évacué. Ce phénomène pouvait provoquer une mauvaise alimentation en filament ou perturber le début de l'impression.
+Au cours de la journée, j'ai également observé un problème technique sur l'une des imprimantes P1P. Lors de la phase de [purge](../Explication/Definitions.md#purge) du [filament](../Explication/Definitions.md#filament), le plastique fondu restait parfois collé à la [buse](../Explication/Definitions.md#buse) au lieu d'être correctement évacué. Ce phénomène pouvait provoquer une mauvaise alimentation en [filament](../Explication/Definitions.md#filament) ou perturber le début de l'impression.
 
 ![PLA collé à la buse](../images/semaine2/purge-buse.jpg)
 
 *Figure 8 : Le PLA reste parfois collé à la buse après la purge, ce qui peut provoquer des défauts d'impression.*
 
-Dans certains cas, le filament utilisé pour les lignes de test restait également accroché à la buse. Cela pouvait entraîner un décalage du dépôt de matière ou gêner les premiers mouvements de la tête d'impression, ce qui augmentait les risques d'échec.
+Dans certains cas, le [filament](../Explication/Definitions.md#filament) utilisé pour les lignes de test restait également accroché à la [buse](../Explication/Definitions.md#buse). Cela pouvait entraîner un décalage du dépôt de matière ou gêner les premiers mouvements de la tête d'impression, ce qui augmentait les risques d'échec.
 
 ![Problème de ligne de test](../images/semaine2/ligne-test.jpg)
 
 *Figure 9 : Exemple d'une ligne de test restée accrochée à la buse.*
 
-Après réflexion, le problème lié à la ligne de test qui restait accrochée à la buse était lié au plateau. Le plateau n'étant pas nettoyé et la personne précédente ayant utilisé de la colle, le filament n'adhérait pas au plateau et restait sur la buse. Après avoir réglé ce problème, le problème lié à la purge qui restait accrochée à la buse persistait. C'était parce que le filament était mal inséré : il ne faisait chauffer qu'une petite partie du filament, ce qui faisait en sorte que la buse ne sortait pas assez de plastique, donc ça n'adhérait pas au plateau et ça s'accrochait à la buse.
+Après réflexion, le problème lié à la ligne de test qui restait accrochée à la [buse](../Explication/Definitions.md#buse) était lié au plateau. Le plateau n'étant pas nettoyé et la personne précédente ayant utilisé de la colle, le [filament](../Explication/Definitions.md#filament) n'adhérait pas au plateau et restait sur la [buse](../Explication/Definitions.md#buse). Après avoir réglé ce problème, le problème lié à la [purge](../Explication/Definitions.md#purge) qui restait accrochée à la [buse](../Explication/Definitions.md#buse) persistait. C'était parce que le [filament](../Explication/Definitions.md#filament) était mal inséré : il ne faisait chauffer qu'une petite partie du [filament](../Explication/Definitions.md#filament), ce qui faisait en sorte que la [buse](../Explication/Definitions.md#buse) ne sortait pas assez de plastique, donc ça n'adhérait pas au plateau et ça s'accrochait à la [buse](../Explication/Definitions.md#buse).
 
-Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](Explication/Imprimantes/#bambu-lab-x1-carbon). Cette machine plus avancée m'a permis de découvrir un autre type d'imprimante 3D ainsi que ses fonctionnalités spécifiques.
+Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](../Explication/Definitions.md#bambu-lab-x1-carbon). Cette machine plus avancée m'a permis de découvrir un autre type d'[imprimante 3D](../Explication/Definitions.md#imprimante-3d) ainsi que ses fonctionnalités spécifiques.
 
 ![Bambu Lab X1 Carbon](../images/semaine2/x1carbon.jpg)
 
@@ -89,9 +89,6 @@ Enfin, j'ai eu l'occasion d'utiliser une [Bambu Lab X1 Carbon](Explication/Impri
 
 Cette deuxième semaine m'a permis d'avancer significativement dans la réalisation du système de rangement Gridfinity. La majorité des bacs nécessaires a été imprimée et les premières opérations de classement des vis et des écrous ont pu commencer.
 
-J'ai également approfondi mes connaissances sur le fonctionnement des imprimantes 3D en découvrant plusieurs phénomènes techniques tels que le [warping](../Explication/Definitions.md#warping), le refroidissement du filament ou encore les causes possibles d'échec d'impression. L'utilisation de différentes machines du Makerspace, notamment les [Bambu Lab P1P](../Explication/Imprimante.md#bambu-lab-p1p) et [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon), m'a permis d'élargir mon expérience pratique de l'impression 3D.
+J'ai également approfondi mes connaissances sur le fonctionnement des [imprimantes 3D](../Explication/Definitions.md#imprimante-3d) en découvrant plusieurs phénomènes techniques tels que le [warping](../Explication/Definitions.md#warping), le refroidissement du [filament](../Explication/Definitions.md#filament) ou encore les causes possibles d'échec d'impression. L'utilisation de différentes machines du [Makerspace](../Explication/Definitions.md#makerspace), notamment les [Bambu Lab P1P](../Explication/Definitions.md#bambu-lab-p1p) et [Bambu Lab X1 Carbon](../Explication/Definitions.md#bambu-lab-x1-carbon), m'a permis d'élargir mon expérience pratique de l'[impression 3D](../Explication/Definitions.md#impression-3d).
 
 Enfin, la mise en place d'un site web de suivi quotidien constitue une étape importante pour documenter le travail réalisé tout au long du stage.
-
-
-
