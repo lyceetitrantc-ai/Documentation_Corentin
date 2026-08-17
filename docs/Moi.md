@@ -8,17 +8,13 @@ title: Apprentissages et suite
 
 ## Une expérience professionnelle concrète
 
-Ce stage m'a permis de découvrir concrètement le fonctionnement d'un environnement professionnel et de participer à des projets qui avaient une réelle utilité pour le Makerspace.
+Ce stage m'a permis de découvrir concrètement le fonctionnement d'un environnement professionnel dans une petite entreprise et de participer à des projets qui avaient une réelle utilité pour le Makerspace.
 
 Ce que j'ai particulièrement apprécié est le fait de ne pas avoir uniquement réalisé des tâches isolées. J'ai pu suivre des projets sur plusieurs étapes, réfléchir aux problèmes rencontrés, chercher des solutions, les tester puis améliorer mes réalisations.
 
 J'ai notamment adoré pouvoir réaliser un projet **de A à Z**. Pour le projet de rangement, je suis parti d'un besoin concret : améliorer l'organisation du stockage. J'ai ensuite réfléchi à une solution, pris les mesures, recherché des modèles, préparé les fichiers, réalisé les impressions, rencontré des problèmes, trouvé des solutions, organisé les composants puis réfléchi à la manière d'expliquer le système aux autres utilisateurs.
 
 Cette manière de travailler m'a particulièrement plu car je pouvais voir directement le résultat de mon travail.
-
-![Réalisation du projet](../assets/images/moi/projet.jpg)
-
-*Une partie des réalisations effectuées pendant le stage.*
 
 ## Ce que j'ai appris professionnellement
 

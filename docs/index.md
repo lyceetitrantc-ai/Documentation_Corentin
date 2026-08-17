@@ -5,6 +5,8 @@ title: Accueil
 permalink: /
 ---
 
+![Salle d'impression 3D](./images/bachelor.jpg)
+
 # Bienvenue sur le site de la documentation de mon stage au Makerspace
 
 ## Présentation du Makerspace
@@ -14,6 +16,8 @@ Le **Makerspace** est un espace de fabrication et de création qui met à dispos
 Parmi les équipements disponibles, on retrouve notamment différentes **imprimantes 3D**, ainsi que du matériel permettant de travailler sur différents types de projets. Le Makerspace constitue donc un environnement dans lequel il est possible d'expérimenter, d'apprendre et de développer des projets en utilisant directement les machines et les ressources mises à disposition.
 
 Vous pourrez trouver plus d'informations sur comment est agancée le makerspace sur cette page : [makerspace](objectifs.md).
+
+![Salle d'impression 3D](./images/adrien.jpg)
 
 ## Pourquoi ai-je choisi ce stage ?
 

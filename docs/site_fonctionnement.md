@@ -4,6 +4,8 @@ nav_order: 3
 title: Organisation du Site Web
 ---
 
+<img src="./images/bonus/direction.png" alt="logo" width="200">
+
 # Organisation du site
 
 Le site est organisé en plusieurs parties afin de permettre une navigation simple entre les différents contenus.

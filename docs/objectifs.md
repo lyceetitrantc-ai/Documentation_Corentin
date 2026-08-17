@@ -8,7 +8,7 @@ title: Makerspace
 
 ## Un espace pour réaliser ses projets
 
-Le Makerspace est un espace qui permet de passer d'une idée à une réalisation concrète. Il met à disposition différents espaces, machines et outils permettant de travailler sur des projets très variés. Le principe est de pouvoir choisir le matériel adapté en fonction de ce que l'on souhaite réaliser.
+Le Makerspace est un espace qui permet de passer d'une idée à une réalisation concrète crée par Adrien BRAQ. Il met à disposition différents espaces, machines et outils permettant de travailler sur des projets très variés. Le principe est de pouvoir choisir le matériel adapté en fonction de ce que l'on souhaite réaliser.
 
 Dans mon stage, j'ai notamment pu utiliser plusieurs espaces du Makerspace pour réaliser mes différentes missions. Chaque salle possède des équipements spécifiques et permet de répondre à un besoin différent.
 
@@ -26,10 +26,6 @@ C'est dans cette salle que j'ai réalisé une grande partie de mon projet de ran
 
 L'impression 3D permet donc de créer rapidement une pièce adaptée à un besoin précis et de modifier le modèle si le premier résultat ne convient pas.
 
-![Salle d'impression 3D](../assets/images/makerspace/impression-3d.jpg)
-
-*Salle dédiée à l'impression 3D.*
-
 ## Le Resin Lab
 
 Le Resin Lab est l'espace dédié à l'impression 3D utilisant de la résine. Il permet de réaliser des pièces avec un autre procédé que les imprimantes 3D à filament.
@@ -37,10 +33,6 @@ Le Resin Lab est l'espace dédié à l'impression 3D utilisant de la résine. Il
 Cette salle possède également du matériel et des espaces de stockage spécifiques à cette méthode de fabrication.
 
 Lors de mon stage, j'ai notamment travaillé sur la réorganisation de cette salle et sur le déplacement de la servante contenant du matériel, afin d'améliorer l'organisation de la zone de stockage.
-
-![Resin Lab](../assets/images/makerspace/resin-lab.jpg)
-
-*Resin Lab.*
 
 ## La salle d'électronique
 
@@ -50,21 +42,13 @@ On y trouve notamment le matériel nécessaire pour réaliser du brasage et asse
 
 C'est notamment dans cet espace que j'ai pu découvrir la récupération de composants sur une carte électronique et apprendre à utiliser le matériel nécessaire pour les dessouder.
 
-![Salle d'électronique](../assets/images/makerspace/electronique.jpg)
-
-*Salle dédiée à l'électronique.*
-
-## La salle des découpeuses laser
+## La salle des découpeuses laser (Mechalab)
 
 La salle des découpeuses laser permet de travailler à partir de matériaux en plaques afin de réaliser des pièces découpées ou gravées.
 
 Cette machine est particulièrement intéressante lorsqu'une pièce doit être fabriquée dans un matériau comme le bois. Elle permet donc de compléter l'impression 3D, puisque toutes les pièces d'un projet ne sont pas forcément adaptées à l'impression.
 
 Lors de mon stage, Raphaël a notamment utilisé la découpeuse laser pour réaliser les pièces nécessaires à la fixation des portes-bobines.
-
-![Salle des découpeuses laser](../assets/images/makerspace/decoupeuses-laser.jpg)
-
-*Salle des découpeuses laser.*
 
 ## Le MediaLab
 
@@ -74,18 +58,9 @@ Cet espace peut être utilisé pour documenter un projet, réaliser une présent
 
 J'ai notamment eu l'occasion de travailler autour de cet espace lors de la remise en place des mousses acoustiques.
 
-![MediaLab](../assets/images/makerspace/medialab.jpg)
-
-*MediaLab.*
-
 ## L'association Unimakers
 
 Le Makerspace accueille également l'association **Unimakers**, qui travaille notamment sur la conception et la fabrication de robots destinés à participer à des compétitions de robotique.
-
-![Unimakers et les robots](../assets/images/makerspace/unimakers.jpg)
-
-*Projet de robotique réalisé par Unimakers.*
-
 
 ## Un espace adapté à chaque projet
 
