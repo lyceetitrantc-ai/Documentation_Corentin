@@ -189,10 +189,6 @@ J'ai sélectionné les différentes lettres afin de leur attribuer une couleur s
 ![Préparation de l'impression multicolore](../images/semaine8/multicouleur.jpg)
 *Impression multicouleur*
 
-![Préparation de l'impression multicolore](../images/timelapse_texte_rapahel.mp4)
-*Timelapse impression multicouleur*
-
-
 L'impression a été réalisée avec l'[AMS](../Explication/Definitions.md#ams) de la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon). Il s'agissait de ma première expérience avec une [impression multicolore](../Explication/Definitions.md#impression-multicolore).
 
 Cette expérience m'a permis de mettre en pratique les connaissances que j'avais acquises précédemment sur le fonctionnement de l'[AMS](../Explication/Definitions.md#ams) et sur les changements de [filament](../Explication/Definitions.md#filament) nécessaires lors d'une [impression multicolore](../Explication/Definitions.md#impression-multicolore).

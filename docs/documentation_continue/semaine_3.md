@@ -46,7 +46,7 @@ Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisé
 
 *Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
 
-![X1 Carbon](../images/timelaspeboite.mp4)
+![X1 Carbon](../images/bonus/timelaspe.x1carbon2.mp4)
 *Timelasp X1 Carbon*
 
 Une fois cette série terminée, le premier tiroir pouvait être considéré comme presque achevé. Il ne restait plus qu'à installer les vis dans les différents bacs puis à terminer leur étiquetage avant de commencer l'organisation du second tiroir, destiné aux vis de plus grande taille.

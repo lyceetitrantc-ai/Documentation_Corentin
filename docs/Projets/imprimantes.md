@@ -37,7 +37,7 @@ La première couche est particulièrement importante car elle doit correctement 
 
 Les couches suivantes sont ensuite déposées au-dessus des précédentes jusqu'à obtenir la pièce complète.
 
-![X1 Carbon](../images/timelaspeboite.mp4)
+![X1 Carbon](../images/bonus/timelaspe.x1carbon2.mp4)
 
 *Impression 3d*
 
