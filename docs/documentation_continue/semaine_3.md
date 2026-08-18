@@ -46,9 +46,6 @@ Pour optimiser le temps de fabrication, plusieurs imprimantes ont été utilisé
 
 *Utilisation simultanée de plusieurs imprimantes pour optimiser la production.*
 
-![X1 Carbon](../images/bonus/timelaspe.x1carbon2.mp4)
-*Timelasp X1 Carbon*
-
 Une fois cette série terminée, le premier tiroir pouvait être considéré comme presque achevé. Il ne restait plus qu'à installer les vis dans les différents bacs puis à terminer leur étiquetage avant de commencer l'organisation du second tiroir, destiné aux vis de plus grande taille.
 
 Au cours de cette journée, une Bambu Lab A1 Mini a rencontré un nouveau défaut d'impression. La différence de température entre le [plateau chauffant](../Explication/Definitions.md#plateau-chauffant) et le haut de la pièce à fait gonfler le milieu des bords ce qui à les à courbé et à force de se courber les bords se sont décollés du plateau au cours de l'impression. Ce phénomène correspond au [warping](../Explication/Definitions.md#warping), qui a provoqué une déformation de la pièce jusqu'à entraîner l'échec de l'impression.

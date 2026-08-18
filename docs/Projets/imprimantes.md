@@ -37,10 +37,6 @@ La première couche est particulièrement importante car elle doit correctement 
 
 Les couches suivantes sont ensuite déposées au-dessus des précédentes jusqu'à obtenir la pièce complète.
 
-![X1 Carbon](../images/bonus/timelaspe.x1carbon2.mp4)
-
-*Impression 3d*
-
 ## Changement de filament
 
 J'ai également appris à remplacer une bobine de [filament](../Explication/Definitions.md#filament) lorsqu'une imprimante n'avait plus de matière.
