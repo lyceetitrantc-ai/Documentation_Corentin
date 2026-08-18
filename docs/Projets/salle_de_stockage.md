@@ -9,7 +9,7 @@ title: Réorganisation de la zone de stockage
 
 ## Besoin
 
-La zone de stockage du [Makerspace](../Explication/Definitions.md#makerspace) était difficile à utiliser car le matériel n'était pas toujours rangé à un emplacement précis. Certains objets étaient éparpillés, certaines armoires contenaient du matériel qui n'était plus utilisé et plusieurs composants n'étaient pas rangés dans la salle où ils étaient réellement utilisés.
+La zone de stockage du [Makerspace](../Explication/Definitions.md#makerspace) n'était pas agréable à utiliser car le matériel n'était pas toujours rangé à un emplacement précis. Certains objets étaient éparpillés, certaines armoires contenaient du matériel qui n'était plus utilisé et plusieurs composants n'étaient pas rangés dans la salle où ils étaient réellement utilisés.
 
 Le rangement des petites pièces, notamment des vis, des écrous et des résistances électroniques, devait également être amélioré afin de pouvoir retrouver rapidement un composant.
 

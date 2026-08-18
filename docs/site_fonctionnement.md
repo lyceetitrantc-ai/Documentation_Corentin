@@ -10,9 +10,9 @@ title: Organisation du Site Web
 
 Le site est organisé en plusieurs parties afin de permettre une navigation simple entre les différents contenus.
 
-<span style="color: red;">Je vous conseille de commencer </span> par Acceuil -> Makerspace -> Documentation continue -> Projets -> Projet utilisation des imprimantes 3D -> Apprentissage et suite. 
+<span style="color: red;">Je vous conseille de commencer </span> par Accueil  -> Makerspace -> Matériel et Définition : Les bases du fonctionnement de l'impression 3D -> Documentation continue -> Projets -> Apprentissage et suite. 
 
-### Acceuil
+### Accueil 
 
 Vous trouverez une présentation de l'objectif du stage et son contexte.
 
@@ -47,6 +47,7 @@ Cette section regroupe les informations techniques utiles pour comprendre les di
 * des **définitions** des termes techniques utilisés ;
 * les **différents types d'imprimantes 3D** disponibles ;
 * les **différents types de plastiques** utilisés pour les impressions.
+* les **bases de l'impression 3D** pour mieux comprendre l'impression 3D. 
 
 L'objectif est de centraliser ces informations afin d'éviter de répéter les mêmes explications dans chaque projet et de permettre au lecteur de retrouver rapidement une définition ou une information technique.
 
