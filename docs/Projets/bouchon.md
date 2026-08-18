@@ -9,7 +9,7 @@ title: Bouchon pour tiges filetées
 
 ## Besoin
 
-Les tiges filetées devaient être stockées dans des tubes en plastique afin de faciliter leur rangement. Il fallait donc trouver une solution pour fermer l'extrémité des tubes et empêcher les tiges filetées de sortir.
+Les tiges filetées devaient être stockées dans des tubes en plastique afin de faciliter leur rangement. Il fallait donc trouver une solution pour fermer l'extrémité du tube et empêcher les tiges filetées de sortir.
 
 ## But du projet
 

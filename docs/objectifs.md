@@ -26,7 +26,7 @@ C'est dans cette salle que j'ai réalisé une grande partie de mon projet de ran
 
 L'impression 3D permet donc de créer rapidement une pièce adaptée à un besoin précis et de modifier le modèle si le premier résultat ne convient pas.
 
-![Plusieurs imprimantes en fonctionnement](../images/semaine3/imprimantes.gif)
+![Plusieurs imprimantes en fonctionnement](./images/semaine3/imprimantes.gif)
 
 ## Le Resin Lab
 
@@ -68,8 +68,8 @@ La salle de stockage est la partie du makerspace dédiée au rangement des bobin
 Des zones de stockage sont présentes dans chaque salle, mais l’intérêt de la salle de stockage est de garantir que nous ne manquons jamais de composants. On ne l’utilise que lorsque les éléments nécessaires ne sont plus disponibles dans les salles dédiées.
 Cela permet d’éviter toute rupture de stock, car si un composant n’est plus présent dans une salle, il faut alors procéder à une commande.
 
-![Photo salle stockage](../images/stockage.jpg)
-![Photo salle stockage](../images/stockage2.jpg)
+![Photo salle stockage](./images/stockage.jpg)
+![Photo salle stockage](./images/stockage2.jpg)
 
 ## L'association Unimakers
 

@@ -211,4 +211,4 @@ J'ai également appris à rechercher différentes orientations d'impression afin
 Cette mission m'a permis de découvrir une approche plus avancée de la conception pour l'[impression 3D](../Explication/Definitions.md#impression-3d).
 
 ![Armoire finis](../images/semaine5/armoire_gauche.jpg)
-*L'armoire *
+*Armoire finis*

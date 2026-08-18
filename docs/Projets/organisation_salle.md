@@ -55,4 +55,4 @@ La salle a été libérée d'une partie du matériel qui n'était plus nécessai
 Le matériel conservé a été regroupé dans une armoire afin de libérer l'espace et de préparer la future organisation de la salle.
 
 ![Salle après changement](../images/semaine4/rangement_salle_apres.jpg)
-*Salle après rangment*
+*Salle après rangement*

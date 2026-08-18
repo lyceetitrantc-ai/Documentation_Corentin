@@ -145,6 +145,7 @@ J'ai ensuite appliqué la graisse prévue pour la machine sur les vis.
 
 Une fois l'opération terminée, j'ai indiqué à l'imprimante que la maintenance avait été réalisée et j'ai rangé le matériel utilisé.
 
+<iframe width="560" height="315"
 src="https://www.youtube.com/embed/pv_Pta3ASQk"
 frameborder="0" allowfullscreen>
 </iframe>

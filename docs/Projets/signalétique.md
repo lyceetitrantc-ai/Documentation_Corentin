@@ -33,7 +33,7 @@ Chaque lettre pouvait ainsi être sélectionnée indépendamment afin de lui att
 
 Le reste du panneau pouvait ensuite recevoir une autre couleur.
 
-## Utilisation de l'[AMS](../Explication/Definitions.md#ams)
+## Utilisation de l'AMS
 
 L'impression a été réalisée avec la [Bambu Lab X1 Carbon](../Explication/Imprimante.md#bambu-lab-x1-carbon) et son [AMS](../Explication/Definitions.md#ams).
 

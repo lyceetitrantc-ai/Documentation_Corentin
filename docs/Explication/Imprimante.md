@@ -29,7 +29,8 @@ La Bambu Lab A1 Mini est une imprimante 3D compacte particulièrement adaptée a
 
 ## Bambu Lab P1P {#bambu-lab-p1p}
 
-![Photo de la Bambu Lab P1P](../images/semaine7/p1p.jpg)
+<img src="../images/semaine7/p1p.jpg" alt="Équipements de protection" width="350">
+*Équipements utilisés lors de la maintenance.*
 
 La Bambu Lab P1P est une imprimante performante permettant de produire rapidement des pièces de grande taille. Elle a été particulièrement utile pour imprimer plusieurs bacs Gridfinity en une seule fois.
 

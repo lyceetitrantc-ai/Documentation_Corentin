@@ -71,9 +71,7 @@ Au cours de la journée, j'ai également observé un problème technique sur l'u
 
 Dans certains cas, le [filament](../Explication/Definitions.md#filament) utilisé pour les lignes de test restait également accroché à la [buse](../Explication/Definitions.md#buse). Cela pouvait entraîner un décalage du dépôt de matière ou gêner les premiers mouvements de la tête d'impression, ce qui augmentait les risques d'échec.
 
-<img src="../images/semaine2/ligne-test.jpg" alt="Défaut d'impression" width="850" style="display: block; margin: 0 auto;">
-*Figure 8 : Pièce en 3d après l'utilisation d'un ébavureur*
-
+<img src="../images/semaine2/ligne-test.jpg" alt="Défaut d'impression" width="350" style="display: block; margin: 0 auto;">
 *Exemple d'une ligne de test restée accrochée à la buse.*
 
 Après réflexion, le problème lié à la ligne de test qui restait accrochée à la [buse](../Explication/Definitions.md#buse) était lié au plateau. Le plateau n'étant pas nettoyé et la personne précédente ayant utilisé de la colle, le [filament](../Explication/Definitions.md#filament) n'adhérait pas au plateau et restait sur la [buse](../Explication/Definitions.md#buse). Après avoir réglé ce problème, le problème lié à la [purge](../Explication/Definitions.md#purge) qui restait accrochée à la [buse](../Explication/Definitions.md#buse) persistait. C'était parce que le [filament](../Explication/Definitions.md#filament) était mal inséré : il ne faisait chauffer qu'une petite partie du [filament](../Explication/Definitions.md#filament), ce qui faisait en sorte que la [buse](../Explication/Definitions.md#buse) ne sortait pas assez de plastique, donc ça n'adhérait pas au plateau et ça s'accrochait à la [buse](../Explication/Definitions.md#buse).
